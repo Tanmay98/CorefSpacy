@@ -1,0 +1,4260 @@
+#begin document (coref); part 000
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(0
+coref	0	1	Constitution	-	-	-	-	-	-	-	-	-	-
+coref	0	2	of	-	-	-	-	-	-	-	-	-	-
+coref	0	3	India	-	-	-	-	-	-	-	-	-	-	0)
+coref	0	4	is	-	-	-	-	-	-	-	-	-	-
+coref	0	5	the	-	-	-	-	-	-	-	-	-	-
+coref	0	6	supreme	-	-	-	-	-	-	-	-	-	-
+coref	0	7	law	-	-	-	-	-	-	-	-	-	-
+coref	0	8	of	-	-	-	-	-	-	-	-	-	-
+coref	0	9	India.	-	-	-	-	-	-	-	-	-	-
+coref	0	10	The	-	-	-	-	-	-	-	-	-	-	(1
+coref	0	11	Karnataka	-	-	-	-	-	-	-	-	-	-
+coref	0	12	Land	-	-	-	-	-	-	-	-	-	-
+coref	0	13	Grabbing	-	-	-	-	-	-	-	-	-	-
+coref	0	14	Prohibition	-	-	-	-	-	-	-	-	-	-
+coref	0	15	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	16	2011	-	-	-	-	-	-	-	-	-	-	1)
+coref	0	17	is	-	-	-	-	-	-	-	-	-	-
+coref	0	18	an	-	-	-	-	-	-	-	-	-	-
+coref	0	19	act	-	-	-	-	-	-	-	-	-	-
+coref	0	20	to	-	-	-	-	-	-	-	-	-	-
+coref	0	21	provide	-	-	-	-	-	-	-	-	-	-
+coref	0	22	for	-	-	-	-	-	-	-	-	-	-
+coref	0	23	measures	-	-	-	-	-	-	-	-	-	-
+coref	0	24	to	-	-	-	-	-	-	-	-	-	-
+coref	0	25	curb	-	-	-	-	-	-	-	-	-	-
+coref	0	26	organized	-	-	-	-	-	-	-	-	-	-
+coref	0	27	attempts	-	-	-	-	-	-	-	-	-	-
+coref	0	28	to	-	-	-	-	-	-	-	-	-	-
+coref	0	29	grab	-	-	-	-	-	-	-	-	-	-
+coref	0	30	lands	-	-	-	-	-	-	-	-	-	-
+coref	0	31	belonging	-	-	-	-	-	-	-	-	-	-
+coref	0	32	to	-	-	-	-	-	-	-	-	-	-
+coref	0	33	the	-	-	-	-	-	-	-	-	-	-
+coref	0	34	Government.	-	-	-	-	-	-	-	-	-	-
+coref	0	35	This	-	-	-	-	-	-	-	-	-	-
+coref	0	36	writ	-	-	-	-	-	-	-	-	-	-
+coref	0	37	petition	-	-	-	-	-	-	-	-	-	-
+coref	0	38	is	-	-	-	-	-	-	-	-	-	-
+coref	0	39	filed	-	-	-	-	-	-	-	-	-	-
+coref	0	40	under	-	-	-	-	-	-	-	-	-	-
+coref	0	41	articles	-	-	-	-	-	-	-	-	-	-	(0
+coref	0	42	226	-	-	-	-	-	-	-	-	-	-
+coref	0	43	and	-	-	-	-	-	-	-	-	-	-
+coref	0	44	227	-	-	-	-	-	-	-	-	-	-	0)
+coref	0	45	of	-	-	-	-	-	-	-	-	-	-
+coref	0	46	the	-	-	-	-	-	-	-	-	-	-	(0
+coref	0	47	constitution	-	-	-	-	-	-	-	-	-	-
+coref	0	48	of	-	-	-	-	-	-	-	-	-	-
+coref	0	49	India	-	-	-	-	-	-	-	-	-	-	0)
+coref	0	50	praying	-	-	-	-	-	-	-	-	-	-
+coref	0	51	to	-	-	-	-	-	-	-	-	-	-
+coref	0	52	strike	-	-	-	-	-	-	-	-	-	-
+coref	0	53	down	-	-	-	-	-	-	-	-	-	-
+coref	0	54	the	-	-	-	-	-	-	-	-	-	-	(1
+coref	0	55	karnataka	-	-	-	-	-	-	-	-	-	-
+coref	0	56	land	-	-	-	-	-	-	-	-	-	-
+coref	0	57	grabbing	-	-	-	-	-	-	-	-	-	-
+coref	0	58	prohibition	-	-	-	-	-	-	-	-	-	-
+coref	0	59	act	-	-	-	-	-	-	-	-	-	-
+coref	0	60	of	-	-	-	-	-	-	-	-	-	-
+coref	0	61	2011	-	-	-	-	-	-	-	-	-	-	1)
+coref	0	62	as	-	-	-	-	-	-	-	-	-	-
+coref	0	63	the	-	-	-	-	-	-	-	-	-	-	(1
+coref	0	64	act	-	-	-	-	-	-	-	-	-	-	1)
+coref	0	65	is	-	-	-	-	-	-	-	-	-	-
+coref	0	66	unconstitutional	-	-	-	-	-	-	-	-	-	-
+coref	0	67	as	-	-	-	-	-	-	-	-	-	-
+coref	0	68	it	-	-	-	-	-	-	-	-	-	-	(1)
+coref	0	69	violates	-	-	-	-	-	-	-	-	-	-
+coref	0	70	the	-	-	-	-	-	-	-	-	-	-
+coref	0	71	petitioner's	-	-	-	-	-	-	-	-	-	-
+coref	0	72	right	-	-	-	-	-	-	-	-	-	-
+coref	0	73	for	-	-	-	-	-	-	-	-	-	-
+coref	0	74	a	-	-	-	-	-	-	-	-	-	-
+coref	0	75	free	-	-	-	-	-	-	-	-	-	-
+coref	0	76	and	-	-	-	-	-	-	-	-	-	-
+coref	0	77	fair	-	-	-	-	-	-	-	-	-	-
+coref	0	78	trial	-	-	-	-	-	-	-	-	-	-
+coref	0	79	guaranteed	-	-	-	-	-	-	-	-	-	-
+coref	0	80	under	-	-	-	-	-	-	-	-	-	-
+coref	0	81	article	-	-	-	-	-	-	-	-	-	-
+coref	0	82	21	-	-	-	-	-	-	-	-	-	-
+coref	0	83	of	-	-	-	-	-	-	-	-	-	-
+coref	0	84	constitution	-	-	-	-	-	-	-	-	-	-
+coref	0	85	of	-	-	-	-	-	-	-	-	-	-
+coref	0	86	India.	-	-	-	-	-	-	-	-	-	-
+coref	0	87		-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(2
+coref	0	1	Trade	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Marks	-	-	-	-	-	-	-	-	-	-
+coref	0	3	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	4	1999	-	-	-	-	-	-	-	-	-	-	2)
+coref	0	5	is	-	-	-	-	-	-	-	-	-	-
+coref	0	6	an	-	-	-	-	-	-	-	-	-	-
+coref	0	7	act	-	-	-	-	-	-	-	-	-	-
+coref	0	8	to	-	-	-	-	-	-	-	-	-	-
+coref	0	9	amend	-	-	-	-	-	-	-	-	-	-
+coref	0	10	and	-	-	-	-	-	-	-	-	-	-
+coref	0	11	consolidate	-	-	-	-	-	-	-	-	-	-
+coref	0	12	the	-	-	-	-	-	-	-	-	-	-
+coref	0	13	law	-	-	-	-	-	-	-	-	-	-
+coref	0	14	relating	-	-	-	-	-	-	-	-	-	-
+coref	0	15	to	-	-	-	-	-	-	-	-	-	-
+coref	0	16	trade	-	-	-	-	-	-	-	-	-	-
+coref	0	17	marks,	-	-	-	-	-	-	-	-	-	-
+coref	0	18	to	-	-	-	-	-	-	-	-	-	-
+coref	0	19	provide	-	-	-	-	-	-	-	-	-	-
+coref	0	20	for	-	-	-	-	-	-	-	-	-	-
+coref	0	21	registration	-	-	-	-	-	-	-	-	-	-
+coref	0	22	and	-	-	-	-	-	-	-	-	-	-
+coref	0	23	better	-	-	-	-	-	-	-	-	-	-
+coref	0	24	protection	-	-	-	-	-	-	-	-	-	-
+coref	0	25	of	-	-	-	-	-	-	-	-	-	-
+coref	0	26	trade	-	-	-	-	-	-	-	-	-	-
+coref	0	27	marks	-	-	-	-	-	-	-	-	-	-
+coref	0	28	for	-	-	-	-	-	-	-	-	-	-
+coref	0	29	goods	-	-	-	-	-	-	-	-	-	-
+coref	0	30	and	-	-	-	-	-	-	-	-	-	-
+coref	0	31	services	-	-	-	-	-	-	-	-	-	-
+coref	0	32	and	-	-	-	-	-	-	-	-	-	-
+coref	0	33	for	-	-	-	-	-	-	-	-	-	-
+coref	0	34	the	-	-	-	-	-	-	-	-	-	-
+coref	0	35	prevention	-	-	-	-	-	-	-	-	-	-
+coref	0	36	of	-	-	-	-	-	-	-	-	-	-
+coref	0	37	the	-	-	-	-	-	-	-	-	-	-
+coref	0	38	use	-	-	-	-	-	-	-	-	-	-
+coref	0	39	of	-	-	-	-	-	-	-	-	-	-
+coref	0	40	fraudulent	-	-	-	-	-	-	-	-	-	-
+coref	0	41	marks.	-	-	-	-	-	-	-	-	-	-
+coref	0	42	In	-	-	-	-	-	-	-	-	-	-
+coref	0	43	this	-	-	-	-	-	-	-	-	-	-
+coref	0	44	regard,	-	-	-	-	-	-	-	-	-	-
+coref	0	45	she	-	-	-	-	-	-	-	-	-	-
+coref	0	46	has	-	-	-	-	-	-	-	-	-	-
+coref	0	47	placed	-	-	-	-	-	-	-	-	-	-
+coref	0	48	reliance	-	-	-	-	-	-	-	-	-	-
+coref	0	49	on	-	-	-	-	-	-	-	-	-	-
+coref	0	50	Section	-	-	-	-	-	-	-	-	-	-	(2
+coref	0	51	17	-	-	-	-	-	-	-	-	-	-	2)
+coref	0	52	of	-	-	-	-	-	-	-	-	-	-
+coref	0	53	the	-	-	-	-	-	-	-	-	-	-	(2
+coref	0	54	Trade	-	-	-	-	-	-	-	-	-	-
+coref	0	55	Marks	-	-	-	-	-	-	-	-	-	-
+coref	0	56	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	57	1999	-	-	-	-	-	-	-	-	-	-	2)
+coref	0	58	which	-	-	-	-	-	-	-	-	-	-
+coref	0	59	reads	-	-	-	-	-	-	-	-	-	-
+coref	0	60	as	-	-	-	-	-	-	-	-	-	-
+coref	0	61	follows	-	-	-	-	-	-	-	-	-	-
+coref	0	62	Notwithstanding	-	-	-	-	-	-	-	-	-	-
+coref	0	63	anything	-	-	-	-	-	-	-	-	-	-
+coref	0	64	contained	-	-	-	-	-	-	-	-	-	-
+coref	0	65	in	-	-	-	-	-	-	-	-	-	-
+coref	0	66	sub-section	-	-	-	-	-	-	-	-	-	-
+coref	0	67	(1),	-	-	-	-	-	-	-	-	-	-
+coref	0	68	when	-	-	-	-	-	-	-	-	-	-
+coref	0	69	a	-	-	-	-	-	-	-	-	-	-
+coref	0	70	trade	-	-	-	-	-	-	-	-	-	-
+coref	0	71	mark.	-	-	-	-	-	-	-	-	-	-
+coref	0	72	on	-	-	-	-	-	-	-	-	-	-
+coref	0	73	record	-	-	-	-	-	-	-	-	-	-
+coref	0	74	prima	-	-	-	-	-	-	-	-	-	-
+coref	0	75	facie	-	-	-	-	-	-	-	-	-	-
+coref	0	76	suggest,	-	-	-	-	-	-	-	-	-	-
+coref	0	77	has	-	-	-	-	-	-	-	-	-	-
+coref	0	78	its	-	-	-	-	-	-	-	-	-	-
+coref	0	79	own	-	-	-	-	-	-	-	-	-	-
+coref	0	80	distinctive	-	-	-	-	-	-	-	-	-	-
+coref	0	81	market.	-	-	-	-	-	-	-	-	-	-
+coref	0	82	The	-	-	-	-	-	-	-	-	-	-
+coref	0	83	case	-	-	-	-	-	-	-	-	-	-
+coref	0	84	law	-	-	-	-	-	-	-	-	-	-
+coref	0	85	in	-	-	-	-	-	-	-	-	-	-
+coref	0	86	India,	-	-	-	-	-	-	-	-	-	-
+coref	0	87	on	-	-	-	-	-	-	-	-	-	-
+coref	0	88	dilution	-	-	-	-	-	-	-	-	-	-
+coref	0	89	-	-	-	-	-	-	-	-	-	-	-
+coref	0	90	mostly	-	-	-	-	-	-	-	-	-	-
+coref	0	91	pertaining	-	-	-	-	-	-	-	-	-	-
+coref	0	92	to	-	-	-	-	-	-	-	-	-	-
+coref	0	93	the	-	-	-	-	-	-	-	-	-	-
+coref	0	94	situation	-	-	-	-	-	-	-	-	-	-
+coref	0	95	existing	-	-	-	-	-	-	-	-	-	-
+coref	0	96	prior	-	-	-	-	-	-	-	-	-	-
+coref	0	97	to	-	-	-	-	-	-	-	-	-	-
+coref	0	98	Section	-	-	-	-	-	-	-	-	-	-
+coref	0	99	29	-	-	-	-	-	-	-	-	-	-
+coref	0	100	(4)	-	-	-	-	-	-	-	-	-	-
+coref	0	101	has	-	-	-	-	-	-	-	-	-	-
+coref	0	102	hinged	-	-	-	-	-	-	-	-	-	-
+coref	0	103	round	-	-	-	-	-	-	-	-	-	-
+coref	0	104	comparison	-	-	-	-	-	-	-	-	-	-
+coref	0	105	of	-	-	-	-	-	-	-	-	-	-
+coref	0	106	competing	-	-	-	-	-	-	-	-	-	-
+coref	0	107	word	-	-	-	-	-	-	-	-	-	-
+coref	0	108	marks,	-	-	-	-	-	-	-	-	-	-
+coref	0	109	which	-	-	-	-	-	-	-	-	-	-
+coref	0	110	have	-	-	-	-	-	-	-	-	-	-
+coref	0	111	their	-	-	-	-	-	-	-	-	-	-
+coref	0	112	peculiarities.	-	-	-	-	-	-	-	-	-	-
+coref	0	113		-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(3
+coref	0	1	Designs	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	3	2000	-	-	-	-	-	-	-	-	-	-	3)
+coref	0	4	is	-	-	-	-	-	-	-	-	-	-
+coref	0	5	an	-	-	-	-	-	-	-	-	-	-
+coref	0	6	Act	-	-	-	-	-	-	-	-	-	-
+coref	0	7	to	-	-	-	-	-	-	-	-	-	-
+coref	0	8	consolidate	-	-	-	-	-	-	-	-	-	-
+coref	0	9	and	-	-	-	-	-	-	-	-	-	-
+coref	0	10	amend	-	-	-	-	-	-	-	-	-	-
+coref	0	11	the	-	-	-	-	-	-	-	-	-	-
+coref	0	12	law	-	-	-	-	-	-	-	-	-	-
+coref	0	13	relating	-	-	-	-	-	-	-	-	-	-
+coref	0	14	to	-	-	-	-	-	-	-	-	-	-
+coref	0	15	protection	-	-	-	-	-	-	-	-	-	-
+coref	0	16	of	-	-	-	-	-	-	-	-	-	-
+coref	0	17	designs.	-	-	-	-	-	-	-	-	-	-
+coref	0	18	The	-	-	-	-	-	-	-	-	-	-
+coref	0	19	plaintiff	-	-	-	-	-	-	-	-	-	-
+coref	0	20	claimed	-	-	-	-	-	-	-	-	-	-
+coref	0	21	that	-	-	-	-	-	-	-	-	-	-
+coref	0	22	the	-	-	-	-	-	-	-	-	-	-
+coref	0	23	shape	-	-	-	-	-	-	-	-	-	-
+coref	0	24	and	-	-	-	-	-	-	-	-	-	-
+coref	0	25	configuration	-	-	-	-	-	-	-	-	-	-
+coref	0	26	of	-	-	-	-	-	-	-	-	-	-
+coref	0	27	its	-	-	-	-	-	-	-	-	-	-
+coref	0	28	bottle	-	-	-	-	-	-	-	-	-	-
+coref	0	29	was	-	-	-	-	-	-	-	-	-	-
+coref	0	30	unique,	-	-	-	-	-	-	-	-	-	-
+coref	0	31	novel	-	-	-	-	-	-	-	-	-	-
+coref	0	32	and	-	-	-	-	-	-	-	-	-	-
+coref	0	33	original	-	-	-	-	-	-	-	-	-	-
+coref	0	34	and	-	-	-	-	-	-	-	-	-	-
+coref	0	35	was,	-	-	-	-	-	-	-	-	-	-
+coref	0	36	accordingly,	-	-	-	-	-	-	-	-	-	-
+coref	0	37	registered	-	-	-	-	-	-	-	-	-	-
+coref	0	38	under	-	-	-	-	-	-	-	-	-	-
+coref	0	39	the	-	-	-	-	-	-	-	-	-	-	(3
+coref	0	40	Designs	-	-	-	-	-	-	-	-	-	-
+coref	0	41	Act	-	-	-	-	-	-	-	-	-	-	3)
+coref	0	42	The	-	-	-	-	-	-	-	-	-	-
+coref	0	43	plaintiff	-	-	-	-	-	-	-	-	-	-
+coref	0	44	claimed	-	-	-	-	-	-	-	-	-	-
+coref	0	45	that	-	-	-	-	-	-	-	-	-	-
+coref	0	46	the	-	-	-	-	-	-	-	-	-	-
+coref	0	47	green	-	-	-	-	-	-	-	-	-	-
+coref	0	48	cap	-	-	-	-	-	-	-	-	-	-
+coref	0	49	put	-	-	-	-	-	-	-	-	-	-
+coref	0	50	over	-	-	-	-	-	-	-	-	-	-
+coref	0	51	the	-	-	-	-	-	-	-	-	-	-
+coref	0	52	bottle	-	-	-	-	-	-	-	-	-	-
+coref	0	53	was	-	-	-	-	-	-	-	-	-	-
+coref	0	54	also	-	-	-	-	-	-	-	-	-	-
+coref	0	55	unique	-	-	-	-	-	-	-	-	-	-
+coref	0	56	and	-	-	-	-	-	-	-	-	-	-
+coref	0	57	was	-	-	-	-	-	-	-	-	-	-
+coref	0	58	also	-	-	-	-	-	-	-	-	-	-
+coref	0	59	registered	-	-	-	-	-	-	-	-	-	-
+coref	0	60	under	-	-	-	-	-	-	-	-	-	-
+coref	0	61	the	-	-	-	-	-	-	-	-	-	-
+coref	0	62	Designs	-	-	-	-	-	-	-	-	-	-
+coref	0	63	Act.	-	-	-	-	-	-	-	-	-	-
+coref	0	64		-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(5
+coref	0	1	Copyright	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	3	1958	-	-	-	-	-	-	-	-	-	-	5)
+coref	0	4		-	-	-	-	-	-	-	-	-	-
+coref	0	5	is	-	-	-	-	-	-	-	-	-	-
+coref	0	6	an	-	-	-	-	-	-	-	-	-	-
+coref	0	7	Act	-	-	-	-	-	-	-	-	-	-
+coref	0	8	to	-	-	-	-	-	-	-	-	-	-
+coref	0	9	amend	-	-	-	-	-	-	-	-	-	-
+coref	0	10	and	-	-	-	-	-	-	-	-	-	-
+coref	0	11	consolidate	-	-	-	-	-	-	-	-	-	-
+coref	0	12	the	-	-	-	-	-	-	-	-	-	-
+coref	0	13	law	-	-	-	-	-	-	-	-	-	-
+coref	0	14	relating	-	-	-	-	-	-	-	-	-	-
+coref	0	15	to	-	-	-	-	-	-	-	-	-	-
+coref	0	16	copyright.	-	-	-	-	-	-	-	-	-	-
+coref	0	17	The	-	-	-	-	-	-	-	-	-	-
+coref	0	18	next	-	-	-	-	-	-	-	-	-	-
+coref	0	19	question,	-	-	-	-	-	-	-	-	-	-
+coref	0	20	however,	-	-	-	-	-	-	-	-	-	-
+coref	0	21	which	-	-	-	-	-	-	-	-	-	-
+coref	0	22	is	-	-	-	-	-	-	-	-	-	-
+coref	0	23	more	-	-	-	-	-	-	-	-	-	-
+coref	0	24	important	-	-	-	-	-	-	-	-	-	-
+coref	0	25	is	-	-	-	-	-	-	-	-	-	-
+coref	0	26	whether	-	-	-	-	-	-	-	-	-	-
+coref	0	27	the	-	-	-	-	-	-	-	-	-	-
+coref	0	28	plaintiff	-	-	-	-	-	-	-	-	-	-
+coref	0	29	can	-	-	-	-	-	-	-	-	-	-
+coref	0	30	combine	-	-	-	-	-	-	-	-	-	-
+coref	0	31	the	-	-	-	-	-	-	-	-	-	-
+coref	0	32	two	-	-	-	-	-	-	-	-	-	-
+coref	0	33	causes	-	-	-	-	-	-	-	-	-	-
+coref	0	34	of	-	-	-	-	-	-	-	-	-	-
+coref	0	35	action,	-	-	-	-	-	-	-	-	-	-
+coref	0	36	one	-	-	-	-	-	-	-	-	-	-
+coref	0	37	under	-	-	-	-	-	-	-	-	-	-
+coref	0	38	the	-	-	-	-	-	-	-	-	-	-	(5
+coref	0	39	Copyright	-	-	-	-	-	-	-	-	-	-
+coref	0	40	Act	-	-	-	-	-	-	-	-	-	-	5)
+coref	0	41	and	-	-	-	-	-	-	-	-	-	-
+coref	0	42	the	-	-	-	-	-	-	-	-	-	-
+coref	0	43	second	-	-	-	-	-	-	-	-	-	-
+coref	0	44	under	-	-	-	-	-	-	-	-	-	-
+coref	0	45	the	-	-	-	-	-	-	-	-	-	-	(5
+coref	0	46	Act	-	-	-	-	-	-	-	-	-	-
+coref	0	47	of	-	-	-	-	-	-	-	-	-	-
+coref	0	48	1958	-	-	-	-	-	-	-	-	-	-	5)
+coref	0	49	in	-	-	-	-	-	-	-	-	-	-
+coref	0	50	a	-	-	-	-	-	-	-	-	-	-
+coref	0	51	situation	-	-	-	-	-	-	-	-	-	-
+coref	0	52	where	-	-	-	-	-	-	-	-	-	-
+coref	0	53	this	-	-	-	-	-	-	-	-	-	-
+coref	0	54	Court	-	-	-	-	-	-	-	-	-	-
+coref	0	55	has	-	-	-	-	-	-	-	-	-	-
+coref	0	56	the	-	-	-	-	-	-	-	-	-	-
+coref	0	57	jurisdiction	-	-	-	-	-	-	-	-	-	-
+coref	0	58	insofar	-	-	-	-	-	-	-	-	-	-
+coref	0	59	as	-	-	-	-	-	-	-	-	-	-
+coref	0	60	cause	-	-	-	-	-	-	-	-	-	-
+coref	0	61	of	-	-	-	-	-	-	-	-	-	-
+coref	0	62	action	-	-	-	-	-	-	-	-	-	-
+coref	0	63	under	-	-	-	-	-	-	-	-	-	-
+coref	0	64	the	-	-	-	-	-	-	-	-	-	-	(5
+coref	0	65	Copyright	-	-	-	-	-	-	-	-	-	-
+coref	0	66	Act	-	-	-	-	-	-	-	-	-	-	5)
+coref	0	67	is	-	-	-	-	-	-	-	-	-	-
+coref	0	68	concerned	-	-	-	-	-	-	-	-	-	-
+coref	0	69	but	-	-	-	-	-	-	-	-	-	-
+coref	0	70	has	-	-	-	-	-	-	-	-	-	-
+coref	0	71	no	-	-	-	-	-	-	-	-	-	-
+coref	0	72	territorial	-	-	-	-	-	-	-	-	-	-
+coref	0	73	jurisdiction	-	-	-	-	-	-	-	-	-	-
+coref	0	74	to	-	-	-	-	-	-	-	-	-	-
+coref	0	75	entertain	-	-	-	-	-	-	-	-	-	-
+coref	0	76	the	-	-	-	-	-	-	-	-	-	-
+coref	0	77	cause	-	-	-	-	-	-	-	-	-	-
+coref	0	78	of	-	-	-	-	-	-	-	-	-	-
+coref	0	79	action	-	-	-	-	-	-	-	-	-	-
+coref	0	80	relating	-	-	-	-	-	-	-	-	-	-
+coref	0	81	to	-	-	-	-	-	-	-	-	-	-
+coref	0	82	the	-	-	-	-	-	-	-	-	-	-	(5
+coref	0	83	Act	-	-	-	-	-	-	-	-	-	-
+coref	0	84	of	-	-	-	-	-	-	-	-	-	-
+coref	0	85	1958	-	-	-	-	-	-	-	-	-	-	5)
+coref	0	86	territorial	-	-	-	-	-	-	-	-	-	-
+coref	0	87	jurisdiction	-	-	-	-	-	-	-	-	-	-
+coref	0	88	conferred	-	-	-	-	-	-	-	-	-	-
+coref	0	89	upon	-	-	-	-	-	-	-	-	-	-
+coref	0	90	the	-	-	-	-	-	-	-	-	-	-
+coref	0	91	court	-	-	-	-	-	-	-	-	-	-
+coref	0	92	in	-	-	-	-	-	-	-	-	-	-
+coref	0	93	terms	-	-	-	-	-	-	-	-	-	-
+coref	0	94	of	-	-	-	-	-	-	-	-	-	-
+coref	0	95	the	-	-	-	-	-	-	-	-	-	-
+coref	0	96	provisions	-	-	-	-	-	-	-	-	-	-
+coref	0	97	of	-	-	-	-	-	-	-	-	-	-
+coref	0	98	the	-	-	-	-	-	-	-	-	-	-	(4
+coref	0	99	Code	-	-	-	-	-	-	-	-	-	-
+coref	0	100	of	-	-	-	-	-	-	-	-	-	-
+coref	0	101	Civil	-	-	-	-	-	-	-	-	-	-
+coref	0	102	Procedure	-	-	-	-	-	-	-	-	-	-	4)
+coref	0	103	indisputably	-	-	-	-	-	-	-	-	-	-
+coref	0	104	shall	-	-	-	-	-	-	-	-	-	-
+coref	0	105	apply	-	-	-	-	-	-	-	-	-	-
+coref	0	106	to	-	-	-	-	-	-	-	-	-	-
+coref	0	107	a	-	-	-	-	-	-	-	-	-	-
+coref	0	108	suit	-	-	-	-	-	-	-	-	-	-
+coref	0	109	or	-	-	-	-	-	-	-	-	-	-
+coref	0	110	proceeding	-	-	-	-	-	-	-	-	-	-
+coref	0	111	under	-	-	-	-	-	-	-	-	-	-
+coref	0	112	the	-	-	-	-	-	-	-	-	-	-	(4
+coref	0	113	1957	-	-	-	-	-	-	-	-	-	-
+coref	0	114	Act	-	-	-	-	-	-	-	-	-	-	4)
+coref	0	115	as	-	-	-	-	-	-	-	-	-	-
+coref	0	116	also	-	-	-	-	-	-	-	-	-	-
+coref	0	117	the	-	-	-	-	-	-	-	-	-	-	(5
+coref	0	118	1958	-	-	-	-	-	-	-	-	-	-
+coref	0	119	Act	-	-	-	-	-	-	-	-	-	-	5)
+coref	0	120	Sub-section	-	-	-	-	-	-	-	-	-	-	(4
+coref	0	121	(2)	-	-	-	-	-	-	-	-	-	-	4)
+coref	0	122	of	-	-	-	-	-	-	-	-	-	-
+coref	0	123	Section	-	-	-	-	-	-	-	-	-	-	(4
+coref	0	124	62	-	-	-	-	-	-	-	-	-	-	4)
+coref	0	125	of	-	-	-	-	-	-	-	-	-	-
+coref	0	126	the	-	-	-	-	-	-	-	-	-	-
+coref	0	127	1957	-	-	-	-	-	-	-	-	-	-
+coref	0	128	Act	-	-	-	-	-	-	-	-	-	-
+coref	0	129	provides	-	-	-	-	-	-	-	-	-	-
+coref	0	130	for	-	-	-	-	-	-	-	-	-	-
+coref	0	131	an	-	-	-	-	-	-	-	-	-	-
+coref	0	132	additional	-	-	-	-	-	-	-	-	-	-
+coref	0	133	forum.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(6
+coref	0	1	Arbitration	-	-	-	-	-	-	-	-	-	-
+coref	0	2	and	-	-	-	-	-	-	-	-	-	-
+coref	0	3	Conciliation	-	-	-	-	-	-	-	-	-	-
+coref	0	4	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	5	1996	-	-	-	-	-	-	-	-	-	-	6)
+coref	0	6	is	-	-	-	-	-	-	-	-	-	-
+coref	0	7	an	-	-	-	-	-	-	-	-	-	-
+coref	0	8	Act	-	-	-	-	-	-	-	-	-	-
+coref	0	9	to	-	-	-	-	-	-	-	-	-	-
+coref	0	10	consolidate	-	-	-	-	-	-	-	-	-	-
+coref	0	11	and	-	-	-	-	-	-	-	-	-	-
+coref	0	12	amend	-	-	-	-	-	-	-	-	-	-
+coref	0	13	the	-	-	-	-	-	-	-	-	-	-
+coref	0	14	law	-	-	-	-	-	-	-	-	-	-
+coref	0	15	relating	-	-	-	-	-	-	-	-	-	-
+coref	0	16	to	-	-	-	-	-	-	-	-	-	-
+coref	0	17	domestic	-	-	-	-	-	-	-	-	-	-
+coref	0	18	arbitration,	-	-	-	-	-	-	-	-	-	-
+coref	0	19	international	-	-	-	-	-	-	-	-	-	-
+coref	0	20	commercial	-	-	-	-	-	-	-	-	-	-
+coref	0	21	arbitration	-	-	-	-	-	-	-	-	-	-
+coref	0	22	and	-	-	-	-	-	-	-	-	-	-
+coref	0	23	enforcement	-	-	-	-	-	-	-	-	-	-
+coref	0	24	of	-	-	-	-	-	-	-	-	-	-
+coref	0	25	foreign	-	-	-	-	-	-	-	-	-	-
+coref	0	26	arbitral	-	-	-	-	-	-	-	-	-	-
+coref	0	27	awards.	-	-	-	-	-	-	-	-	-	-
+coref	0	28	Section	-	-	-	-	-	-	-	-	-	-	(6
+coref	0	29	81	-	-	-	-	-	-	-	-	-	-	6)
+coref	0	30	of	-	-	-	-	-	-	-	-	-	-
+coref	0	31	the	-	-	-	-	-	-	-	-	-	-
+coref	0	32	Arbitration	-	-	-	-	-	-	-	-	-	-
+coref	0	33	and	-	-	-	-	-	-	-	-	-	-
+coref	0	34	Conciliation	-	-	-	-	-	-	-	-	-	-
+coref	0	35	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	36	1996	-	-	-	-	-	-	-	-	-	-
+coref	0	37	also	-	-	-	-	-	-	-	-	-	-
+coref	0	38	prohibits	-	-	-	-	-	-	-	-	-	-
+coref	0	39	the	-	-	-	-	-	-	-	-	-	-
+coref	0	40	parties	-	-	-	-	-	-	-	-	-	-
+coref	0	41	from	-	-	-	-	-	-	-	-	-	-
+coref	0	42	relying	-	-	-	-	-	-	-	-	-	-
+coref	0	43	upon	-	-	-	-	-	-	-	-	-	-
+coref	0	44	or	-	-	-	-	-	-	-	-	-	-
+coref	0	45	introducing	-	-	-	-	-	-	-	-	-	-
+coref	0	46	as	-	-	-	-	-	-	-	-	-	-
+coref	0	47	evidence	-	-	-	-	-	-	-	-	-	-
+coref	0	48	in	-	-	-	-	-	-	-	-	-	-
+coref	0	49	arbitral	-	-	-	-	-	-	-	-	-	-
+coref	0	50	or	-	-	-	-	-	-	-	-	-	-
+coref	0	51	judicial	-	-	-	-	-	-	-	-	-	-
+coref	0	52	proceedings	-	-	-	-	-	-	-	-	-	-
+coref	0	53	views	-	-	-	-	-	-	-	-	-	-
+coref	0	54	expressed.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	Whether	-	-	-	-	-	-	-	-	-	-
+coref	0	1	the	-	-	-	-	-	-	-	-	-	-
+coref	0	2	conception	-	-	-	-	-	-	-	-	-	-
+coref	0	3	of	-	-	-	-	-	-	-	-	-	-
+coref	0	4	passing	-	-	-	-	-	-	-	-	-	-
+coref	0	5	off	-	-	-	-	-	-	-	-	-	-
+coref	0	6	as	-	-	-	-	-	-	-	-	-	-
+coref	0	7	available	-	-	-	-	-	-	-	-	-	-
+coref	0	8	under	-	-	-	-	-	-	-	-	-	-
+coref	0	9	the	-	-	-	-	-	-	-	-	-	-
+coref	0	10	Trade	-	-	-	-	-	-	-	-	-	-
+coref	0	11	Marks	-	-	-	-	-	-	-	-	-	-
+coref	0	12	can	-	-	-	-	-	-	-	-	-	-
+coref	0	13	be	-	-	-	-	-	-	-	-	-	-
+coref	0	14	joined	-	-	-	-	-	-	-	-	-	-
+coref	0	15	with	-	-	-	-	-	-	-	-	-	-
+coref	0	16	the	-	-	-	-	-	-	-	-	-	-
+coref	0	17	action	-	-	-	-	-	-	-	-	-	-
+coref	0	18	under	-	-	-	-	-	-	-	-	-	-
+coref	0	19	the	-	-	-	-	-	-	-	-	-	-	(7
+coref	0	20	Designs	-	-	-	-	-	-	-	-	-	-
+coref	0	21	Act	-	-	-	-	-	-	-	-	-	-	7)
+coref	0	22	when	-	-	-	-	-	-	-	-	-	-
+coref	0	23	the	-	-	-	-	-	-	-	-	-	-
+coref	0	24	same	-	-	-	-	-	-	-	-	-	-
+coref	0	25	is	-	-	-	-	-	-	-	-	-	-
+coref	0	26	mutually	-	-	-	-	-	-	-	-	-	-
+coref	0	27	inconsistent	-	-	-	-	-	-	-	-	-	-
+coref	0	28	with	-	-	-	-	-	-	-	-	-	-
+coref	0	29	that	-	-	-	-	-	-	-	-	-	-
+coref	0	30	of	-	-	-	-	-	-	-	-	-	-
+coref	0	31	remedy	-	-	-	-	-	-	-	-	-	-
+coref	0	32	under	-	-	-	-	-	-	-	-	-	-
+coref	0	33	the	-	-	-	-	-	-	-	-	-	-
+coref	0	34	Designs	-	-	-	-	-	-	-	-	-	-
+coref	0	35	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	36	2000.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(8
+coref	0	1	Code	-	-	-	-	-	-	-	-	-	-
+coref	0	2	of	-	-	-	-	-	-	-	-	-	-
+coref	0	3	Criminal	-	-	-	-	-	-	-	-	-	-
+coref	0	4	Procedure	-	-	-	-	-	-	-	-	-	-	8)
+coref	0	5	commonly	-	-	-	-	-	-	-	-	-	-
+coref	0	6	called	-	-	-	-	-	-	-	-	-	-
+coref	0	7	Criminal	-	-	-	-	-	-	-	-	-	-
+coref	0	8	Procedure	-	-	-	-	-	-	-	-	-	-
+coref	0	9	Code	-	-	-	-	-	-	-	-	-	-
+coref	0	10	(CrPC)	-	-	-	-	-	-	-	-	-	-	(8)
+coref	0	11	is	-	-	-	-	-	-	-	-	-	-
+coref	0	12	the	-	-	-	-	-	-	-	-	-	-
+coref	0	13	main	-	-	-	-	-	-	-	-	-	-
+coref	0	14	legislation	-	-	-	-	-	-	-	-	-	-
+coref	0	15	on	-	-	-	-	-	-	-	-	-	-
+coref	0	16	procedure	-	-	-	-	-	-	-	-	-	-
+coref	0	17	for	-	-	-	-	-	-	-	-	-	-
+coref	0	18	administration	-	-	-	-	-	-	-	-	-	-
+coref	0	19	of	-	-	-	-	-	-	-	-	-	-
+coref	0	20	substantive	-	-	-	-	-	-	-	-	-	-
+coref	0	21	criminal	-	-	-	-	-	-	-	-	-	-
+coref	0	22	law	-	-	-	-	-	-	-	-	-	-
+coref	0	23	in	-	-	-	-	-	-	-	-	-	-
+coref	0	24	India.	-	-	-	-	-	-	-	-	-	-
+coref	0	25	Indian	-	-	-	-	-	-	-	-	-	-
+coref	0	26	Penal	-	-	-	-	-	-	-	-	-	-
+coref	0	27	Code	-	-	-	-	-	-	-	-	-	-
+coref	0	28	is	-	-	-	-	-	-	-	-	-	-
+coref	0	29	the	-	-	-	-	-	-	-	-	-	-
+coref	0	30	official	-	-	-	-	-	-	-	-	-	-
+coref	0	31	criminal	-	-	-	-	-	-	-	-	-	-
+coref	0	32	code	-	-	-	-	-	-	-	-	-	-
+coref	0	33	of	-	-	-	-	-	-	-	-	-	-
+coref	0	34	India.	-	-	-	-	-	-	-	-	-	-
+coref	0	35	This	-	-	-	-	-	-	-	-	-	-
+coref	0	36	application	-	-	-	-	-	-	-	-	-	-
+coref	0	37	under	-	-	-	-	-	-	-	-	-	-
+coref	0	38	Section	-	-	-	-	-	-	-	-	-	-	(8
+coref	0	39	438	-	-	-	-	-	-	-	-	-	-	8)
+coref	0	40	Cr.P.C.	-	-	-	-	-	-	-	-	-	-	(8)
+coref	0	41	has	-	-	-	-	-	-	-	-	-	-
+coref	0	42	been	-	-	-	-	-	-	-	-	-	-
+coref	0	43	filed	-	-	-	-	-	-	-	-	-	-
+coref	0	44	for	-	-	-	-	-	-	-	-	-	-
+coref	0	45	grant	-	-	-	-	-	-	-	-	-	-
+coref	0	46	of	-	-	-	-	-	-	-	-	-	-
+coref	0	47	bail	-	-	-	-	-	-	-	-	-	-
+coref	0	48	to	-	-	-	-	-	-	-	-	-	-
+coref	0	49	the	-	-	-	-	-	-	-	-	-	-
+coref	0	50	petitioner	-	-	-	-	-	-	-	-	-	-
+coref	0	51	in	-	-	-	-	-	-	-	-	-	-
+coref	0	52	the	-	-	-	-	-	-	-	-	-	-
+coref	0	53	event	-	-	-	-	-	-	-	-	-	-
+coref	0	54	of	-	-	-	-	-	-	-	-	-	-
+coref	0	55	arrest	-	-	-	-	-	-	-	-	-	-
+coref	0	56	in	-	-	-	-	-	-	-	-	-	-
+coref	0	57	FIR	-	-	-	-	-	-	-	-	-	-
+coref	0	58	No.	-	-	-	-	-	-	-	-	-	-
+coref	0	59	56/2018	-	-	-	-	-	-	-	-	-	-
+coref	0	60	dated	-	-	-	-	-	-	-	-	-	-
+coref	0	61	11.02.2018,	-	-	-	-	-	-	-	-	-	-
+coref	0	62	registered	-	-	-	-	-	-	-	-	-	-
+coref	0	63	at	-	-	-	-	-	-	-	-	-	-
+coref	0	64	PS	-	-	-	-	-	-	-	-	-	-
+coref	0	65	Model	-	-	-	-	-	-	-	-	-	-
+coref	0	66	Town	-	-	-	-	-	-	-	-	-	-
+coref	0	67	for	-	-	-	-	-	-	-	-	-	-
+coref	0	68	offences	-	-	-	-	-	-	-	-	-	-
+coref	0	69	under	-	-	-	-	-	-	-	-	-	-
+coref	0	70	Sections	-	-	-	-	-	-	-	-	-	-	(9
+coref	0	71	498-A,	-	-	-	-	-	-	-	-	-	-
+coref	0	72	406	-	-	-	-	-	-	-	-	-	-
+coref	0	73	and	-	-	-	-	-	-	-	-	-	-
+coref	0	74	34	-	-	-	-	-	-	-	-	-	-
+coref	0	75	of	-	-	-	-	-	-	-	-	-	-
+coref	0	76	IPC	-	-	-	-	-	-	-	-	-	-	9)
+coref	0	77		-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-
+coref	0	1	Protection	-	-	-	-	-	-	-	-	-	-
+coref	0	2	of	-	-	-	-	-	-	-	-	-	-
+coref	0	3	Women	-	-	-	-	-	-	-	-	-	-
+coref	0	4	from	-	-	-	-	-	-	-	-	-	-
+coref	0	5	Domestic	-	-	-	-	-	-	-	-	-	-	(10
+coref	0	6	Violence	-	-	-	-	-	-	-	-	-	-
+coref	0	7	Act	-	-	-	-	-	-	-	-	-	-
+coref	0	8	2005	-	-	-	-	-	-	-	-	-	-	10)
+coref	0	9	is	-	-	-	-	-	-	-	-	-	-
+coref	0	10	an	-	-	-	-	-	-	-	-	-	-
+coref	0	11	act	-	-	-	-	-	-	-	-	-	-
+coref	0	12	of	-	-	-	-	-	-	-	-	-	-
+coref	0	13	the	-	-	-	-	-	-	-	-	-	-
+coref	0	14	parliament	-	-	-	-	-	-	-	-	-	-
+coref	0	15	of	-	-	-	-	-	-	-	-	-	-
+coref	0	16	India	-	-	-	-	-	-	-	-	-	-
+coref	0	17	enacted	-	-	-	-	-	-	-	-	-	-
+coref	0	18	to	-	-	-	-	-	-	-	-	-	-
+coref	0	19	protect	-	-	-	-	-	-	-	-	-	-
+coref	0	20	women	-	-	-	-	-	-	-	-	-	-
+coref	0	21	from	-	-	-	-	-	-	-	-	-	-
+coref	0	22	domestic	-	-	-	-	-	-	-	-	-	-
+coref	0	23	violence.	-	-	-	-	-	-	-	-	-	-
+coref	0	24	It	-	-	-	-	-	-	-	-	-	-
+coref	0	25	is	-	-	-	-	-	-	-	-	-	-
+coref	0	26	also	-	-	-	-	-	-	-	-	-	-
+coref	0	27	stated	-	-	-	-	-	-	-	-	-	-
+coref	0	28	that	-	-	-	-	-	-	-	-	-	-
+coref	0	29	the	-	-	-	-	-	-	-	-	-	-
+coref	0	30	complainant	-	-	-	-	-	-	-	-	-	-
+coref	0	31	lodged	-	-	-	-	-	-	-	-	-	-
+coref	0	32	a	-	-	-	-	-	-	-	-	-	-
+coref	0	33	written	-	-	-	-	-	-	-	-	-	-
+coref	0	34	complaint	-	-	-	-	-	-	-	-	-	-
+coref	0	35	at	-	-	-	-	-	-	-	-	-	-
+coref	0	36	the	-	-	-	-	-	-	-	-	-	-
+coref	0	37	CAW	-	-	-	-	-	-	-	-	-	-
+coref	0	38	Cell,	-	-	-	-	-	-	-	-	-	-
+coref	0	39	New	-	-	-	-	-	-	-	-	-	-
+coref	0	40	Delhi	-	-	-	-	-	-	-	-	-	-
+coref	0	41	against	-	-	-	-	-	-	-	-	-	-
+coref	0	42	the	-	-	-	-	-	-	-	-	-	-
+coref	0	43	petitioner	-	-	-	-	-	-	-	-	-	-
+coref	0	44	herein	-	-	-	-	-	-	-	-	-	-
+coref	0	45	under	-	-	-	-	-	-	-	-	-	-
+coref	0	46	Section	-	-	-	-	-	-	-	-	-	-	(10
+coref	0	47	12	-	-	-	-	-	-	-	-	-	-	10)
+coref	0	48	of	-	-	-	-	-	-	-	-	-	-
+coref	0	49	the	-	-	-	-	-	-	-	-	-	-
+coref	0	50	Domestic	-	-	-	-	-	-	-	-	-	-
+coref	0	51	Violence	-	-	-	-	-	-	-	-	-	-
+coref	0	52	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	53	2005.	-	-	-	-	-	-	-	-	-	-
+coref	0	54		-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	Indian	-	-	-	-	-	-	-	-	-	-
+coref	0	1	Penal	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Code	-	-	-	-	-	-	-	-	-	-
+coref	0	3	is	-	-	-	-	-	-	-	-	-	-
+coref	0	4	the	-	-	-	-	-	-	-	-	-	-
+coref	0	5	official	-	-	-	-	-	-	-	-	-	-
+coref	0	6	criminal	-	-	-	-	-	-	-	-	-	-
+coref	0	7	code	-	-	-	-	-	-	-	-	-	-
+coref	0	8	of	-	-	-	-	-	-	-	-	-	-
+coref	0	9	India.	-	-	-	-	-	-	-	-	-	-
+coref	0	10	The	-	-	-	-	-	-	-	-	-	-	(11
+coref	0	11	Prevention	-	-	-	-	-	-	-	-	-	-
+coref	0	12	of	-	-	-	-	-	-	-	-	-	-
+coref	0	13	Corruption	-	-	-	-	-	-	-	-	-	-
+coref	0	14	Act	-	-	-	-	-	-	-	-	-	-	11)
+coref	0	15	is	-	-	-	-	-	-	-	-	-	-
+coref	0	16	an	-	-	-	-	-	-	-	-	-	-
+coref	0	17	act	-	-	-	-	-	-	-	-	-	-
+coref	0	18	to	-	-	-	-	-	-	-	-	-	-
+coref	0	19	consolidate	-	-	-	-	-	-	-	-	-	-
+coref	0	20	and	-	-	-	-	-	-	-	-	-	-
+coref	0	21	amend	-	-	-	-	-	-	-	-	-	-
+coref	0	22	the	-	-	-	-	-	-	-	-	-	-
+coref	0	23	law	-	-	-	-	-	-	-	-	-	-
+coref	0	24	relating	-	-	-	-	-	-	-	-	-	-
+coref	0	25	to	-	-	-	-	-	-	-	-	-	-
+coref	0	26	the	-	-	-	-	-	-	-	-	-	-
+coref	0	27	prevention	-	-	-	-	-	-	-	-	-	-
+coref	0	28	of	-	-	-	-	-	-	-	-	-	-
+coref	0	29	corruption	-	-	-	-	-	-	-	-	-	-
+coref	0	30	and	-	-	-	-	-	-	-	-	-	-
+coref	0	31	for	-	-	-	-	-	-	-	-	-	-
+coref	0	32	matters	-	-	-	-	-	-	-	-	-	-
+coref	0	33	connected	-	-	-	-	-	-	-	-	-	-
+coref	0	34	therewith.	-	-	-	-	-	-	-	-	-	-
+coref	0	35	Rest	-	-	-	-	-	-	-	-	-	-
+coref	0	36	of	-	-	-	-	-	-	-	-	-	-
+coref	0	37	the	-	-	-	-	-	-	-	-	-	-
+coref	0	38	accused	-	-	-	-	-	-	-	-	-	-
+coref	0	39	stand	-	-	-	-	-	-	-	-	-	-
+coref	0	40	charge-sheeted	-	-	-	-	-	-	-	-	-	-
+coref	0	41	for	-	-	-	-	-	-	-	-	-	-
+coref	0	42	having	-	-	-	-	-	-	-	-	-	-
+coref	0	43	committed	-	-	-	-	-	-	-	-	-	-
+coref	0	44	offence	-	-	-	-	-	-	-	-	-	-
+coref	0	45	punishable	-	-	-	-	-	-	-	-	-	-
+coref	0	46	under	-	-	-	-	-	-	-	-	-	-
+coref	0	47	Section	-	-	-	-	-	-	-	-	-	-	(11
+coref	0	48	120-B	-	-	-	-	-	-	-	-	-	-	11)
+coref	0	49	read	-	-	-	-	-	-	-	-	-	-
+coref	0	50	with	-	-	-	-	-	-	-	-	-	-
+coref	0	51	Section	-	-	-	-	-	-	-	-	-	-	(11
+coref	0	52	403,	-	-	-	-	-	-	-	-	-	-
+coref	0	53	409,	-	-	-	-	-	-	-	-	-	-
+coref	0	54	468,	-	-	-	-	-	-	-	-	-	-
+coref	0	55	467,	-	-	-	-	-	-	-	-	-	-
+coref	0	56	471,	-	-	-	-	-	-	-	-	-	-
+coref	0	57	477-A	-	-	-	-	-	-	-	-	-	-	11)
+coref	0	58	read	-	-	-	-	-	-	-	-	-	-
+coref	0	59	with	-	-	-	-	-	-	-	-	-	-
+coref	0	60	the	-	-	-	-	-	-	-	-	-	-
+coref	0	61	Indian	-	-	-	-	-	-	-	-	-	-
+coref	0	62	Penal	-	-	-	-	-	-	-	-	-	-
+coref	0	63	Code	-	-	-	-	-	-	-	-	-	-
+coref	0	64	and	-	-	-	-	-	-	-	-	-	-
+coref	0	65	Section	-	-	-	-	-	-	-	-	-	-	(11
+coref	0	66	13(1)	-	-	-	-	-	-	-	-	-	-	11)
+coref	0	67	read	-	-	-	-	-	-	-	-	-	-
+coref	0	68	with	-	-	-	-	-	-	-	-	-	-
+coref	0	69	Section	-	-	-	-	-	-	-	-	-	-	(11
+coref	0	70	13(2)	-	-	-	-	-	-	-	-	-	-	11)
+coref	0	71	of	-	-	-	-	-	-	-	-	-	-
+coref	0	72	the	-	-	-	-	-	-	-	-	-	-
+coref	0	73	said	-	-	-	-	-	-	-	-	-	-
+coref	0	74	Act.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(12
+coref	0	1	Patents	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	3	1970	-	-	-	-	-	-	-	-	-	-	12)
+coref	0	4	is	-	-	-	-	-	-	-	-	-	-
+coref	0	5	the	-	-	-	-	-	-	-	-	-	-
+coref	0	6	legislation	-	-	-	-	-	-	-	-	-	-
+coref	0	7	that	-	-	-	-	-	-	-	-	-	-
+coref	0	8	till	-	-	-	-	-	-	-	-	-	-
+coref	0	9	date	-	-	-	-	-	-	-	-	-	-
+coref	0	10	governs	-	-	-	-	-	-	-	-	-	-
+coref	0	11	patents	-	-	-	-	-	-	-	-	-	-
+coref	0	12	in	-	-	-	-	-	-	-	-	-	-
+coref	0	13	India.	-	-	-	-	-	-	-	-	-	-
+coref	0	14	The	-	-	-	-	-	-	-	-	-	-
+coref	0	15	date	-	-	-	-	-	-	-	-	-	-
+coref	0	16	of	-	-	-	-	-	-	-	-	-	-
+coref	0	17	publication	-	-	-	-	-	-	-	-	-	-
+coref	0	18	of	-	-	-	-	-	-	-	-	-	-
+coref	0	19	the	-	-	-	-	-	-	-	-	-	-
+coref	0	20	application,	-	-	-	-	-	-	-	-	-	-
+coref	0	21	under	-	-	-	-	-	-	-	-	-	-
+coref	0	22	Section	-	-	-	-	-	-	-	-	-	-	(12
+coref	0	23	11A	-	-	-	-	-	-	-	-	-	-	12)
+coref	0	24	of	-	-	-	-	-	-	-	-	-	-
+coref	0	25	the	-	-	-	-	-	-	-	-	-	-	(12
+coref	0	26	Patents	-	-	-	-	-	-	-	-	-	-
+coref	0	27	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	28	1970	-	-	-	-	-	-	-	-	-	-	12)
+coref	0	29	was	-	-	-	-	-	-	-	-	-	-
+coref	0	30	declared	-	-	-	-	-	-	-	-	-	-
+coref	0	31	as	-	-	-	-	-	-	-	-	-	-
+coref	0	32	30th	-	-	-	-	-	-	-	-	-	-
+coref	0	33	September,	-	-	-	-	-	-	-	-	-	-
+coref	0	34	2005.	-	-	-	-	-	-	-	-	-	-
+coref	0	35	This	-	-	-	-	-	-	-	-	-	-
+coref	0	36	is	-	-	-	-	-	-	-	-	-	-
+coref	0	37	because	-	-	-	-	-	-	-	-	-	-
+coref	0	38	the	-	-	-	-	-	-	-	-	-	-
+coref	0	39	entire	-	-	-	-	-	-	-	-	-	-
+coref	0	40	case	-	-	-	-	-	-	-	-	-	-
+coref	0	41	of	-	-	-	-	-	-	-	-	-	-
+coref	0	42	the	-	-	-	-	-	-	-	-	-	-
+coref	0	43	defendant	-	-	-	-	-	-	-	-	-	-
+coref	0	44	is	-	-	-	-	-	-	-	-	-	-
+coref	0	45	premised	-	-	-	-	-	-	-	-	-	-
+coref	0	46	on	-	-	-	-	-	-	-	-	-	-
+coref	0	47	Section	-	-	-	-	-	-	-	-	-	-	(12
+coref	0	48	107(1)	-	-	-	-	-	-	-	-	-	-	12)
+coref	0	49	of	-	-	-	-	-	-	-	-	-	-
+coref	0	50	the	-	-	-	-	-	-	-	-	-	-
+coref	0	51	Patents	-	-	-	-	-	-	-	-	-	-
+coref	0	52	Act	-	-	-	-	-	-	-	-	-	-
+coref	0	53	,	-	-	-	-	-	-	-	-	-	-
+coref	0	54	which	-	-	-	-	-	-	-	-	-	-
+coref	0	55	permits	-	-	-	-	-	-	-	-	-	-
+coref	0	56	the	-	-	-	-	-	-	-	-	-	-
+coref	0	57	raising,	-	-	-	-	-	-	-	-	-	-
+coref	0	58	in	-	-	-	-	-	-	-	-	-	-
+coref	0	59	defence	-	-	-	-	-	-	-	-	-	-
+coref	0	60	to	-	-	-	-	-	-	-	-	-	-
+coref	0	61	an	-	-	-	-	-	-	-	-	-	-
+coref	0	62	allegation	-	-	-	-	-	-	-	-	-	-
+coref	0	63	of	-	-	-	-	-	-	-	-	-	-
+coref	0	64	patent	-	-	-	-	-	-	-	-	-	-
+coref	0	65	infringement.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(13
+coref	0	1	Patents	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	3	1970	-	-	-	-	-	-	-	-	-	-	13)
+coref	0	4	is	-	-	-	-	-	-	-	-	-	-
+coref	0	5	the	-	-	-	-	-	-	-	-	-	-
+coref	0	6	legislation	-	-	-	-	-	-	-	-	-	-
+coref	0	7	that	-	-	-	-	-	-	-	-	-	-
+coref	0	8	till	-	-	-	-	-	-	-	-	-	-
+coref	0	9	date	-	-	-	-	-	-	-	-	-	-
+coref	0	10	governs	-	-	-	-	-	-	-	-	-	-
+coref	0	11	patents	-	-	-	-	-	-	-	-	-	-
+coref	0	12	in	-	-	-	-	-	-	-	-	-	-
+coref	0	13	India.	-	-	-	-	-	-	-	-	-	-
+coref	0	14	Section	-	-	-	-	-	-	-	-	-	-	(13
+coref	0	15	3	-	-	-	-	-	-	-	-	-	-	13)
+coref	0	16	of	-	-	-	-	-	-	-	-	-	-
+coref	0	17	the	-	-	-	-	-	-	-	-	-	-	(13
+coref	0	18	Patents	-	-	-	-	-	-	-	-	-	-
+coref	0	19	Act	-	-	-	-	-	-	-	-	-	-	13)
+coref	0	20	it	-	-	-	-	-	-	-	-	-	-
+coref	0	21	was	-	-	-	-	-	-	-	-	-	-
+coref	0	22	observed,	-	-	-	-	-	-	-	-	-	-
+coref	0	23	demarcated	-	-	-	-	-	-	-	-	-	-
+coref	0	24	two	-	-	-	-	-	-	-	-	-	-
+coref	0	25	situations	-	-	-	-	-	-	-	-	-	-
+coref	0	26	in	-	-	-	-	-	-	-	-	-	-
+coref	0	27	which	-	-	-	-	-	-	-	-	-	-
+coref	0	28	the	-	-	-	-	-	-	-	-	-	-
+coref	0	29	right	-	-	-	-	-	-	-	-	-	-
+coref	0	30	to	-	-	-	-	-	-	-	-	-	-
+coref	0	31	patent	-	-	-	-	-	-	-	-	-	-
+coref	0	32	could	-	-	-	-	-	-	-	-	-	-
+coref	0	33	be	-	-	-	-	-	-	-	-	-	-
+coref	0	34	lawfully	-	-	-	-	-	-	-	-	-	-
+coref	0	35	denied;	-	-	-	-	-	-	-	-	-	-
+coref	0	36	firstly,	-	-	-	-	-	-	-	-	-	-
+coref	0	37	where	-	-	-	-	-	-	-	-	-	-
+coref	0	38	the	-	-	-	-	-	-	-	-	-	-
+coref	0	39	product	-	-	-	-	-	-	-	-	-	-
+coref	0	40	was	-	-	-	-	-	-	-	-	-	-
+coref	0	41	not	-	-	-	-	-	-	-	-	-	-
+coref	0	42	an	-	-	-	-	-	-	-	-	-	-
+coref	0	43	“invention”,	-	-	-	-	-	-	-	-	-	-
+coref	0	44	such	-	-	-	-	-	-	-	-	-	-
+coref	0	45	as	-	-	-	-	-	-	-	-	-	-
+coref	0	46	in	-	-	-	-	-	-	-	-	-	-
+coref	0	47	the	-	-	-	-	-	-	-	-	-	-
+coref	0	48	case	-	-	-	-	-	-	-	-	-	-
+coref	0	49	of	-	-	-	-	-	-	-	-	-	-
+coref	0	50	clauses	-	-	-	-	-	-	-	-	-	-	(13
+coref	0	51	(b)	-	-	-	-	-	-	-	-	-	-
+coref	0	52	and	-	-	-	-	-	-	-	-	-	-
+coref	0	53	(e)	-	-	-	-	-	-	-	-	-	-	13)
+coref	0	54	,	-	-	-	-	-	-	-	-	-	-
+coref	0	55	and,	-	-	-	-	-	-	-	-	-	-
+coref	0	56	secondly,	-	-	-	-	-	-	-	-	-	-
+coref	0	57	where,	-	-	-	-	-	-	-	-	-	-
+coref	0	58	though	-	-	-	-	-	-	-	-	-	-
+coref	0	59	the	-	-	-	-	-	-	-	-	-	-
+coref	0	60	product	-	-	-	-	-	-	-	-	-	-
+coref	0	61	was	-	-	-	-	-	-	-	-	-	-
+coref	0	62	an	-	-	-	-	-	-	-	-	-	-
+coref	0	63	“invention”,	-	-	-	-	-	-	-	-	-	-
+coref	0	64	other	-	-	-	-	-	-	-	-	-	-
+coref	0	65	considerations	-	-	-	-	-	-	-	-	-	-
+coref	0	66	prohibited	-	-	-	-	-	-	-	-	-	-
+coref	0	67	grant	-	-	-	-	-	-	-	-	-	-
+coref	0	68	of	-	-	-	-	-	-	-	-	-	-
+coref	0	69	patent,	-	-	-	-	-	-	-	-	-	-
+coref	0	70	such	-	-	-	-	-	-	-	-	-	-
+coref	0	71	as	-	-	-	-	-	-	-	-	-	-
+coref	0	72	in	-	-	-	-	-	-	-	-	-	-
+coref	0	73	the	-	-	-	-	-	-	-	-	-	-
+coref	0	74	case	-	-	-	-	-	-	-	-	-	-
+coref	0	75	of	-	-	-	-	-	-	-	-	-	-
+coref	0	76	clause	-	-	-	-	-	-	-	-	-	-
+coref	0	77	(d).	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(14
+coref	0	1	Patents	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	3	1970	-	-	-	-	-	-	-	-	-	-	14)
+coref	0	4	is	-	-	-	-	-	-	-	-	-	-
+coref	0	5	the	-	-	-	-	-	-	-	-	-	-
+coref	0	6	legislation	-	-	-	-	-	-	-	-	-	-
+coref	0	7	that	-	-	-	-	-	-	-	-	-	-
+coref	0	8	till	-	-	-	-	-	-	-	-	-	-
+coref	0	9	date	-	-	-	-	-	-	-	-	-	-
+coref	0	10	governs	-	-	-	-	-	-	-	-	-	-
+coref	0	11	patents	-	-	-	-	-	-	-	-	-	-
+coref	0	12	in	-	-	-	-	-	-	-	-	-	-
+coref	0	13	India.	-	-	-	-	-	-	-	-	-	-
+coref	0	14	Mr.	-	-	-	-	-	-	-	-	-	-
+coref	0	15	Sai	-	-	-	-	-	-	-	-	-	-
+coref	0	16	Deepak	-	-	-	-	-	-	-	-	-	-
+coref	0	17	urges	-	-	-	-	-	-	-	-	-	-
+coref	0	18	that	-	-	-	-	-	-	-	-	-	-
+coref	0	19	the	-	-	-	-	-	-	-	-	-	-
+coref	0	20	claims	-	-	-	-	-	-	-	-	-	-
+coref	0	21	in	-	-	-	-	-	-	-	-	-	-
+coref	0	22	IN’307	-	-	-	-	-	-	-	-	-	-
+coref	0	23	are	-	-	-	-	-	-	-	-	-	-
+coref	0	24	invalid	-	-	-	-	-	-	-	-	-	-
+coref	0	25	on	-	-	-	-	-	-	-	-	-	-
+coref	0	26	the	-	-	-	-	-	-	-	-	-	-
+coref	0	27	ground	-	-	-	-	-	-	-	-	-	-
+coref	0	28	of	-	-	-	-	-	-	-	-	-	-
+coref	0	29	anticipation	-	-	-	-	-	-	-	-	-	-
+coref	0	30	by	-	-	-	-	-	-	-	-	-	-
+coref	0	31	prior	-	-	-	-	-	-	-	-	-	-
+coref	0	32	claiming,	-	-	-	-	-	-	-	-	-	-
+coref	0	33	for	-	-	-	-	-	-	-	-	-	-
+coref	0	34	which	-	-	-	-	-	-	-	-	-	-
+coref	0	35	statutory	-	-	-	-	-	-	-	-	-	-
+coref	0	36	recognition	-	-	-	-	-	-	-	-	-	-
+coref	0	37	is	-	-	-	-	-	-	-	-	-	-
+coref	0	38	to	-	-	-	-	-	-	-	-	-	-
+coref	0	39	be	-	-	-	-	-	-	-	-	-	-
+coref	0	40	found	-	-	-	-	-	-	-	-	-	-
+coref	0	41	in	-	-	-	-	-	-	-	-	-	-
+coref	0	42	Section	-	-	-	-	-	-	-	-	-	-	(14
+coref	0	43	13(1)(b)	-	-	-	-	-	-	-	-	-	-	14)
+coref	0	44	read	-	-	-	-	-	-	-	-	-	-
+coref	0	45	with	-	-	-	-	-	-	-	-	-	-
+coref	0	46	Section	-	-	-	-	-	-	-	-	-	-	(14
+coref	0	47	64(1)(a)	-	-	-	-	-	-	-	-	-	-	14)
+coref	0	48	of	-	-	-	-	-	-	-	-	-	-
+coref	0	49	the	-	-	-	-	-	-	-	-	-	-	(14
+coref	0	50	Patents	-	-	-	-	-	-	-	-	-	-
+coref	0	51	Act	-	-	-	-	-	-	-	-	-	-	14)
+coref	0	52	In	-	-	-	-	-	-	-	-	-	-
+coref	0	53	fact,	-	-	-	-	-	-	-	-	-	-
+coref	0	54	the	-	-	-	-	-	-	-	-	-	-
+coref	0	55	reliance	-	-	-	-	-	-	-	-	-	-
+coref	0	56	on	-	-	-	-	-	-	-	-	-	-
+coref	0	57	Section	-	-	-	-	-	-	-	-	-	-	(14
+coref	0	58	13(1)(b)	-	-	-	-	-	-	-	-	-	-	14)
+coref	0	59	is	-	-	-	-	-	-	-	-	-	-
+coref	0	60	largely	-	-	-	-	-	-	-	-	-	-
+coref	0	61	superfluous	-	-	-	-	-	-	-	-	-	-
+coref	0	62	,	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(15
+coref	0	1	Specific	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Relief	-	-	-	-	-	-	-	-	-	-
+coref	0	3	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	4	1963	-	-	-	-	-	-	-	-	-	-	15)
+coref	0	5	is	-	-	-	-	-	-	-	-	-	-
+coref	0	6	an	-	-	-	-	-	-	-	-	-	-
+coref	0	7	act	-	-	-	-	-	-	-	-	-	-
+coref	0	8	of	-	-	-	-	-	-	-	-	-	-
+coref	0	9	the	-	-	-	-	-	-	-	-	-	-
+coref	0	10	Parliament	-	-	-	-	-	-	-	-	-	-
+coref	0	11	of	-	-	-	-	-	-	-	-	-	-
+coref	0	12	India	-	-	-	-	-	-	-	-	-	-
+coref	0	13	which	-	-	-	-	-	-	-	-	-	-
+coref	0	14	provides	-	-	-	-	-	-	-	-	-	-
+coref	0	15	remedies	-	-	-	-	-	-	-	-	-	-
+coref	0	16	for	-	-	-	-	-	-	-	-	-	-
+coref	0	17	persons	-	-	-	-	-	-	-	-	-	-
+coref	0	18	whose	-	-	-	-	-	-	-	-	-	-
+coref	0	19	civil	-	-	-	-	-	-	-	-	-	-
+coref	0	20	or	-	-	-	-	-	-	-	-	-	-
+coref	0	21	contractual	-	-	-	-	-	-	-	-	-	-
+coref	0	22	rights	-	-	-	-	-	-	-	-	-	-
+coref	0	23	have	-	-	-	-	-	-	-	-	-	-
+coref	0	24	been	-	-	-	-	-	-	-	-	-	-
+coref	0	25	violated.	-	-	-	-	-	-	-	-	-	-
+coref	0	26	The	-	-	-	-	-	-	-	-	-	-
+coref	0	27	plaint	-	-	-	-	-	-	-	-	-	-
+coref	0	28	also	-	-	-	-	-	-	-	-	-	-
+coref	0	29	adverts	-	-	-	-	-	-	-	-	-	-
+coref	0	30	to	-	-	-	-	-	-	-	-	-	-
+coref	0	31	a	-	-	-	-	-	-	-	-	-	-
+coref	0	32	suit	-	-	-	-	-	-	-	-	-	-
+coref	0	33	filed	-	-	-	-	-	-	-	-	-	-
+coref	0	34	by	-	-	-	-	-	-	-	-	-	-
+coref	0	35	the	-	-	-	-	-	-	-	-	-	-
+coref	0	36	defendant	-	-	-	-	-	-	-	-	-	-
+coref	0	37	under	-	-	-	-	-	-	-	-	-	-
+coref	0	38	Section	-	-	-	-	-	-	-	-	-	-	(15
+coref	0	39	34	-	-	-	-	-	-	-	-	-	-	15)
+coref	0	40	of	-	-	-	-	-	-	-	-	-	-
+coref	0	41	the	-	-	-	-	-	-	-	-	-	-
+coref	0	42	Specific	-	-	-	-	-	-	-	-	-	-
+coref	0	43	Relief	-	-	-	-	-	-	-	-	-	-
+coref	0	44	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	45	1963,	-	-	-	-	-	-	-	-	-	-
+coref	0	46	before	-	-	-	-	-	-	-	-	-	-
+coref	0	47	the	-	-	-	-	-	-	-	-	-	-
+coref	0	48	City	-	-	-	-	-	-	-	-	-	-
+coref	0	49	Civil	-	-	-	-	-	-	-	-	-	-
+coref	0	50	Court,	-	-	-	-	-	-	-	-	-	-
+coref	0	51	Hyderabad.	-	-	-	-	-	-	-	-	-	-
+coref	0	52		-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	THE	-	-	-	-	-	-	-	-	-	-	(16
+coref	0	1	COMPANIES	-	-	-	-	-	-	-	-	-	-
+coref	0	2	ACT,	-	-	-	-	-	-	-	-	-	-
+coref	0	3	2013	-	-	-	-	-	-	-	-	-	-	16)
+coref	0	4	is	-	-	-	-	-	-	-	-	-	-
+coref	0	5	an	-	-	-	-	-	-	-	-	-	-
+coref	0	6	Act	-	-	-	-	-	-	-	-	-	-
+coref	0	7	to	-	-	-	-	-	-	-	-	-	-
+coref	0	8	consolidate	-	-	-	-	-	-	-	-	-	-
+coref	0	9	and	-	-	-	-	-	-	-	-	-	-
+coref	0	10	amend	-	-	-	-	-	-	-	-	-	-
+coref	0	11	the	-	-	-	-	-	-	-	-	-	-
+coref	0	12	law	-	-	-	-	-	-	-	-	-	-
+coref	0	13	relating	-	-	-	-	-	-	-	-	-	-
+coref	0	14	to	-	-	-	-	-	-	-	-	-	-
+coref	0	15	companies.	-	-	-	-	-	-	-	-	-	-
+coref	0	16	In	-	-	-	-	-	-	-	-	-	-
+coref	0	17	exercise	-	-	-	-	-	-	-	-	-	-
+coref	0	18	of	-	-	-	-	-	-	-	-	-	-
+coref	0	19	the	-	-	-	-	-	-	-	-	-	-
+coref	0	20	powers	-	-	-	-	-	-	-	-	-	-
+coref	0	21	conferred	-	-	-	-	-	-	-	-	-	-
+coref	0	22	by	-	-	-	-	-	-	-	-	-	-
+coref	0	23	section	-	-	-	-	-	-	-	-	-	-	(16
+coref	0	24	469	-	-	-	-	-	-	-	-	-	-	16)
+coref	0	25	of	-	-	-	-	-	-	-	-	-	-
+coref	0	26	the	-	-	-	-	-	-	-	-	-	-
+coref	0	27	companies	-	-	-	-	-	-	-	-	-	-
+coref	0	28	act,	-	-	-	-	-	-	-	-	-	-
+coref	0	29	the	-	-	-	-	-	-	-	-	-	-
+coref	0	30	central	-	-	-	-	-	-	-	-	-	-
+coref	0	31	government	-	-	-	-	-	-	-	-	-	-
+coref	0	32	made	-	-	-	-	-	-	-	-	-	-
+coref	0	33	the	-	-	-	-	-	-	-	-	-	-
+coref	0	34	National	-	-	-	-	-	-	-	-	-	-
+coref	0	35	Company	-	-	-	-	-	-	-	-	-	-
+coref	0	36	Law	-	-	-	-	-	-	-	-	-	-
+coref	0	37	Tribunal	-	-	-	-	-	-	-	-	-	-
+coref	0	38	Rules.	-	-	-	-	-	-	-	-	-	-
+coref	0	39	The	-	-	-	-	-	-	-	-	-	-
+coref	0	40	petitioner	-	-	-	-	-	-	-	-	-	-
+coref	0	41	preferred	-	-	-	-	-	-	-	-	-	-
+coref	0	42	I.A.No.175/KOB/2020	-	-	-	-	-	-	-	-	-	-
+coref	0	43	under	-	-	-	-	-	-	-	-	-	-
+coref	0	44	Rule	-	-	-	-	-	-	-	-	-	-
+coref	0	45	32	-	-	-	-	-	-	-	-	-	-
+coref	0	46	of	-	-	-	-	-	-	-	-	-	-
+coref	0	47	the	-	-	-	-	-	-	-	-	-	-
+coref	0	48	National	-	-	-	-	-	-	-	-	-	-
+coref	0	49	Company	-	-	-	-	-	-	-	-	-	-
+coref	0	50	Law	-	-	-	-	-	-	-	-	-	-
+coref	0	51	Tribunal	-	-	-	-	-	-	-	-	-	-
+coref	0	52	Rules	-	-	-	-	-	-	-	-	-	-
+coref	0	53	('NCLT	-	-	-	-	-	-	-	-	-	-
+coref	0	54	Rules'	-	-	-	-	-	-	-	-	-	-
+coref	0	55	for	-	-	-	-	-	-	-	-	-	-
+coref	0	56	short)	-	-	-	-	-	-	-	-	-	-
+coref	0	57	praying	-	-	-	-	-	-	-	-	-	-
+coref	0	58	that	-	-	-	-	-	-	-	-	-	-
+coref	0	59	the	-	-	-	-	-	-	-	-	-	-
+coref	0	60	maintainability	-	-	-	-	-	-	-	-	-	-
+coref	0	61	of	-	-	-	-	-	-	-	-	-	-
+coref	0	62	the	-	-	-	-	-	-	-	-	-	-
+coref	0	63	application	-	-	-	-	-	-	-	-	-	-
+coref	0	64	may	-	-	-	-	-	-	-	-	-	-
+coref	0	65	be	-	-	-	-	-	-	-	-	-	-
+coref	0	66	considered	-	-	-	-	-	-	-	-	-	-
+coref	0	67	as	-	-	-	-	-	-	-	-	-	-
+coref	0	68	a	-	-	-	-	-	-	-	-	-	-
+coref	0	69	preliminary	-	-	-	-	-	-	-	-	-	-
+coref	0	70	issue.	-	-	-	-	-	-	-	-	-	-
+coref	0	71		-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	THE	-	-	-	-	-	-	-	-	-	-	(17
+coref	0	1	COMPANIES	-	-	-	-	-	-	-	-	-	-
+coref	0	2	ACT,	-	-	-	-	-	-	-	-	-	-
+coref	0	3	2013	-	-	-	-	-	-	-	-	-	-	17)
+coref	0	4	is	-	-	-	-	-	-	-	-	-	-
+coref	0	5	an	-	-	-	-	-	-	-	-	-	-
+coref	0	6	Act	-	-	-	-	-	-	-	-	-	-
+coref	0	7	to	-	-	-	-	-	-	-	-	-	-
+coref	0	8	consolidate	-	-	-	-	-	-	-	-	-	-
+coref	0	9	and	-	-	-	-	-	-	-	-	-	-
+coref	0	10	amend	-	-	-	-	-	-	-	-	-	-
+coref	0	11	the	-	-	-	-	-	-	-	-	-	-
+coref	0	12	law	-	-	-	-	-	-	-	-	-	-
+coref	0	13	relating	-	-	-	-	-	-	-	-	-	-
+coref	0	14	to	-	-	-	-	-	-	-	-	-	-
+coref	0	15	companies.	-	-	-	-	-	-	-	-	-	-
+coref	0	16	In	-	-	-	-	-	-	-	-	-	-
+coref	0	17	exercise	-	-	-	-	-	-	-	-	-	-
+coref	0	18	of	-	-	-	-	-	-	-	-	-	-
+coref	0	19	the	-	-	-	-	-	-	-	-	-	-
+coref	0	20	powers	-	-	-	-	-	-	-	-	-	-
+coref	0	21	conferred	-	-	-	-	-	-	-	-	-	-
+coref	0	22	by	-	-	-	-	-	-	-	-	-	-
+coref	0	23	section	-	-	-	-	-	-	-	-	-	-	(17
+coref	0	24	469	-	-	-	-	-	-	-	-	-	-	17)
+coref	0	25	of	-	-	-	-	-	-	-	-	-	-
+coref	0	26	the	-	-	-	-	-	-	-	-	-	-
+coref	0	27	companies	-	-	-	-	-	-	-	-	-	-
+coref	0	28	act,	-	-	-	-	-	-	-	-	-	-
+coref	0	29	the	-	-	-	-	-	-	-	-	-	-
+coref	0	30	central	-	-	-	-	-	-	-	-	-	-
+coref	0	31	government	-	-	-	-	-	-	-	-	-	-
+coref	0	32	made	-	-	-	-	-	-	-	-	-	-
+coref	0	33	the	-	-	-	-	-	-	-	-	-	-
+coref	0	34	National	-	-	-	-	-	-	-	-	-	-
+coref	0	35	Company	-	-	-	-	-	-	-	-	-	-
+coref	0	36	Law	-	-	-	-	-	-	-	-	-	-
+coref	0	37	Tribunal	-	-	-	-	-	-	-	-	-	-
+coref	0	38	Rules.	-	-	-	-	-	-	-	-	-	-
+coref	0	39	Insolvency	-	-	-	-	-	-	-	-	-	-	(18
+coref	0	40	and	-	-	-	-	-	-	-	-	-	-
+coref	0	41	Bankruptcy	-	-	-	-	-	-	-	-	-	-
+coref	0	42	Code	-	-	-	-	-	-	-	-	-	-
+coref	0	43	2016	-	-	-	-	-	-	-	-	-	-	18)
+coref	0	44	an	-	-	-	-	-	-	-	-	-	-
+coref	0	45	Act	-	-	-	-	-	-	-	-	-	-
+coref	0	46	to	-	-	-	-	-	-	-	-	-	-
+coref	0	47	consolidate	-	-	-	-	-	-	-	-	-	-
+coref	0	48	and	-	-	-	-	-	-	-	-	-	-
+coref	0	49	amend	-	-	-	-	-	-	-	-	-	-
+coref	0	50	the	-	-	-	-	-	-	-	-	-	-
+coref	0	51	laws	-	-	-	-	-	-	-	-	-	-
+coref	0	52	relating	-	-	-	-	-	-	-	-	-	-
+coref	0	53	to	-	-	-	-	-	-	-	-	-	-
+coref	0	54	reorganisation	-	-	-	-	-	-	-	-	-	-
+coref	0	55	and	-	-	-	-	-	-	-	-	-	-
+coref	0	56	insolvency	-	-	-	-	-	-	-	-	-	-
+coref	0	57	resolution	-	-	-	-	-	-	-	-	-	-
+coref	0	58	of	-	-	-	-	-	-	-	-	-	-
+coref	0	59	corporate	-	-	-	-	-	-	-	-	-	-
+coref	0	60	persons.	-	-	-	-	-	-	-	-	-	-
+coref	0	61	Without	-	-	-	-	-	-	-	-	-	-
+coref	0	62	prejudice	-	-	-	-	-	-	-	-	-	-
+coref	0	63	to	-	-	-	-	-	-	-	-	-	-
+coref	0	64	sub-section	-	-	-	-	-	-	-	-	-	-	(18
+coref	0	65	(1)	-	-	-	-	-	-	-	-	-	-	18)
+coref	0	66	and	-	-	-	-	-	-	-	-	-	-
+coref	0	67	notwithstanding	-	-	-	-	-	-	-	-	-	-
+coref	0	68	anything	-	-	-	-	-	-	-	-	-	-
+coref	0	69	to	-	-	-	-	-	-	-	-	-	-
+coref	0	70	the	-	-	-	-	-	-	-	-	-	-
+coref	0	71	contrary	-	-	-	-	-	-	-	-	-	-
+coref	0	72	contained	-	-	-	-	-	-	-	-	-	-
+coref	0	73	in	-	-	-	-	-	-	-	-	-	-
+coref	0	74	this	-	-	-	-	-	-	-	-	-	-	(18
+coref	0	75	Code	-	-	-	-	-	-	-	-	-	-	18)
+coref	0	76	where	-	-	-	-	-	-	-	-	-	-
+coref	0	77	a	-	-	-	-	-	-	-	-	-	-
+coref	0	78	corporate	-	-	-	-	-	-	-	-	-	-
+coref	0	79	insolvency	-	-	-	-	-	-	-	-	-	-
+coref	0	80	resolution	-	-	-	-	-	-	-	-	-	-
+coref	0	81	process	-	-	-	-	-	-	-	-	-	-
+coref	0	82	or	-	-	-	-	-	-	-	-	-	-
+coref	0	83	liquidation	-	-	-	-	-	-	-	-	-	-
+coref	0	84	proceeding	-	-	-	-	-	-	-	-	-	-
+coref	0	85	of	-	-	-	-	-	-	-	-	-	-
+coref	0	86	a	-	-	-	-	-	-	-	-	-	-
+coref	0	87	corporate	-	-	-	-	-	-	-	-	-	-
+coref	0	88	debtor	-	-	-	-	-	-	-	-	-	-
+coref	0	89	is	-	-	-	-	-	-	-	-	-	-
+coref	0	90	pending	-	-	-	-	-	-	-	-	-	-
+coref	0	91	before	-	-	-	-	-	-	-	-	-	-
+coref	0	92	a	-	-	-	-	-	-	-	-	-	-
+coref	0	93	National	-	-	-	-	-	-	-	-	-	-
+coref	0	94	Company	-	-	-	-	-	-	-	-	-	-
+coref	0	95	Law	-	-	-	-	-	-	-	-	-	-
+coref	0	96	Tribunal.	-	-	-	-	-	-	-	-	-	-
+coref	0	97	Admittedly,	-	-	-	-	-	-	-	-	-	-
+coref	0	98	the	-	-	-	-	-	-	-	-	-	-
+coref	0	99	petition	-	-	-	-	-	-	-	-	-	-
+coref	0	100	was	-	-	-	-	-	-	-	-	-	-
+coref	0	101	filed	-	-	-	-	-	-	-	-	-	-
+coref	0	102	before	-	-	-	-	-	-	-	-	-	-
+coref	0	103	the	-	-	-	-	-	-	-	-	-	-
+coref	0	104	NCLT	-	-	-	-	-	-	-	-	-	-
+coref	0	105	only	-	-	-	-	-	-	-	-	-	-
+coref	0	106	on	-	-	-	-	-	-	-	-	-	-
+coref	0	107	25.09.2020.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(19
+coref	0	1	Limitation	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	3	1963	-	-	-	-	-	-	-	-	-	-	19)
+coref	0	4	is	-	-	-	-	-	-	-	-	-	-
+coref	0	5	an	-	-	-	-	-	-	-	-	-	-
+coref	0	6	Act	-	-	-	-	-	-	-	-	-	-
+coref	0	7	to	-	-	-	-	-	-	-	-	-	-
+coref	0	8	consolidate	-	-	-	-	-	-	-	-	-	-
+coref	0	9	and	-	-	-	-	-	-	-	-	-	-
+coref	0	10	amend	-	-	-	-	-	-	-	-	-	-
+coref	0	11	the	-	-	-	-	-	-	-	-	-	-
+coref	0	12	law	-	-	-	-	-	-	-	-	-	-
+coref	0	13	for	-	-	-	-	-	-	-	-	-	-
+coref	0	14	the	-	-	-	-	-	-	-	-	-	-
+coref	0	15	limitation	-	-	-	-	-	-	-	-	-	-
+coref	0	16	of	-	-	-	-	-	-	-	-	-	-
+coref	0	17	suits	-	-	-	-	-	-	-	-	-	-
+coref	0	18	and	-	-	-	-	-	-	-	-	-	-
+coref	0	19	other	-	-	-	-	-	-	-	-	-	-
+coref	0	20	proceedings.	-	-	-	-	-	-	-	-	-	-
+coref	0	21	An	-	-	-	-	-	-	-	-	-	-
+coref	0	22	appeal	-	-	-	-	-	-	-	-	-	-
+coref	0	23	against	-	-	-	-	-	-	-	-	-	-
+coref	0	24	an	-	-	-	-	-	-	-	-	-	-
+coref	0	25	order	-	-	-	-	-	-	-	-	-	-
+coref	0	26	approving	-	-	-	-	-	-	-	-	-	-
+coref	0	27	a	-	-	-	-	-	-	-	-	-	-
+coref	0	28	resolution	-	-	-	-	-	-	-	-	-	-
+coref	0	29	plan	-	-	-	-	-	-	-	-	-	-
+coref	0	30	under	-	-	-	-	-	-	-	-	-	-
+coref	0	31	Section	-	-	-	-	-	-	-	-	-	-	(19
+coref	0	32	31	-	-	-	-	-	-	-	-	-	-	19)
+coref	0	33	may	-	-	-	-	-	-	-	-	-	-
+coref	0	34	be	-	-	-	-	-	-	-	-	-	-
+coref	0	35	filed	-	-	-	-	-	-	-	-	-	-
+coref	0	36	on	-	-	-	-	-	-	-	-	-	-
+coref	0	37	the	-	-	-	-	-	-	-	-	-	-
+coref	0	38	following	-	-	-	-	-	-	-	-	-	-
+coref	0	39	grounds.	-	-	-	-	-	-	-	-	-	-
+coref	0	40		-	-	-	-	-	-	-	-	-	-
+coref	0	41	An	-	-	-	-	-	-	-	-	-	-
+coref	0	42	appeal	-	-	-	-	-	-	-	-	-	-
+coref	0	43	against	-	-	-	-	-	-	-	-	-	-
+coref	0	44	a	-	-	-	-	-	-	-	-	-	-
+coref	0	45	liquidation	-	-	-	-	-	-	-	-	-	-
+coref	0	46	order	-	-	-	-	-	-	-	-	-	-
+coref	0	47	passed	-	-	-	-	-	-	-	-	-	-
+coref	0	48	under	-	-	-	-	-	-	-	-	-	-
+coref	0	49	Section	-	-	-	-	-	-	-	-	-	-	(19
+coref	0	50	33	-	-	-	-	-	-	-	-	-	-	19)
+coref	0	51	or	-	-	-	-	-	-	-	-	-	-
+coref	0	52	subsection	-	-	-	-	-	-	-	-	-	-	(19
+coref	0	53	(4)	-	-	-	-	-	-	-	-	-	-
+coref	0	54	of	-	-	-	-	-	-	-	-	-	-
+coref	0	55	Section	-	-	-	-	-	-	-	-	-	-
+coref	0	56	54-L	-	-	-	-	-	-	-	-	-	-	19)
+coref	0	57	or	-	-	-	-	-	-	-	-	-	-
+coref	0	58	sub-section	-	-	-	-	-	-	-	-	-	-
+coref	0	59	(4)	-	-	-	-	-	-	-	-	-	-
+coref	0	60	of	-	-	-	-	-	-	-	-	-	-
+coref	0	61	Section	-	-	-	-	-	-	-	-	-	-
+coref	0	62	54-N,	-	-	-	-	-	-	-	-	-	-
+coref	0	63	may	-	-	-	-	-	-	-	-	-	-
+coref	0	64	be	-	-	-	-	-	-	-	-	-	-
+coref	0	65	filed	-	-	-	-	-	-	-	-	-	-
+coref	0	66	on	-	-	-	-	-	-	-	-	-	-
+coref	0	67	grounds	-	-	-	-	-	-	-	-	-	-
+coref	0	68	of	-	-	-	-	-	-	-	-	-	-
+coref	0	69	material	-	-	-	-	-	-	-	-	-	-
+coref	0	70	irregularity	-	-	-	-	-	-	-	-	-	-
+coref	0	71	or	-	-	-	-	-	-	-	-	-	-
+coref	0	72	fraud	-	-	-	-	-	-	-	-	-	-
+coref	0	73	committed	-	-	-	-	-	-	-	-	-	-
+coref	0	74	in	-	-	-	-	-	-	-	-	-	-
+coref	0	75	relation	-	-	-	-	-	-	-	-	-	-
+coref	0	76	to	-	-	-	-	-	-	-	-	-	-
+coref	0	77	such	-	-	-	-	-	-	-	-	-	-
+coref	0	78	a	-	-	-	-	-	-	-	-	-	-
+coref	0	79	liquidation	-	-	-	-	-	-	-	-	-	-
+coref	0	80	order.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(20
+coref	0	1	Constitution	-	-	-	-	-	-	-	-	-	-
+coref	0	2	of	-	-	-	-	-	-	-	-	-	-
+coref	0	3	India	-	-	-	-	-	-	-	-	-	-	20)
+coref	0	4	is	-	-	-	-	-	-	-	-	-	-
+coref	0	5	the	-	-	-	-	-	-	-	-	-	-
+coref	0	6	supreme	-	-	-	-	-	-	-	-	-	-
+coref	0	7	law	-	-	-	-	-	-	-	-	-	-
+coref	0	8	of	-	-	-	-	-	-	-	-	-	-
+coref	0	9	India.	-	-	-	-	-	-	-	-	-	-
+coref	0	10	THE	-	-	-	-	-	-	-	-	-	-
+coref	0	11	KERALA	-	-	-	-	-	-	-	-	-	-
+coref	0	12	MUNICIPALITY	-	-	-	-	-	-	-	-	-	-
+coref	0	13	ACT,	-	-	-	-	-	-	-	-	-	-
+coref	0	14	1994,	-	-	-	-	-	-	-	-	-	-
+coref	0	15	is	-	-	-	-	-	-	-	-	-	-
+coref	0	16	an	-	-	-	-	-	-	-	-	-	-
+coref	0	17	Act	-	-	-	-	-	-	-	-	-	-
+coref	0	18	to	-	-	-	-	-	-	-	-	-	-
+coref	0	19	replace	-	-	-	-	-	-	-	-	-	-
+coref	0	20	the	-	-	-	-	-	-	-	-	-	-
+coref	0	21	present	-	-	-	-	-	-	-	-	-	-
+coref	0	22	enactments	-	-	-	-	-	-	-	-	-	-
+coref	0	23	relating	-	-	-	-	-	-	-	-	-	-
+coref	0	24	to	-	-	-	-	-	-	-	-	-	-
+coref	0	25	Municipalities	-	-	-	-	-	-	-	-	-	-
+coref	0	26	and	-	-	-	-	-	-	-	-	-	-
+coref	0	27	Municipal	-	-	-	-	-	-	-	-	-	-
+coref	0	28	Corporations	-	-	-	-	-	-	-	-	-	-
+coref	0	29	by	-	-	-	-	-	-	-	-	-	-
+coref	0	30	a	-	-	-	-	-	-	-	-	-	-
+coref	0	31	comprehensive	-	-	-	-	-	-	-	-	-	-
+coref	0	32	enactment	-	-	-	-	-	-	-	-	-	-
+coref	0	33	in	-	-	-	-	-	-	-	-	-	-
+coref	0	34	line	-	-	-	-	-	-	-	-	-	-
+coref	0	35	with	-	-	-	-	-	-	-	-	-	-
+coref	0	36	the	-	-	-	-	-	-	-	-	-	-	(20
+coref	0	37	Constitution	-	-	-	-	-	-	-	-	-	-
+coref	0	38	(Seventy	-	-	-	-	-	-	-	-	-	-
+coref	0	39	Fourth)	-	-	-	-	-	-	-	-	-	-
+coref	0	40	Amendment	-	-	-	-	-	-	-	-	-	-
+coref	0	41	Act	-	-	-	-	-	-	-	-	-	-	20)
+coref	0	42	The	-	-	-	-	-	-	-	-	-	-
+coref	0	43	Government	-	-	-	-	-	-	-	-	-	-
+coref	0	44	of	-	-	-	-	-	-	-	-	-	-
+coref	0	45	Kerala	-	-	-	-	-	-	-	-	-	-
+coref	0	46	hereby	-	-	-	-	-	-	-	-	-	-
+coref	0	47	make	-	-	-	-	-	-	-	-	-	-
+coref	0	48	the	-	-	-	-	-	-	-	-	-	-
+coref	0	49	following	-	-	-	-	-	-	-	-	-	-
+coref	0	50	THE	-	-	-	-	-	-	-	-	-	-	(21
+coref	0	51	KERALA	-	-	-	-	-	-	-	-	-	-
+coref	0	52	MUNICIPALITY	-	-	-	-	-	-	-	-	-	-
+coref	0	53	(PROFESSION	-	-	-	-	-	-	-	-	-	-
+coref	0	54	TAX)	-	-	-	-	-	-	-	-	-	-
+coref	0	55	RULES,	-	-	-	-	-	-	-	-	-	-
+coref	0	56	2005	-	-	-	-	-	-	-	-	-	-	21)
+coref	0	57	The	-	-	-	-	-	-	-	-	-	-
+coref	0	58		-	-	-	-	-	-	-	-	-	-
+coref	0	59		-	-	-	-	-	-	-	-	-	-
+coref	0	60	subject	-	-	-	-	-	-	-	-	-	-
+coref	0	61		-	-	-	-	-	-	-	-	-	-
+coref	0	62		-	-	-	-	-	-	-	-	-	-
+coref	0	63	issue	-	-	-	-	-	-	-	-	-	-
+coref	0	64		-	-	-	-	-	-	-	-	-	-
+coref	0	65		-	-	-	-	-	-	-	-	-	-
+coref	0	66	relates	-	-	-	-	-	-	-	-	-	-
+coref	0	67		-	-	-	-	-	-	-	-	-	-
+coref	0	68		-	-	-	-	-	-	-	-	-	-
+coref	0	69	to	-	-	-	-	-	-	-	-	-	-
+coref	0	70		-	-	-	-	-	-	-	-	-	-
+coref	0	71		-	-	-	-	-	-	-	-	-	-
+coref	0	72	Rule	-	-	-	-	-	-	-	-	-	-	(21
+coref	0	73	3(2)	-	-	-	-	-	-	-	-	-	-	21)
+coref	0	74	of	-	-	-	-	-	-	-	-	-	-
+coref	0	75	the	-	-	-	-	-	-	-	-	-	-
+coref	0	76	Kerala	-	-	-	-	-	-	-	-	-	-
+coref	0	77	Municipality	-	-	-	-	-	-	-	-	-	-
+coref	0	78	(Profession	-	-	-	-	-	-	-	-	-	-
+coref	0	79	Tax)	-	-	-	-	-	-	-	-	-	-
+coref	0	80	Rules,	-	-	-	-	-	-	-	-	-	-
+coref	0	81	2005.	-	-	-	-	-	-	-	-	-	-
+coref	0	82		-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-
+coref	0	1	Hon'ble	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Apex	-	-	-	-	-	-	-	-	-	-
+coref	0	3	Court	-	-	-	-	-	-	-	-	-	-
+coref	0	4	considered	-	-	-	-	-	-	-	-	-	-
+coref	0	5	the	-	-	-	-	-	-	-	-	-	-
+coref	0	6	issue	-	-	-	-	-	-	-	-	-	-
+coref	0	7	of	-	-	-	-	-	-	-	-	-	-
+coref	0	8	refusal	-	-	-	-	-	-	-	-	-	-
+coref	0	9	of	-	-	-	-	-	-	-	-	-	-
+coref	0	10	licence	-	-	-	-	-	-	-	-	-	-
+coref	0	11	in	-	-	-	-	-	-	-	-	-	-
+coref	0	12	the	-	-	-	-	-	-	-	-	-	-
+coref	0	13	context	-	-	-	-	-	-	-	-	-	-
+coref	0	14	of	-	-	-	-	-	-	-	-	-	-
+coref	0	15	Cable	-	-	-	-	-	-	-	-	-	-	(22
+coref	0	16	Television	-	-	-	-	-	-	-	-	-	-
+coref	0	17	Networks	-	-	-	-	-	-	-	-	-	-
+coref	0	18	(Regulation)	-	-	-	-	-	-	-	-	-	-
+coref	0	19	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	20	1995	-	-	-	-	-	-	-	-	-	-	22)
+coref	0	21	in	-	-	-	-	-	-	-	-	-	-
+coref	0	22	Digi	-	-	-	-	-	-	-	-	-	-
+coref	0	23	Cable	-	-	-	-	-	-	-	-	-	-
+coref	0	24	Network	-	-	-	-	-	-	-	-	-	-
+coref	0	25	(India)	-	-	-	-	-	-	-	-	-	-
+coref	0	26	Private	-	-	-	-	-	-	-	-	-	-
+coref	0	27	Limited	-	-	-	-	-	-	-	-	-	-
+coref	0	28	(supra).	-	-	-	-	-	-	-	-	-	-
+coref	0	29	In	-	-	-	-	-	-	-	-	-	-
+coref	0	30	this	-	-	-	-	-	-	-	-	-	-
+coref	0	31	case,	-	-	-	-	-	-	-	-	-	-
+coref	0	32	admittedly	-	-	-	-	-	-	-	-	-	-
+coref	0	33	the	-	-	-	-	-	-	-	-	-	-
+coref	0	34	appellant	-	-	-	-	-	-	-	-	-	-
+coref	0	35	failed	-	-	-	-	-	-	-	-	-	-
+coref	0	36	to	-	-	-	-	-	-	-	-	-	-
+coref	0	37	obtain	-	-	-	-	-	-	-	-	-	-
+coref	0	38	the	-	-	-	-	-	-	-	-	-	-
+coref	0	39	security	-	-	-	-	-	-	-	-	-	-
+coref	0	40	clearance	-	-	-	-	-	-	-	-	-	-
+coref	0	41	as	-	-	-	-	-	-	-	-	-	-
+coref	0	42	provided	-	-	-	-	-	-	-	-	-	-
+coref	0	43	under	-	-	-	-	-	-	-	-	-	-
+coref	0	44	R.11C	-	-	-	-	-	-	-	-	-	-	(22)
+coref	0	45	of	-	-	-	-	-	-	-	-	-	-
+coref	0	46	the	-	-	-	-	-	-	-	-	-	-	(22
+coref	0	47	Rules	-	-	-	-	-	-	-	-	-	-	22)
+coref	0	48	It	-	-	-	-	-	-	-	-	-	-
+coref	0	49	was	-	-	-	-	-	-	-	-	-	-
+coref	0	50	a	-	-	-	-	-	-	-	-	-	-
+coref	0	51	mandatory	-	-	-	-	-	-	-	-	-	-
+coref	0	52	requirement	-	-	-	-	-	-	-	-	-	-
+coref	0	53	as	-	-	-	-	-	-	-	-	-	-
+coref	0	54	provided	-	-	-	-	-	-	-	-	-	-
+coref	0	55	under	-	-	-	-	-	-	-	-	-	-
+coref	0	56	R.11C	-	-	-	-	-	-	-	-	-	-	(22)
+coref	0	57	of	-	-	-	-	-	-	-	-	-	-
+coref	0	58	the	-	-	-	-	-	-	-	-	-	-	(22
+coref	0	59	Rules	-	-	-	-	-	-	-	-	-	-	22)
+coref	0	60	While	-	-	-	-	-	-	-	-	-	-
+coref	0	61	considering	-	-	-	-	-	-	-	-	-	-
+coref	0	62	the	-	-	-	-	-	-	-	-	-	-
+coref	0	63	issue	-	-	-	-	-	-	-	-	-	-
+coref	0	64	involved	-	-	-	-	-	-	-	-	-	-
+coref	0	65	in	-	-	-	-	-	-	-	-	-	-
+coref	0	66	these	-	-	-	-	-	-	-	-	-	-
+coref	0	67	writ	-	-	-	-	-	-	-	-	-	-
+coref	0	68	petitions,	-	-	-	-	-	-	-	-	-	-
+coref	0	69	this	-	-	-	-	-	-	-	-	-	-
+coref	0	70	Court	-	-	-	-	-	-	-	-	-	-
+coref	0	71	is	-	-	-	-	-	-	-	-	-	-
+coref	0	72	of	-	-	-	-	-	-	-	-	-	-
+coref	0	73	the	-	-	-	-	-	-	-	-	-	-
+coref	0	74	view	-	-	-	-	-	-	-	-	-	-
+coref	0	75	that	-	-	-	-	-	-	-	-	-	-
+coref	0	76	Rule	-	-	-	-	-	-	-	-	-	-	(22
+coref	0	77	6	-	-	-	-	-	-	-	-	-	-	22)
+coref	0	78	of	-	-	-	-	-	-	-	-	-	-
+coref	0	79	the	-	-	-	-	-	-	-	-	-	-
+coref	0	80	Cable	-	-	-	-	-	-	-	-	-	-
+coref	0	81	Television	-	-	-	-	-	-	-	-	-	-
+coref	0	82	Networks	-	-	-	-	-	-	-	-	-	-
+coref	0	83	Rules	-	-	-	-	-	-	-	-	-	-
+coref	0	84	providing	-	-	-	-	-	-	-	-	-	-
+coref	0	85	for	-	-	-	-	-	-	-	-	-	-
+coref	0	86	the	-	-	-	-	-	-	-	-	-	-
+coref	0	87	Program	-	-	-	-	-	-	-	-	-	-
+coref	0	88	Code	-	-	-	-	-	-	-	-	-	-
+coref	0	89	parameters	-	-	-	-	-	-	-	-	-	-
+coref	0	90	are	-	-	-	-	-	-	-	-	-	-
+coref	0	91	relevant.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(28
+coref	0	1	Calicut	-	-	-	-	-	-	-	-	-	-
+coref	0	2	University	-	-	-	-	-	-	-	-	-	-
+coref	0	3	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	4	1975	-	-	-	-	-	-	-	-	-	-	28)
+coref	0	5	is	-	-	-	-	-	-	-	-	-	-
+coref	0	6	An	-	-	-	-	-	-	-	-	-	-
+coref	0	7	Act	-	-	-	-	-	-	-	-	-	-
+coref	0	8	to	-	-	-	-	-	-	-	-	-	-
+coref	0	9	provide	-	-	-	-	-	-	-	-	-	-
+coref	0	10	for	-	-	-	-	-	-	-	-	-	-
+coref	0	11	the	-	-	-	-	-	-	-	-	-	-
+coref	0	12	reorganisation	-	-	-	-	-	-	-	-	-	-
+coref	0	13	of	-	-	-	-	-	-	-	-	-	-
+coref	0	14	the	-	-	-	-	-	-	-	-	-	-
+coref	0	15	University	-	-	-	-	-	-	-	-	-	-
+coref	0	16	of	-	-	-	-	-	-	-	-	-	-
+coref	0	17	Calicut.	-	-	-	-	-	-	-	-	-	-
+coref	0	18	However,	-	-	-	-	-	-	-	-	-	-
+coref	0	19	it	-	-	-	-	-	-	-	-	-	-
+coref	0	20	transpires	-	-	-	-	-	-	-	-	-	-
+coref	0	21	that	-	-	-	-	-	-	-	-	-	-
+coref	0	22	the	-	-	-	-	-	-	-	-	-	-
+coref	0	23	Registrar	-	-	-	-	-	-	-	-	-	-
+coref	0	24	of	-	-	-	-	-	-	-	-	-	-
+coref	0	25	the	-	-	-	-	-	-	-	-	-	-
+coref	0	26	University	-	-	-	-	-	-	-	-	-	-
+coref	0	27	addressed	-	-	-	-	-	-	-	-	-	-
+coref	0	28	the	-	-	-	-	-	-	-	-	-	-
+coref	0	29	Chancellor,	-	-	-	-	-	-	-	-	-	-
+coref	0	30	through	-	-	-	-	-	-	-	-	-	-
+coref	0	31	letter	-	-	-	-	-	-	-	-	-	-
+coref	0	32	dated	-	-	-	-	-	-	-	-	-	-
+coref	0	33	20.05.2015,	-	-	-	-	-	-	-	-	-	-
+coref	0	34	seeking	-	-	-	-	-	-	-	-	-	-
+coref	0	35	his	-	-	-	-	-	-	-	-	-	-
+coref	0	36	assent,	-	-	-	-	-	-	-	-	-	-
+coref	0	37	as	-	-	-	-	-	-	-	-	-	-
+coref	0	38	required	-	-	-	-	-	-	-	-	-	-
+coref	0	39	under	-	-	-	-	-	-	-	-	-	-
+coref	0	40	Section	-	-	-	-	-	-	-	-	-	-	(28
+coref	0	41	37(4)	-	-	-	-	-	-	-	-	-	-	28)
+coref	0	42	of	-	-	-	-	-	-	-	-	-	-
+coref	0	43	the	-	-	-	-	-	-	-	-	-	-	(28
+coref	0	44	Calicut	-	-	-	-	-	-	-	-	-	-
+coref	0	45	University	-	-	-	-	-	-	-	-	-	-
+coref	0	46	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	47	1975	-	-	-	-	-	-	-	-	-	-	28)
+coref	0	48	(hereinafter	-	-	-	-	-	-	-	-	-	-
+coref	0	49	referred	-	-	-	-	-	-	-	-	-	-
+coref	0	50	to	-	-	-	-	-	-	-	-	-	-
+coref	0	51	as	-	-	-	-	-	-	-	-	-	-
+coref	0	52	'the	-	-	-	-	-	-	-	-	-	-
+coref	0	53	Act'	-	-	-	-	-	-	-	-	-	-
+coref	0	54	for	-	-	-	-	-	-	-	-	-	-
+coref	0	55	short),	-	-	-	-	-	-	-	-	-	-
+coref	0	56	since	-	-	-	-	-	-	-	-	-	-
+coref	0	57	the	-	-	-	-	-	-	-	-	-	-
+coref	0	58	amendment	-	-	-	-	-	-	-	-	-	-
+coref	0	59	to	-	-	-	-	-	-	-	-	-	-
+coref	0	60	the	-	-	-	-	-	-	-	-	-	-
+coref	0	61	'First	-	-	-	-	-	-	-	-	-	-
+coref	0	62	Ordinances'	-	-	-	-	-	-	-	-	-	-
+coref	0	63	involved	-	-	-	-	-	-	-	-	-	-
+coref	0	64	expenditure.	-	-	-	-	-	-	-	-	-	-
+coref	0	65		-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(29
+coref	0	1	Guardians	-	-	-	-	-	-	-	-	-	-
+coref	0	2	and	-	-	-	-	-	-	-	-	-	-
+coref	0	3	Wards	-	-	-	-	-	-	-	-	-	-
+coref	0	4	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	5	1890	-	-	-	-	-	-	-	-	-	-	29)
+coref	0	6	is	-	-	-	-	-	-	-	-	-	-
+coref	0	7	an	-	-	-	-	-	-	-	-	-	-
+coref	0	8	Act	-	-	-	-	-	-	-	-	-	-
+coref	0	9	to	-	-	-	-	-	-	-	-	-	-
+coref	0	10	consolidate	-	-	-	-	-	-	-	-	-	-
+coref	0	11	and	-	-	-	-	-	-	-	-	-	-
+coref	0	12	amend	-	-	-	-	-	-	-	-	-	-
+coref	0	13	the	-	-	-	-	-	-	-	-	-	-
+coref	0	14	law	-	-	-	-	-	-	-	-	-	-
+coref	0	15	relating	-	-	-	-	-	-	-	-	-	-
+coref	0	16	to	-	-	-	-	-	-	-	-	-	-
+coref	0	17	Guardian	-	-	-	-	-	-	-	-	-	-
+coref	0	18	and	-	-	-	-	-	-	-	-	-	-
+coref	0	19	Ward.	-	-	-	-	-	-	-	-	-	-
+coref	0	20	The	-	-	-	-	-	-	-	-	-	-
+coref	0	21	sale	-	-	-	-	-	-	-	-	-	-
+coref	0	22	of	-	-	-	-	-	-	-	-	-	-
+coref	0	23	property	-	-	-	-	-	-	-	-	-	-
+coref	0	24	by	-	-	-	-	-	-	-	-	-	-
+coref	0	25	the	-	-	-	-	-	-	-	-	-	-
+coref	0	26	first	-	-	-	-	-	-	-	-	-	-
+coref	0	27	defendant	-	-	-	-	-	-	-	-	-	-
+coref	0	28	as	-	-	-	-	-	-	-	-	-	-
+coref	0	29	guardian	-	-	-	-	-	-	-	-	-	-
+coref	0	30	of	-	-	-	-	-	-	-	-	-	-
+coref	0	31	the	-	-	-	-	-	-	-	-	-	-
+coref	0	32	plaintiff	-	-	-	-	-	-	-	-	-	-
+coref	0	33	would	-	-	-	-	-	-	-	-	-	-
+coref	0	34	bind	-	-	-	-	-	-	-	-	-	-
+coref	0	35	the	-	-	-	-	-	-	-	-	-	-
+coref	0	36	plaintiff	-	-	-	-	-	-	-	-	-	-
+coref	0	37	and	-	-	-	-	-	-	-	-	-	-
+coref	0	38	being	-	-	-	-	-	-	-	-	-	-
+coref	0	39	the	-	-	-	-	-	-	-	-	-	-
+coref	0	40	natural	-	-	-	-	-	-	-	-	-	-
+coref	0	41	guardian	-	-	-	-	-	-	-	-	-	-
+coref	0	42	no	-	-	-	-	-	-	-	-	-	-
+coref	0	43	sanction	-	-	-	-	-	-	-	-	-	-
+coref	0	44	as	-	-	-	-	-	-	-	-	-	-
+coref	0	45	contemplated	-	-	-	-	-	-	-	-	-	-
+coref	0	46	under	-	-	-	-	-	-	-	-	-	-
+coref	0	47	Section	-	-	-	-	-	-	-	-	-	-	(29
+coref	0	48	29	-	-	-	-	-	-	-	-	-	-	29)
+coref	0	49	of	-	-	-	-	-	-	-	-	-	-
+coref	0	50	the	-	-	-	-	-	-	-	-	-	-	(29
+coref	0	51	Guardians	-	-	-	-	-	-	-	-	-	-
+coref	0	52	and	-	-	-	-	-	-	-	-	-	-
+coref	0	53	Wards	-	-	-	-	-	-	-	-	-	-
+coref	0	54	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	55	1890	-	-	-	-	-	-	-	-	-	-	29)
+coref	0	56	(for	-	-	-	-	-	-	-	-	-	-
+coref	0	57	short,	-	-	-	-	-	-	-	-	-	-
+coref	0	58	the	-	-	-	-	-	-	-	-	-	-
+coref	0	59	Act)	-	-	-	-	-	-	-	-	-	-
+coref	0	60	is	-	-	-	-	-	-	-	-	-	-
+coref	0	61	necessary.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(30
+coref	0	1	Constitution	-	-	-	-	-	-	-	-	-	-
+coref	0	2	of	-	-	-	-	-	-	-	-	-	-
+coref	0	3	India	-	-	-	-	-	-	-	-	-	-	30)
+coref	0	4	is	-	-	-	-	-	-	-	-	-	-
+coref	0	5	the	-	-	-	-	-	-	-	-	-	-
+coref	0	6	supreme	-	-	-	-	-	-	-	-	-	-
+coref	0	7	law	-	-	-	-	-	-	-	-	-	-
+coref	0	8	of	-	-	-	-	-	-	-	-	-	-
+coref	0	9	India.	-	-	-	-	-	-	-	-	-	-
+coref	0	10	The	-	-	-	-	-	-	-	-	-	-	(31
+coref	0	11	Karnataka	-	-	-	-	-	-	-	-	-	-
+coref	0	12	Land	-	-	-	-	-	-	-	-	-	-
+coref	0	13	Grabbing	-	-	-	-	-	-	-	-	-	-
+coref	0	14	Prohibition	-	-	-	-	-	-	-	-	-	-
+coref	0	15	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	16	2011	-	-	-	-	-	-	-	-	-	-	31)
+coref	0	17	is	-	-	-	-	-	-	-	-	-	-
+coref	0	18	an	-	-	-	-	-	-	-	-	-	-	(31
+coref	0	19	act	-	-	-	-	-	-	-	-	-	-	31)
+coref	0	20	to	-	-	-	-	-	-	-	-	-	-
+coref	0	21	provide	-	-	-	-	-	-	-	-	-	-
+coref	0	22	for	-	-	-	-	-	-	-	-	-	-
+coref	0	23	measures	-	-	-	-	-	-	-	-	-	-
+coref	0	24	to	-	-	-	-	-	-	-	-	-	-
+coref	0	25	curb	-	-	-	-	-	-	-	-	-	-
+coref	0	26	organized	-	-	-	-	-	-	-	-	-	-
+coref	0	27	attempts	-	-	-	-	-	-	-	-	-	-
+coref	0	28	to	-	-	-	-	-	-	-	-	-	-
+coref	0	29	grab	-	-	-	-	-	-	-	-	-	-
+coref	0	30	lands	-	-	-	-	-	-	-	-	-	-
+coref	0	31	belonging	-	-	-	-	-	-	-	-	-	-
+coref	0	32	to	-	-	-	-	-	-	-	-	-	-
+coref	0	33	the	-	-	-	-	-	-	-	-	-	-
+coref	0	34	Government.	-	-	-	-	-	-	-	-	-	-
+coref	0	35	This	-	-	-	-	-	-	-	-	-	-
+coref	0	36	writ	-	-	-	-	-	-	-	-	-	-
+coref	0	37	petition	-	-	-	-	-	-	-	-	-	-
+coref	0	38	is	-	-	-	-	-	-	-	-	-	-
+coref	0	39	filed	-	-	-	-	-	-	-	-	-	-
+coref	0	40	under	-	-	-	-	-	-	-	-	-	-
+coref	0	41	articles	-	-	-	-	-	-	-	-	-	-	(30
+coref	0	42	226	-	-	-	-	-	-	-	-	-	-
+coref	0	43	and	-	-	-	-	-	-	-	-	-	-
+coref	0	44	227	-	-	-	-	-	-	-	-	-	-	30)
+coref	0	45	of	-	-	-	-	-	-	-	-	-	-
+coref	0	46	the	-	-	-	-	-	-	-	-	-	-	(30
+coref	0	47	constitution	-	-	-	-	-	-	-	-	-	-	30)
+coref	0	48	of	-	-	-	-	-	-	-	-	-	-
+coref	0	49	India	-	-	-	-	-	-	-	-	-	-
+coref	0	50	praying	-	-	-	-	-	-	-	-	-	-
+coref	0	51	to	-	-	-	-	-	-	-	-	-	-
+coref	0	52	declare	-	-	-	-	-	-	-	-	-	-
+coref	0	53	and	-	-	-	-	-	-	-	-	-	-
+coref	0	54	quash	-	-	-	-	-	-	-	-	-	-
+coref	0	55	section	-	-	-	-	-	-	-	-	-	-	(31
+coref	0	56	11	-	-	-	-	-	-	-	-	-	-	31)
+coref	0	57	of	-	-	-	-	-	-	-	-	-	-
+coref	0	58	the	-	-	-	-	-	-	-	-	-	-   (31
+coref	0	59	karnataka	-	-	-	-	-	-	-	-	-	-
+coref	0	60	act	-	-	-	-	-	-	-	-	-	-   31)
+coref	0	61	no.38/2014	-	-	-	-	-	-	-	-	-	-
+coref	0	62	as	-	-	-	-	-	-	-	-	-	-
+coref	0	63	ultra	-	-	-	-	-	-	-	-	-	-
+coref	0	64	vires	-	-	-	-	-	-	-	-	-	-
+coref	0	65	and	-	-	-	-	-	-	-	-	-	-
+coref	0	66	unconstitutional	-	-	-	-	-	-	-	-	-	-
+coref	0	67	vide	-	-	-	-	-	-	-	-	-	-
+coref	0	68	annexure-g	-	-	-	-	-	-	-	-	-	-
+coref	0	69	dated:20.10.2014	-	-	-	-	-	-	-	-	-	-
+coref	0	70	published	-	-	-	-	-	-	-	-	-	-
+coref	0	71	in	-	-	-	-	-	-	-	-	-	-
+coref	0	72	the	-	-	-	-	-	-	-	-	-	-
+coref	0	73	karnataka	-	-	-	-	-	-	-	-	-	-
+coref	0	74	gazette.	-	-	-	-	-	-	-	-	-	-
+coref	0	75		-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(35
+coref	0	1	Trade	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Marks	-	-	-	-	-	-	-	-	-	-
+coref	0	3	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	4	1999	-	-	-	-	-	-	-	-	-	-	35)
+coref	0	5	is	-	-	-	-	-	-	-	-	-	-
+coref	0	6	an	-	-	-	-	-	-	-	-	-	-
+coref	0	7	act	-	-	-	-	-	-	-	-	-	-
+coref	0	8	to	-	-	-	-	-	-	-	-	-	-
+coref	0	9	amend	-	-	-	-	-	-	-	-	-	-
+coref	0	10	and	-	-	-	-	-	-	-	-	-	-
+coref	0	11	consolidate	-	-	-	-	-	-	-	-	-	-
+coref	0	12	the	-	-	-	-	-	-	-	-	-	-
+coref	0	13	law	-	-	-	-	-	-	-	-	-	-
+coref	0	14	relating	-	-	-	-	-	-	-	-	-	-
+coref	0	15	to	-	-	-	-	-	-	-	-	-	-
+coref	0	16	trade	-	-	-	-	-	-	-	-	-	-
+coref	0	17	marks,	-	-	-	-	-	-	-	-	-	-
+coref	0	18	to	-	-	-	-	-	-	-	-	-	-
+coref	0	19	provide	-	-	-	-	-	-	-	-	-	-
+coref	0	20	for	-	-	-	-	-	-	-	-	-	-
+coref	0	21	registration	-	-	-	-	-	-	-	-	-	-
+coref	0	22	and	-	-	-	-	-	-	-	-	-	-
+coref	0	23	better	-	-	-	-	-	-	-	-	-	-
+coref	0	24	protection	-	-	-	-	-	-	-	-	-	-
+coref	0	25	of	-	-	-	-	-	-	-	-	-	-
+coref	0	26	trade	-	-	-	-	-	-	-	-	-	-
+coref	0	27	marks	-	-	-	-	-	-	-	-	-	-
+coref	0	28	for	-	-	-	-	-	-	-	-	-	-
+coref	0	29	goods	-	-	-	-	-	-	-	-	-	-
+coref	0	30	and	-	-	-	-	-	-	-	-	-	-
+coref	0	31	services	-	-	-	-	-	-	-	-	-	-
+coref	0	32	and	-	-	-	-	-	-	-	-	-	-
+coref	0	33	for	-	-	-	-	-	-	-	-	-	-
+coref	0	34	the	-	-	-	-	-	-	-	-	-	-
+coref	0	35	prevention	-	-	-	-	-	-	-	-	-	-
+coref	0	36	of	-	-	-	-	-	-	-	-	-	-
+coref	0	37	the	-	-	-	-	-	-	-	-	-	-
+coref	0	38	use	-	-	-	-	-	-	-	-	-	-
+coref	0	39	of	-	-	-	-	-	-	-	-	-	-
+coref	0	40	fraudulent	-	-	-	-	-	-	-	-	-	-
+coref	0	41	marks.	-	-	-	-	-	-	-	-	-	-
+coref	0	42	Mr.	-	-	-	-	-	-	-	-	-	-
+coref	0	43	Chandra	-	-	-	-	-	-	-	-	-	-
+coref	0	44	submits	-	-	-	-	-	-	-	-	-	-
+coref	0	45	that	-	-	-	-	-	-	-	-	-	-
+coref	0	46	“mark”	-	-	-	-	-	-	-	-	-	-
+coref	0	47	is	-	-	-	-	-	-	-	-	-	-
+coref	0	48	defined	-	-	-	-	-	-	-	-	-	-
+coref	0	49	in	-	-	-	-	-	-	-	-	-	-
+coref	0	50	section	-	-	-	-	-	-	-	-	-	-	(35
+coref	0	51	2(1)(m)	-	-	-	-	-	-	-	-	-	-	35)
+coref	0	52	of	-	-	-	-	-	-	-	-	-	-
+coref	0	53	the	-	-	-	-	-	-	-	-	-	-	(35
+coref	0	54	Trademarks	-	-	-	-	-	-	-	-	-	-
+coref	0	55	Act	-	-	-	-	-	-	-	-	-	-	35)
+coref	0	56	to	-	-	-	-	-	-	-	-	-	-
+coref	0	57	include	-	-	-	-	-	-	-	-	-	-
+coref	0	58	a	-	-	-	-	-	-	-	-	-	-
+coref	0	59	label.	-	-	-	-	-	-	-	-	-	-
+coref	0	60	Trademark	-	-	-	-	-	-	-	-	-	-
+coref	0	61	is	-	-	-	-	-	-	-	-	-	-
+coref	0	62	defined	-	-	-	-	-	-	-	-	-	-
+coref	0	63	in	-	-	-	-	-	-	-	-	-	-
+coref	0	64	Section	-	-	-	-	-	-	-	-	-	-	(35
+coref	0	65	2(1)(zb)	-	-	-	-	-	-	-	-	-	-	35)
+coref	0	66	to	-	-	-	-	-	-	-	-	-	-
+coref	0	67	mean	-	-	-	-	-	-	-	-	-	-
+coref	0	68	a	-	-	-	-	-	-	-	-	-	-
+coref	0	69	mark	-	-	-	-	-	-	-	-	-	-
+coref	0	70	capable	-	-	-	-	-	-	-	-	-	-
+coref	0	71	of	-	-	-	-	-	-	-	-	-	-
+coref	0	72	being	-	-	-	-	-	-	-	-	-	-
+coref	0	73	represented	-	-	-	-	-	-	-	-	-	-
+coref	0	74	graphically.	-	-	-	-	-	-	-	-	-	-
+coref	0	75	Mr.	-	-	-	-	-	-	-	-	-	-
+coref	0	76	Chandra	-	-	-	-	-	-	-	-	-	-
+coref	0	77	has	-	-	-	-	-	-	-	-	-	-
+coref	0	78	also	-	-	-	-	-	-	-	-	-	-
+coref	0	79	drawn	-	-	-	-	-	-	-	-	-	-
+coref	0	80	the	-	-	-	-	-	-	-	-	-	-
+coref	0	81	attention	-	-	-	-	-	-	-	-	-	-
+coref	0	82	of	-	-	-	-	-	-	-	-	-	-
+coref	0	83	the	-	-	-	-	-	-	-	-	-	-
+coref	0	84	Court	-	-	-	-	-	-	-	-	-	-
+coref	0	85	to	-	-	-	-	-	-	-	-	-	-
+coref	0	86	Section	-	-	-	-	-	-	-	-	-	-	(35
+coref	0	87	29	-	-	-	-	-	-	-	-	-	-	35)
+coref	0	88	of	-	-	-	-	-	-	-	-	-	-
+coref	0	89	the	-	-	-	-	-	-	-	-	-	-
+coref	0	90	Trademarks	-	-	-	-	-	-	-	-	-	-
+coref	0	91	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	92	which	-	-	-	-	-	-	-	-	-	-
+coref	0	93	sets	-	-	-	-	-	-	-	-	-	-
+coref	0	94	out	-	-	-	-	-	-	-	-	-	-
+coref	0	95	the	-	-	-	-	-	-	-	-	-	-
+coref	0	96	circumstances	-	-	-	-	-	-	-	-	-	-
+coref	0	97	in	-	-	-	-	-	-	-	-	-	-
+coref	0	98	which	-	-	-	-	-	-	-	-	-	-
+coref	0	99	the	-	-	-	-	-	-	-	-	-	-
+coref	0	100	registered	-	-	-	-	-	-	-	-	-	-
+coref	0	101	trademark	-	-	-	-	-	-	-	-	-	-
+coref	0	102	is	-	-	-	-	-	-	-	-	-	-
+coref	0	103	infringed	-	-	-	-	-	-	-	-	-	-
+coref	0	104	by	-	-	-	-	-	-	-	-	-	-
+coref	0	105	a	-	-	-	-	-	-	-	-	-	-
+coref	0	106	person.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(40
+coref	0	1	Arbitration	-	-	-	-	-	-	-	-	-	-
+coref	0	2	and	-	-	-	-	-	-	-	-	-	-
+coref	0	3	Conciliation	-	-	-	-	-	-	-	-	-	-
+coref	0	4	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	5	1996	-	-	-	-	-	-	-	-	-	-	40)
+coref	0	6	is	-	-	-	-	-	-	-	-	-	-
+coref	0	7	an	-	-	-	-	-	-	-	-	-	-	(40
+coref	0	8	Act	-	-	-	-	-	-	-	-	-	-	40)
+coref	0	9	to	-	-	-	-	-	-	-	-	-	-
+coref	0	10	consolidate	-	-	-	-	-	-	-	-	-	-
+coref	0	11	and	-	-	-	-	-	-	-	-	-	-
+coref	0	12	amend	-	-	-	-	-	-	-	-	-	-
+coref	0	13	the	-	-	-	-	-	-	-	-	-	-
+coref	0	14	law	-	-	-	-	-	-	-	-	-	-
+coref	0	15	relating	-	-	-	-	-	-	-	-	-	-
+coref	0	16	to	-	-	-	-	-	-	-	-	-	-
+coref	0	17	domestic	-	-	-	-	-	-	-	-	-	-
+coref	0	18	arbitration,	-	-	-	-	-	-	-	-	-	-
+coref	0	19	international	-	-	-	-	-	-	-	-	-	-
+coref	0	20	commercial	-	-	-	-	-	-	-	-	-	-
+coref	0	21	arbitration	-	-	-	-	-	-	-	-	-	-
+coref	0	22	and	-	-	-	-	-	-	-	-	-	-
+coref	0	23	enforcement	-	-	-	-	-	-	-	-	-	-
+coref	0	24	of	-	-	-	-	-	-	-	-	-	-
+coref	0	25	foreign	-	-	-	-	-	-	-	-	-	-
+coref	0	26	arbitral	-	-	-	-	-	-	-	-	-	-
+coref	0	27	awards.	-	-	-	-	-	-	-	-	-	-
+coref	0	28	Both	-	-	-	-	-	-	-	-	-	-
+coref	0	29	these	-	-	-	-	-	-	-	-	-	-
+coref	0	30	petitions,	-	-	-	-	-	-	-	-	-	-
+coref	0	31	under	-	-	-	-	-	-	-	-	-	-
+coref	0	32	Section	-	-	-	-	-	-	-	-	-	-	(40
+coref	0	33	34	-	-	-	-	-	-	-	-	-	-	40)
+coref	0	34	of	-	-	-	-	-	-	-	-	-	-
+coref	0	35	the	-	-	-	-	-	-	-	-	-	-	(40
+coref	0	36	Arbitration	-	-	-	-	-	-	-	-	-	-
+coref	0	37	and	-	-	-	-	-	-	-	-	-	-
+coref	0	38	Conciliation	-	-	-	-	-	-	-	-	-	-
+coref	0	39	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	40	1996	-	-	-	-	-	-	-	-	-	-	40)
+coref	0	41	(“the	-	-	-	-	-	-	-	-	-	-
+coref	0	42	1996	-	-	-	-	-	-	-	-	-	-
+coref	0	43	Act”)	-	-	-	-	-	-	-	-	-	-
+coref	0	44	assail	-	-	-	-	-	-	-	-	-	-
+coref	0	45	an	-	-	-	-	-	-	-	-	-	-
+coref	0	46	award	-	-	-	-	-	-	-	-	-	-
+coref	0	47	dated	-	-	-	-	-	-	-	-	-	-
+coref	0	48	14th	-	-	-	-	-	-	-	-	-	-
+coref	0	49	January,	-	-	-	-	-	-	-	-	-	-
+coref	0	50	2020,	-	-	-	-	-	-	-	-	-	-
+coref	0	51	passed	-	-	-	-	-	-	-	-	-	-
+coref	0	52	by	-	-	-	-	-	-	-	-	-	-
+coref	0	53	a	-	-	-	-	-	-	-	-	-	-
+coref	0	54	learned	-	-	-	-	-	-	-	-	-	-
+coref	0	55	three	-	-	-	-	-	-	-	-	-	-
+coref	0	56	member	-	-	-	-	-	-	-	-	-	-
+coref	0	57	Arbitral	-	-	-	-	-	-	-	-	-	-
+coref	0	58	Tribunal.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	Insolvency	-	-	-	-	-	-	-	-	-	-	(44
+coref	0	1	and	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Bankruptcy	-	-	-	-	-	-	-	-	-	-
+coref	0	3	Code	-	-	-	-	-	-	-	-	-	-
+coref	0	4	2016	-	-	-	-	-	-	-	-	-	-	44)
+coref	0	5	an	-	-	-	-	-	-	-	-	-	-	(44
+coref	0	6	Act	-	-	-	-	-	-	-	-	-	-	44)
+coref	0	7	to	-	-	-	-	-	-	-	-	-	-
+coref	0	8	consolidate	-	-	-	-	-	-	-	-	-	-
+coref	0	9	and	-	-	-	-	-	-	-	-	-	-
+coref	0	10	amend	-	-	-	-	-	-	-	-	-	-
+coref	0	11	the	-	-	-	-	-	-	-	-	-	-
+coref	0	12	laws	-	-	-	-	-	-	-	-	-	-
+coref	0	13	relating	-	-	-	-	-	-	-	-	-	-
+coref	0	14	to	-	-	-	-	-	-	-	-	-	-
+coref	0	15	reorganisation	-	-	-	-	-	-	-	-	-	-
+coref	0	16	and	-	-	-	-	-	-	-	-	-	-
+coref	0	17	insolvency	-	-	-	-	-	-	-	-	-	-
+coref	0	18	resolution	-	-	-	-	-	-	-	-	-	-
+coref	0	19	of	-	-	-	-	-	-	-	-	-	-
+coref	0	20	corporate	-	-	-	-	-	-	-	-	-	-
+coref	0	21	persons.	-	-	-	-	-	-	-	-	-	-
+coref	0	22	Reliance	-	-	-	-	-	-	-	-	-	-
+coref	0	23	was	-	-	-	-	-	-	-	-	-	-
+coref	0	24	placed	-	-	-	-	-	-	-	-	-	-
+coref	0	25	on	-	-	-	-	-	-	-	-	-	-
+coref	0	26	notification	-	-	-	-	-	-	-	-	-	-
+coref	0	27	No.S4/1205	-	-	-	-	-	-	-	-	-	-
+coref	0	28	(E)	-	-	-	-	-	-	-	-	-	-
+coref	0	29	dated	-	-	-	-	-	-	-	-	-	-
+coref	0	30	24.3.2020	-	-	-	-	-	-	-	-	-	-
+coref	0	31	published	-	-	-	-	-	-	-	-	-	-
+coref	0	32	by	-	-	-	-	-	-	-	-	-	-
+coref	0	33	the	-	-	-	-	-	-	-	-	-	-
+coref	0	34	Ministry	-	-	-	-	-	-	-	-	-	-
+coref	0	35	Corporate	-	-	-	-	-	-	-	-	-	-
+coref	0	36	Affairs,	-	-	-	-	-	-	-	-	-	-
+coref	0	37	Government	-	-	-	-	-	-	-	-	-	-
+coref	0	38	of	-	-	-	-	-	-	-	-	-	-
+coref	0	39	India,	-	-	-	-	-	-	-	-	-	-
+coref	0	40	whereby	-	-	-	-	-	-	-	-	-	-
+coref	0	41	Section	-	-	-	-	-	-	-	-	-	-	(44
+coref	0	42	4	-	-	-	-	-	-	-	-	-	-	44)
+coref	0	43	of	-	-	-	-	-	-	-	-	-	-
+coref	0	44	the	-	-	-	-	-	-	-	-	-	-
+coref	0	45	IBC	-	-	-	-	-	-	-	-	-	-
+coref	0	46	was	-	-	-	-	-	-	-	-	-	-
+coref	0	47	amended	-	-	-	-	-	-	-	-	-	-
+coref	0	48	and	-	-	-	-	-	-	-	-	-	-
+coref	0	49	the	-	-	-	-	-	-	-	-	-	-
+coref	0	50	minimum	-	-	-	-	-	-	-	-	-	-
+coref	0	51	amount	-	-	-	-	-	-	-	-	-	-
+coref	0	52	of	-	-	-	-	-	-	-	-	-	-
+coref	0	53	default	-	-	-	-	-	-	-	-	-	-
+coref	0	54	was	-	-	-	-	-	-	-	-	-	-
+coref	0	55	increased	-	-	-	-	-	-	-	-	-	-
+coref	0	56	to	-	-	-	-	-	-	-	-	-	-
+coref	0	57	Rs.1	-	-	-	-	-	-	-	-	-	-
+coref	0	58	Crore.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	THE	-	-	-	-	-	-	-	-	-	-	(47
+coref	0	1	COMPANIES	-	-	-	-	-	-	-	-	-	-
+coref	0	2	ACT,	-	-	-	-	-	-	-	-	-	-
+coref	0	3	2013	-	-	-	-	-	-	-	-	-	-	47)
+coref	0	4	is	-	-	-	-	-	-	-	-	-	-
+coref	0	5	an	-	-	-	-	-	-	-	-	-	-	(47
+coref	0	6	Act	-	-	-	-	-	-	-	-	-	-	47)
+coref	0	7	to	-	-	-	-	-	-	-	-	-	-
+coref	0	8	consolidate	-	-	-	-	-	-	-	-	-	-
+coref	0	9	and	-	-	-	-	-	-	-	-	-	-
+coref	0	10	amend	-	-	-	-	-	-	-	-	-	-
+coref	0	11	the	-	-	-	-	-	-	-	-	-	-
+coref	0	12	law	-	-	-	-	-	-	-	-	-	-
+coref	0	13	relating	-	-	-	-	-	-	-	-	-	-
+coref	0	14	to	-	-	-	-	-	-	-	-	-	-
+coref	0	15	companies.	-	-	-	-	-	-	-	-	-	-
+coref	0	16	In	-	-	-	-	-	-	-	-	-	-
+coref	0	17	exercise	-	-	-	-	-	-	-	-	-	-
+coref	0	18	of	-	-	-	-	-	-	-	-	-	-
+coref	0	19	the	-	-	-	-	-	-	-	-	-	-
+coref	0	20	powers	-	-	-	-	-	-	-	-	-	-
+coref	0	21	conferred	-	-	-	-	-	-	-	-	-	-
+coref	0	22	by	-	-	-	-	-	-	-	-	-	-
+coref	0	23	section	-	-	-	-	-	-	-	-	-	-	(47
+coref	0	24	469	-	-	-	-	-	-	-	-	-	-	47)
+coref	0	25	of	-	-	-	-	-	-	-	-	-	-
+coref	0	26	the	-	-	-	-	-	-	-	-	-	-	(47
+coref	0	27	companies	-	-	-	-	-	-	-	-	-	-
+coref	0	28	act	-	-	-	-	-	-	-	-	-	-	47)
+coref	0	29	the	-	-	-	-	-	-	-	-	-	-
+coref	0	30	central	-	-	-	-	-	-	-	-	-	-
+coref	0	31	government	-	-	-	-	-	-	-	-	-	-
+coref	0	32	made	-	-	-	-	-	-	-	-	-	-
+coref	0	33	the	-	-	-	-	-	-	-	-	-	-	(50
+coref	0	34	National	-	-	-	-	-	-	-	-	-	-
+coref	0	35	Company	-	-	-	-	-	-	-	-	-	-
+coref	0	36	Law	-	-	-	-	-	-	-	-	-	-
+coref	0	37	Tribunal	-	-	-	-	-	-	-	-	-	-
+coref	0	38	Rules	-	-	-	-	-	-	-	-	-	-	50)
+coref	0	39	The	-	-	-	-	-	-	-	-	-	-
+coref	0	40	National	-	-	-	-	-	-	-	-	-	-
+coref	0	41	Company	-	-	-	-	-	-	-	-	-	-
+coref	0	42	Law	-	-	-	-	-	-	-	-	-	-
+coref	0	43	Tribunal	-	-	-	-	-	-	-	-	-	-
+coref	0	44	shall	-	-	-	-	-	-	-	-	-	-
+coref	0	45	be	-	-	-	-	-	-	-	-	-	-
+coref	0	46	vested	-	-	-	-	-	-	-	-	-	-
+coref	0	47	with	-	-	-	-	-	-	-	-	-	-
+coref	0	48	all	-	-	-	-	-	-	-	-	-	-
+coref	0	49	the	-	-	-	-	-	-	-	-	-	-
+coref	0	50	powers	-	-	-	-	-	-	-	-	-	-
+coref	0	51	of	-	-	-	-	-	-	-	-	-	-
+coref	0	52	the	-	-	-	-	-	-	-	-	-	-
+coref	0	53	Debts	-	-	-	-	-	-	-	-	-	-
+coref	0	54	Recovery	-	-	-	-	-	-	-	-	-	-
+coref	0	55	Tribunal	-	-	-	-	-	-	-	-	-	-
+coref	0	56	as	-	-	-	-	-	-	-	-	-	-
+coref	0	57	contemplated	-	-	-	-	-	-	-	-	-	-
+coref	0	58	under	-	-	-	-	-	-	-	-	-	-
+coref	0	59	Part	-	-	-	-	-	-	-	-	-	-
+coref	0	60	III	-	-	-	-	-	-	-	-	-	-
+coref	0	61	of	-	-	-	-	-	-	-	-	-	-
+coref	0	62	this	-	-	-	-	-	-	-	-	-	-	(50
+coref	0	63	Code	-	-	-	-	-	-	-	-	-	-	50)
+coref	0	64	for	-	-	-	-	-	-	-	-	-	-
+coref	0	65	the	-	-	-	-	-	-	-	-	-	-
+coref	0	66	purpose	-	-	-	-	-	-	-	-	-	-
+coref	0	67	of	-	-	-	-	-	-	-	-	-	-
+coref	0	68	sub-section	-	-	-	-	-	-	-	-	-	-
+coref	0	69	(2).	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(53
+coref	0	1	Calicut	-	-	-	-	-	-	-	-	-	-
+coref	0	2	University	-	-	-	-	-	-	-	-	-	-
+coref	0	3	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	4	1975	-	-	-	-	-	-	-	-	-	-	53)
+coref	0	5	is	-	-	-	-	-	-	-	-	-	-
+coref	0	6	An	-	-	-	-	-	-	-	-	-	-	(53
+coref	0	7	Act	-	-	-	-	-	-	-	-	-	-	53)
+coref	0	8	to	-	-	-	-	-	-	-	-	-	-
+coref	0	9	provide	-	-	-	-	-	-	-	-	-	-
+coref	0	10	for	-	-	-	-	-	-	-	-	-	-
+coref	0	11	the	-	-	-	-	-	-	-	-	-	-
+coref	0	12	reorganisation	-	-	-	-	-	-	-	-	-	-
+coref	0	13	of	-	-	-	-	-	-	-	-	-	-
+coref	0	14	the	-	-	-	-	-	-	-	-	-	-
+coref	0	15	University	-	-	-	-	-	-	-	-	-	-
+coref	0	16	of	-	-	-	-	-	-	-	-	-	-
+coref	0	17	Calicut.	-	-	-	-	-	-	-	-	-	-
+coref	0	18	Sri.Jaju	-	-	-	-	-	-	-	-	-	-
+coref	0	19	Babu,	-	-	-	-	-	-	-	-	-	-
+coref	0	20	thereupon,	-	-	-	-	-	-	-	-	-	-
+coref	0	21	went	-	-	-	-	-	-	-	-	-	-
+coref	0	22	extensively	-	-	-	-	-	-	-	-	-	-
+coref	0	23	through	-	-	-	-	-	-	-	-	-	-
+coref	0	24	the	-	-	-	-	-	-	-	-	-	-
+coref	0	25	provisions	-	-	-	-	-	-	-	-	-	-
+coref	0	26	of	-	-	-	-	-	-	-	-	-	-
+coref	0	27	the	-	-	-	-	-	-	-	-	-	-	(53
+coref	0	28	“Act”	-	-	-	-	-	-	-	-	-	-	53)
+coref	0	29	to	-	-	-	-	-	-	-	-	-	-
+coref	0	30	impress	-	-	-	-	-	-	-	-	-	-
+coref	0	31	upon	-	-	-	-	-	-	-	-	-	-
+coref	0	32	me	-	-	-	-	-	-	-	-	-	-
+coref	0	33	that	-	-	-	-	-	-	-	-	-	-
+coref	0	34	the	-	-	-	-	-	-	-	-	-	-
+coref	0	35	power	-	-	-	-	-	-	-	-	-	-
+coref	0	36	to	-	-	-	-	-	-	-	-	-	-
+coref	0	37	make	-	-	-	-	-	-	-	-	-	-
+coref	0	38	Ordinances	-	-	-	-	-	-	-	-	-	-
+coref	0	39	and	-	-	-	-	-	-	-	-	-	-
+coref	0	40	providing	-	-	-	-	-	-	-	-	-	-
+coref	0	41	for	-	-	-	-	-	-	-	-	-	-
+coref	0	42	the	-	-	-	-	-	-	-	-	-	-
+coref	0	43	matters	-	-	-	-	-	-	-	-	-	-
+coref	0	44	mentioned	-	-	-	-	-	-	-	-	-	-
+coref	0	45	in	-	-	-	-	-	-	-	-	-	-
+coref	0	46	Section	-	-	-	-	-	-	-	-	-	-	(53
+coref	0	47	36	-	-	-	-	-	-	-	-	-	-	53)
+coref	0	48	thereof,	-	-	-	-	-	-	-	-	-	-
+coref	0	49	is	-	-	-	-	-	-	-	-	-	-
+coref	0	50	exclusively	-	-	-	-	-	-	-	-	-	-
+coref	0	51	with	-	-	-	-	-	-	-	-	-	-
+coref	0	52	the	-	-	-	-	-	-	-	-	-	-
+coref	0	53	Syndicate	-	-	-	-	-	-	-	-	-	-
+coref	0	54		-	-	-	-	-	-	-	-	-	-
+coref	0	55	and	-	-	-	-	-	-	-	-	-	-
+coref	0	56	that	-	-	-	-	-	-	-	-	-	-
+coref	0	57	the	-	-	-	-	-	-	-	-	-	-
+coref	0	58	procedure	-	-	-	-	-	-	-	-	-	-
+coref	0	59	for	-	-	-	-	-	-	-	-	-	-
+coref	0	60	making	-	-	-	-	-	-	-	-	-	-
+coref	0	61	the	-	-	-	-	-	-	-	-	-	-
+coref	0	62	same	-	-	-	-	-	-	-	-	-	-
+coref	0	63	is	-	-	-	-	-	-	-	-	-	-
+coref	0	64	governed	-	-	-	-	-	-	-	-	-	-
+coref	0	65	by	-	-	-	-	-	-	-	-	-	-
+coref	0	66	the	-	-	-	-	-	-	-	-	-	-
+coref	0	67	stipulations	-	-	-	-	-	-	-	-	-	-
+coref	0	68	in	-	-	-	-	-	-	-	-	-	-
+coref	0	69	Section	-	-	-	-	-	-	-	-	-	-	(53
+coref	0	70	37	-	-	-	-	-	-	-	-	-	-	53)
+coref	0	71	of	-	-	-	-	-	-	-	-	-	-
+coref	0	72	it.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-
+coref	0	1	Local	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Level	-	-	-	-	-	-	-	-	-	-
+coref	0	3	Monitoring	-	-	-	-	-	-	-	-	-	-
+coref	0	4	Committee	-	-	-	-	-	-	-	-	-	-
+coref	0	5	(for	-	-	-	-	-	-	-	-	-	-
+coref	0	6	short	-	-	-	-	-	-	-	-	-	-
+coref	0	7	'LLMC')	-	-	-	-	-	-	-	-	-	-
+coref	0	8	constituted	-	-	-	-	-	-	-	-	-	-
+coref	0	9	as	-	-	-	-	-	-	-	-	-	-
+coref	0	10	per	-	-	-	-	-	-	-	-	-	-
+coref	0	11	Kerala	-	-	-	-	-	-	-	-	-	-	(115
+coref	0	12	Conservation	-	-	-	-	-	-	-	-	-	-
+coref	0	13	of	-	-	-	-	-	-	-	-	-	-
+coref	0	14	Paddy	-	-	-	-	-	-	-	-	-	-
+coref	0	15	Land	-	-	-	-	-	-	-	-	-	-
+coref	0	16	and	-	-	-	-	-	-	-	-	-	-
+coref	0	17	Wetland	-	-	-	-	-	-	-	-	-	-
+coref	0	18	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	19	2008	-	-	-	-	-	-	-	-	-	-	115)
+coref	0	20	The	-	-	-	-	-	-	-	-	-	-
+coref	0	21	power	-	-	-	-	-	-	-	-	-	-
+coref	0	22	that	-	-	-	-	-	-	-	-	-	-
+coref	0	23	has	-	-	-	-	-	-	-	-	-	-
+coref	0	24	been	-	-	-	-	-	-	-	-	-	-
+coref	0	25	conferred	-	-	-	-	-	-	-	-	-	-
+coref	0	26	upon	-	-	-	-	-	-	-	-	-	-
+coref	0	27	them	-	-	-	-	-	-	-	-	-	-
+coref	0	28	as	-	-	-	-	-	-	-	-	-	-
+coref	0	29	pointed	-	-	-	-	-	-	-	-	-	-
+coref	0	30	out	-	-	-	-	-	-	-	-	-	-
+coref	0	31	above	-	-	-	-	-	-	-	-	-	-
+coref	0	32	to	-	-	-	-	-	-	-	-	-	-
+coref	0	33	determine	-	-	-	-	-	-	-	-	-	-
+coref	0	34	a	-	-	-	-	-	-	-	-	-	-
+coref	0	35	land	-	-	-	-	-	-	-	-	-	-
+coref	0	36	as	-	-	-	-	-	-	-	-	-	-
+coref	0	37	paddy	-	-	-	-	-	-	-	-	-	-
+coref	0	38	land	-	-	-	-	-	-	-	-	-	-
+coref	0	39	or	-	-	-	-	-	-	-	-	-	-
+coref	0	40	not	-	-	-	-	-	-	-	-	-	-
+coref	0	41	is	-	-	-	-	-	-	-	-	-	-
+coref	0	42	based	-	-	-	-	-	-	-	-	-	-
+coref	0	43	on	-	-	-	-	-	-	-	-	-	-
+coref	0	44	the	-	-	-	-	-	-	-	-	-	-
+coref	0	45	facts	-	-	-	-	-	-	-	-	-	-
+coref	0	46	that	-	-	-	-	-	-	-	-	-	-
+coref	0	47	exists	-	-	-	-	-	-	-	-	-	-
+coref	0	48	at	-	-	-	-	-	-	-	-	-	-
+coref	0	49	the	-	-	-	-	-	-	-	-	-	-
+coref	0	50	time	-	-	-	-	-	-	-	-	-	-
+coref	0	51	of	-	-	-	-	-	-	-	-	-	-
+coref	0	52	Act	-	-	-	-	-	-	-	-	-	-	(115
+coref	0	53	28/2008	-	-	-	-	-	-	-	-	-	-	115)
+coref	0	54	came	-	-	-	-	-	-	-	-	-	-
+coref	0	55	into	-	-	-	-	-	-	-	-	-	-
+coref	0	56	force	-	-	-	-	-	-	-	-	-	-
+coref	0	57	on	-	-	-	-	-	-	-	-	-	-
+coref	0	58	12/08/2008.	-	-	-	-	-	-	-	-	-	-
+coref	0	59		-	-	-	-	-	-	-	-	-	-
+coref	0	60	The	-	-	-	-	-	-	-	-	-	-
+coref	0	61	expert	-	-	-	-	-	-	-	-	-	-
+coref	0	62	opinion	-	-	-	-	-	-	-	-	-	-
+coref	0	63	given	-	-	-	-	-	-	-	-	-	-
+coref	0	64	by	-	-	-	-	-	-	-	-	-	-
+coref	0	65	the	-	-	-	-	-	-	-	-	-	-
+coref	0	66	LLMC	-	-	-	-	-	-	-	-	-	-
+coref	0	67	that	-	-	-	-	-	-	-	-	-	-
+coref	0	68	after	-	-	-	-	-	-	-	-	-	-
+coref	0	69	the	-	-	-	-	-	-	-	-	-	-
+coref	0	70	removal	-	-	-	-	-	-	-	-	-	-
+coref	0	71	of	-	-	-	-	-	-	-	-	-	-
+coref	0	72	coconut	-	-	-	-	-	-	-	-	-	-
+coref	0	73	trees,	-	-	-	-	-	-	-	-	-	-
+coref	0	74	paddy	-	-	-	-	-	-	-	-	-	-
+coref	0	75	can	-	-	-	-	-	-	-	-	-	-
+coref	0	76	be	-	-	-	-	-	-	-	-	-	-
+coref	0	77	cultivated	-	-	-	-	-	-	-	-	-	-
+coref	0	78	is	-	-	-	-	-	-	-	-	-	-
+coref	0	79	something	-	-	-	-	-	-	-	-	-	-
+coref	0	80	that	-	-	-	-	-	-	-	-	-	-
+coref	0	81	is	-	-	-	-	-	-	-	-	-	-
+coref	0	82	not	-	-	-	-	-	-	-	-	-	-
+coref	0	83	envisaged	-	-	-	-	-	-	-	-	-	-
+coref	0	84	under	-	-	-	-	-	-	-	-	-	-
+coref	0	85	the	-	-	-	-	-	-	-	-	-	-
+coref	0	86	Act.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(117
+coref	0	1	Calicut	-	-	-	-	-	-	-	-	-	-
+coref	0	2	University	-	-	-	-	-	-	-	-	-	-
+coref	0	3	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	4	1975	-	-	-	-	-	-	-	-	-	-	117)
+coref	0	5	is	-	-	-	-	-	-	-	-	-	-
+coref	0	6	An	-	-	-	-	-	-	-	-	-	-	(117
+coref	0	7	Act	-	-	-	-	-	-	-	-	-	-	117)
+coref	0	8	to	-	-	-	-	-	-	-	-	-	-
+coref	0	9	provide	-	-	-	-	-	-	-	-	-	-
+coref	0	10	for	-	-	-	-	-	-	-	-	-	-
+coref	0	11	the	-	-	-	-	-	-	-	-	-	-
+coref	0	12	reorganisation	-	-	-	-	-	-	-	-	-	-
+coref	0	13	of	-	-	-	-	-	-	-	-	-	-
+coref	0	14	the	-	-	-	-	-	-	-	-	-	-
+coref	0	15	University	-	-	-	-	-	-	-	-	-	-
+coref	0	16	of	-	-	-	-	-	-	-	-	-	-
+coref	0	17	Calicut.	-	-	-	-	-	-	-	-	-	-
+coref	0	18	That	-	-	-	-	-	-	-	-	-	-
+coref	0	19	being	-	-	-	-	-	-	-	-	-	-
+coref	0	20	said,	-	-	-	-	-	-	-	-	-	-
+coref	0	21	if	-	-	-	-	-	-	-	-	-	-
+coref	0	22	the	-	-	-	-	-	-	-	-	-	-
+coref	0	23	Syndicate	-	-	-	-	-	-	-	-	-	-
+coref	0	24	wanted	-	-	-	-	-	-	-	-	-	-
+coref	0	25	to	-	-	-	-	-	-	-	-	-	-
+coref	0	26	fix	-	-	-	-	-	-	-	-	-	-
+coref	0	27	particular	-	-	-	-	-	-	-	-	-	-
+coref	0	28	dates	-	-	-	-	-	-	-	-	-	-
+coref	0	29	on	-	-	-	-	-	-	-	-	-	-
+coref	0	30	which	-	-	-	-	-	-	-	-	-	-
+coref	0	31	the	-	-	-	-	-	-	-	-	-	-
+coref	0	32	amendments	-	-	-	-	-	-	-	-	-	-
+coref	0	33	were	-	-	-	-	-	-	-	-	-	-
+coref	0	34	to	-	-	-	-	-	-	-	-	-	-
+coref	0	35	be	-	-	-	-	-	-	-	-	-	-
+coref	0	36	brought	-	-	-	-	-	-	-	-	-	-
+coref	0	37	into	-	-	-	-	-	-	-	-	-	-
+coref	0	38	effect,	-	-	-	-	-	-	-	-	-	-
+coref	0	39	nothing	-	-	-	-	-	-	-	-	-	-
+coref	0	40	stopped	-	-	-	-	-	-	-	-	-	-
+coref	0	41	them	-	-	-	-	-	-	-	-	-	-
+coref	0	42	from	-	-	-	-	-	-	-	-	-	-
+coref	0	43	doing	-	-	-	-	-	-	-	-	-	-
+coref	0	44	so	-	-	-	-	-	-	-	-	-	-
+coref	0	45	under	-	-	-	-	-	-	-	-	-	-
+coref	0	46	Section	-	-	-	-	-	-	-	-	-	-	(117
+coref	0	47	37(1)	-	-	-	-	-	-	-	-	-	-	117)
+coref	0	48	of	-	-	-	-	-	-	-	-	-	-
+coref	0	49	the	-	-	-	-	-	-	-	-	-	-   (117
+coref	0	50	Act,	-	-	-	-	-	-	-	-	-	-   117)
+coref	0	51	since	-	-	-	-	-	-	-	-	-	-
+coref	0	52	it	-	-	-	-	-	-	-	-	-	-
+coref	0	53	unequivocally	-	-	-	-	-	-	-	-	-	-
+coref	0	54	provides	-	-	-	-	-	-	-	-	-	-
+coref	0	55	that	-	-	-	-	-	-	-	-	-	-
+coref	0	56	all	-	-	-	-	-	-	-	-	-	-
+coref	0	57	Ordinances	-	-	-	-	-	-	-	-	-	-
+coref	0	58	shall	-	-	-	-	-	-	-	-	-	-
+coref	0	59	have	-	-	-	-	-	-	-	-	-	-
+coref	0	60	effect	-	-	-	-	-	-	-	-	-	-
+coref	0	61	from	-	-	-	-	-	-	-	-	-	-
+coref	0	62	such	-	-	-	-	-	-	-	-	-	-
+coref	0	63	date	-	-	-	-	-	-	-	-	-	-
+coref	0	64	as	-	-	-	-	-	-	-	-	-	-
+coref	0	65	they	-	-	-	-	-	-	-	-	-	-
+coref	0	66	may	-	-	-	-	-	-	-	-	-	-
+coref	0	67	direct.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(120
+coref	0	1	Guardians	-	-	-	-	-	-	-	-	-	-
+coref	0	2	and	-	-	-	-	-	-	-	-	-	-
+coref	0	3	Wards	-	-	-	-	-	-	-	-	-	-
+coref	0	4	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	5	1890	-	-	-	-	-	-	-	-	-	-	120)
+coref	0	6	is	-	-	-	-	-	-	-	-	-	-
+coref	0	7	an	-	-	-	-	-	-	-	-	-	-	(120
+coref	0	8	Act	-	-	-	-	-	-	-	-	-	-	120)
+coref	0	9	to	-	-	-	-	-	-	-	-	-	-
+coref	0	10	consolidate	-	-	-	-	-	-	-	-	-	-
+coref	0	11	and	-	-	-	-	-	-	-	-	-	-
+coref	0	12	amend	-	-	-	-	-	-	-	-	-	-
+coref	0	13	the	-	-	-	-	-	-	-	-	-	-
+coref	0	14	law	-	-	-	-	-	-	-	-	-	-
+coref	0	15	relating	-	-	-	-	-	-	-	-	-	-
+coref	0	16	to	-	-	-	-	-	-	-	-	-	-
+coref	0	17	Guardian	-	-	-	-	-	-	-	-	-	-
+coref	0	18	and	-	-	-	-	-	-	-	-	-	-
+coref	0	19	Ward.	-	-	-	-	-	-	-	-	-	-
+coref	0	20	Hence	-	-	-	-	-	-	-	-	-	-
+coref	0	21	disposal	-	-	-	-	-	-	-	-	-	-
+coref	0	22	of	-	-	-	-	-	-	-	-	-	-
+coref	0	23	immovable	-	-	-	-	-	-	-	-	-	-
+coref	0	24	property	-	-	-	-	-	-	-	-	-	-
+coref	0	25	of	-	-	-	-	-	-	-	-	-	-
+coref	0	26	a	-	-	-	-	-	-	-	-	-	-
+coref	0	27	minor	-	-	-	-	-	-	-	-	-	-
+coref	0	28	by	-	-	-	-	-	-	-	-	-	-
+coref	0	29	such	-	-	-	-	-	-	-	-	-	-
+coref	0	30	a	-	-	-	-	-	-	-	-	-	-
+coref	0	31	guardian	-	-	-	-	-	-	-	-	-	-
+coref	0	32	would	-	-	-	-	-	-	-	-	-	-
+coref	0	33	not	-	-	-	-	-	-	-	-	-	-
+coref	0	34	be	-	-	-	-	-	-	-	-	-	-
+coref	0	35	affected	-	-	-	-	-	-	-	-	-	-
+coref	0	36	by	-	-	-	-	-	-	-	-	-	-
+coref	0	37	S.30	-	-	-	-	-	-	-	-	-	-	(120)
+coref	0	38	of	-	-	-	-	-	-	-	-	-	-
+coref	0	39	the	-	-	-	-	-	-	-	-	-	-
+coref	0	40	G.	-	-	-	-	-	-	-	-	-	-	(120
+coref	0	41	&	-	-	-	-	-	-	-	-	-	-
+coref	0	42	W.	-	-	-	-	-	-	-	-	-	-
+coref	0	43	Act	-	-	-	-	-	-	-	-	-	-	120)
+coref	0	44	merely	-	-	-	-	-	-	-	-	-	-
+coref	0	45	on	-	-	-	-	-	-	-	-	-	-
+coref	0	46	the	-	-	-	-	-	-	-	-	-	-
+coref	0	47	ground	-	-	-	-	-	-	-	-	-	-
+coref	0	48	that	-	-	-	-	-	-	-	-	-	-
+coref	0	49	previous	-	-	-	-	-	-	-	-	-	-
+coref	0	50	permission	-	-	-	-	-	-	-	-	-	-
+coref	0	51	of	-	-	-	-	-	-	-	-	-	-
+coref	0	52	the	-	-	-	-	-	-	-	-	-	-
+coref	0	53	Court	-	-	-	-	-	-	-	-	-	-
+coref	0	54	was	-	-	-	-	-	-	-	-	-	-
+coref	0	55	not	-	-	-	-	-	-	-	-	-	-
+coref	0	56	obtained	-	-	-	-	-	-	-	-	-	-
+coref	0	57	in	-	-	-	-	-	-	-	-	-	-
+coref	0	58	terms	-	-	-	-	-	-	-	-	-	-
+coref	0	59	of	-	-	-	-	-	-	-	-	-	-
+coref	0	60	S.29	-	-	-	-	-	-	-	-	-	-	(120)
+coref	0	61	of	-	-	-	-	-	-	-	-	-	-
+coref	0	62	that	-	-	-	-	-	-	-	-	-	-   (120
+coref	0	63	Act.	-	-	-	-	-	-	-	-	-	-   120)
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(125
+coref	0	1	Hindu	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Minority	-	-	-	-	-	-	-	-	-	-
+coref	0	3	and	-	-	-	-	-	-	-	-	-	-
+coref	0	4	Guardianship	-	-	-	-	-	-	-	-	-	-
+coref	0	5	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	6	1956	-	-	-	-	-	-	-	-	-	-	125)
+coref	0	7	was	-	-	-	-	-	-	-	-	-	-
+coref	0	8	established	-	-	-	-	-	-	-	-	-	-
+coref	0	9	in	-	-	-	-	-	-	-	-	-	-
+coref	0	10	1956	-	-	-	-	-	-	-	-	-	-
+coref	0	11	as	-	-	-	-	-	-	-	-	-	-
+coref	0	12	part	-	-	-	-	-	-	-	-	-	-
+coref	0	13	of	-	-	-	-	-	-	-	-	-	-
+coref	0	14	the	-	-	-	-	-	-	-	-	-	-
+coref	0	15	Hindu	-	-	-	-	-	-	-	-	-	-
+coref	0	16	Code	-	-	-	-	-	-	-	-	-	-
+coref	0	17	Bills.	-	-	-	-	-	-	-	-	-	-
+coref	0	18	The	-	-	-	-	-	-	-	-	-	-
+coref	0	19	sale	-	-	-	-	-	-	-	-	-	-
+coref	0	20	deed	-	-	-	-	-	-	-	-	-	-
+coref	0	21	was	-	-	-	-	-	-	-	-	-	-
+coref	0	22	attacked	-	-	-	-	-	-	-	-	-	-
+coref	0	23	by	-	-	-	-	-	-	-	-	-	-
+coref	0	24	the	-	-	-	-	-	-	-	-	-	-
+coref	0	25	plaintiff	-	-	-	-	-	-	-	-	-	-
+coref	0	26	on	-	-	-	-	-	-	-	-	-	-
+coref	0	27	the	-	-	-	-	-	-	-	-	-	-
+coref	0	28	ground	-	-	-	-	-	-	-	-	-	-
+coref	0	29	that	-	-	-	-	-	-	-	-	-	-
+coref	0	30	the	-	-	-	-	-	-	-	-	-	-
+coref	0	31	permission	-	-	-	-	-	-	-	-	-	-
+coref	0	32	of	-	-	-	-	-	-	-	-	-	-
+coref	0	33	the	-	-	-	-	-	-	-	-	-	-
+coref	0	34	court	-	-	-	-	-	-	-	-	-	-
+coref	0	35	under	-	-	-	-	-	-	-	-	-	-
+coref	0	36	Section	-	-	-	-	-	-	-	-	-	-	(125
+coref	0	37	8	-	-	-	-	-	-	-	-	-	-	125)
+coref	0	38	of	-	-	-	-	-	-	-	-	-	-
+coref	0	39	Hindu	-	-	-	-	-	-	-	-	-	-
+coref	0	40	Minority	-	-	-	-	-	-	-	-	-	-
+coref	0	41	and	-	-	-	-	-	-	-	-	-	-
+coref	0	42	Guardianship	-	-	-	-	-	-	-	-	-	-
+coref	0	43	Act	-	-	-	-	-	-	-	-	-	-
+coref	0	44	was	-	-	-	-	-	-	-	-	-	-
+coref	0	45	not	-	-	-	-	-	-	-	-	-	-
+coref	0	46	obtained	-	-	-	-	-	-	-	-	-	-
+coref	0	47	by	-	-	-	-	-	-	-	-	-	-
+coref	0	48	the	-	-	-	-	-	-	-	-	-	-
+coref	0	49	mother	-	-	-	-	-	-	-	-	-	-
+coref	0	50	for	-	-	-	-	-	-	-	-	-	-
+coref	0	51	the	-	-	-	-	-	-	-	-	-	-
+coref	0	52	alienation	-	-	-	-	-	-	-	-	-	-
+coref	0	53	and	-	-	-	-	-	-	-	-	-	-
+coref	0	54	consequently	-	-	-	-	-	-	-	-	-	-
+coref	0	55	it	-	-	-	-	-	-	-	-	-	-
+coref	0	56	was	-	-	-	-	-	-	-	-	-	-
+coref	0	57	invalid	-	-	-	-	-	-	-	-	-	-
+coref	0	58	and	-	-	-	-	-	-	-	-	-	-
+coref	0	59	it	-	-	-	-	-	-	-	-	-	-
+coref	0	60	did	-	-	-	-	-	-	-	-	-	-
+coref	0	61	not	-	-	-	-	-	-	-	-	-	-
+coref	0	62	convey	-	-	-	-	-	-	-	-	-	-
+coref	0	63	her	-	-	-	-	-	-	-	-	-	-
+coref	0	64	interest	-	-	-	-	-	-	-	-	-	-
+coref	0	65	over	-	-	-	-	-	-	-	-	-	-
+coref	0	66	the	-	-	-	-	-	-	-	-	-	-
+coref	0	67	property	-	-	-	-	-	-	-	-	-	-
+coref	0	68	to	-	-	-	-	-	-	-	-	-	-
+coref	0	69	the	-	-	-	-	-	-	-	-	-	-
+coref	0	70	defendant.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-
+coref	0	1	Code	-	-	-	-	-	-	-	-	-	-
+coref	0	2	of	-	-	-	-	-	-	-	-	-	-
+coref	0	3	Criminal	-	-	-	-	-	-	-	-	-	-
+coref	0	4	Procedure	-	-	-	-	-	-	-	-	-	-
+coref	0	5	commonly	-	-	-	-	-	-	-	-	-	-
+coref	0	6	called	-	-	-	-	-	-	-	-	-	-
+coref	0	7	Criminal	-	-	-	-	-	-	-	-	-	-	(127
+coref	0	8	Procedure	-	-	-	-	-	-	-	-	-	-
+coref	0	9	Code	-	-	-	-	-	-	-	-	-	-	127)
+coref	0	10	(CrPC)	-	-	-	-	-	-	-	-	-	-	(127)
+coref	0	11	is	-	-	-	-	-	-	-	-	-	-
+coref	0	12	the	-	-	-	-	-	-	-	-	-	-
+coref	0	13	main	-	-	-	-	-	-	-	-	-	-
+coref	0	14	legislation	-	-	-	-	-	-	-	-	-	-
+coref	0	15	on	-	-	-	-	-	-	-	-	-	-
+coref	0	16	procedure	-	-	-	-	-	-	-	-	-	-
+coref	0	17	for	-	-	-	-	-	-	-	-	-	-
+coref	0	18	administration	-	-	-	-	-	-	-	-	-	-
+coref	0	19	of	-	-	-	-	-	-	-	-	-	-
+coref	0	20	substantive	-	-	-	-	-	-	-	-	-	-
+coref	0	21	criminal	-	-	-	-	-	-	-	-	-	-
+coref	0	22	law	-	-	-	-	-	-	-	-	-	-
+coref	0	23	in	-	-	-	-	-	-	-	-	-	-
+coref	0	24	India.	-	-	-	-	-	-	-	-	-	-
+coref	0	25	Indian	-	-	-	-	-	-	-	-	-	-
+coref	0	26	Penal	-	-	-	-	-	-	-	-	-	-
+coref	0	27	Code	-	-	-	-	-	-	-	-	-	-
+coref	0	28	is	-	-	-	-	-	-	-	-	-	-
+coref	0	29	the	-	-	-	-	-	-	-	-	-	-
+coref	0	30	official	-	-	-	-	-	-	-	-	-	-
+coref	0	31	criminal	-	-	-	-	-	-	-	-	-	-
+coref	0	32	code	-	-	-	-	-	-	-	-	-	-
+coref	0	33	of	-	-	-	-	-	-	-	-	-	-
+coref	0	34	India.	-	-	-	-	-	-	-	-	-	-
+coref	0	35	This	-	-	-	-	-	-	-	-	-	-
+coref	0	36	application	-	-	-	-	-	-	-	-	-	-
+coref	0	37	under	-	-	-	-	-	-	-	-	-	-
+coref	0	38	Section	-	-	-	-	-	-	-	-	-	-	(127
+coref	0	39	438	-	-	-	-	-	-	-	-	-	-	127)
+coref	0	40	Cr.P.C.	-	-	-	-	-	-	-	-	-	-	(127)
+coref	0	41	Penal	-	-	-	-	-	-	-	-	-	-
+coref	0	42	Code	-	-	-	-	-	-	-	-	-	-	
+coref	0	43	is	-	-	-	-	-	-	-	-	-	-
+coref	0	44	the	-	-	-	-	-	-	-	-	-	-
+coref	0	45	official	-	-	-	-	-	-	-	-	-	-
+coref	0	46	criminal	-	-	-	-	-	-	-	-	-	-
+coref	0	47	code	-	-	-	-	-	-	-	-	-	-
+coref	0	48	of	-	-	-	-	-	-	-	-	-	-
+coref	0	49	India.	-	-	-	-	-	-	-	-	-	-
+coref	0	50	This	-	-	-	-	-	-	-	-	-	-
+coref	0	51	application	-	-	-	-	-	-	-	-	-	-
+coref	0	52	under	-	-	-	-	-	-	-	-	-	-
+coref	0	53	Section	-	-	-	-	-	-	-	-	-	-   (127
+coref	0	54	438	-	-	-	-	-	-	-	-	-	-
+coref	0	55	Cr.P.C.	-	-	-	-	-	-	-	-	-	-   127)
+coref	0	56	has	-	-	-	-	-	-	-	-	-	-
+coref	0	57	been	-	-	-	-	-	-	-	-	-	-
+coref	0	58	filed	-	-	-	-	-	-	-	-	-	-
+coref	0	59	for	-	-	-	-	-	-	-	-	-	-
+coref	0	60	grant	-	-	-	-	-	-	-	-	-	-
+coref	0	61	of	-	-	-	-	-	-	-	-	-	-
+coref	0	62	bail	-	-	-	-	-	-	-	-	-	-
+coref	0	63	to	-	-	-	-	-	-	-	-	-	-
+coref	0	64	the	-	-	-	-	-	-	-	-	-	-
+coref	0	65	petitioner	-	-	-	-	-	-	-	-	-	-
+coref	0	66	in	-	-	-	-	-	-	-	-	-	-
+coref	0	67	the	-	-	-	-	-	-	-	-	-	-
+coref	0	68	event	-	-	-	-	-	-	-	-	-	-
+coref	0	69	of	-	-	-	-	-	-	-	-	-	-
+coref	0	70	arrest	-	-	-	-	-	-	-	-	-	-
+coref	0	71	in	-	-	-	-	-	-	-	-	-	-
+coref	0	72	FIR	-	-	-	-	-	-	-	-	-	-
+coref	0	73	No.	-	-	-	-	-	-	-	-	-	-
+coref	0	74	56/2018	-	-	-	-	-	-	-	-	-	-
+coref	0	75	dated	-	-	-	-	-	-	-	-	-	-
+coref	0	76	11.02.2018,	-	-	-	-	-	-	-	-	-	-
+coref	0	77	registered	-	-	-	-	-	-	-	-	-	-
+coref	0	78	at	-	-	-	-	-	-	-	-	-	-
+coref	0	79	PS	-	-	-	-	-	-	-	-	-	-
+coref	0	80	Model	-	-	-	-	-	-	-	-	-	-
+coref	0	81	Town	-	-	-	-	-	-	-	-	-	-
+coref	0	82	for	-	-	-	-	-	-	-	-	-	-
+coref	0	83	offences	-	-	-	-	-	-	-	-	-	-
+coref	0	84	under	-	-	-	-	-	-	-	-	-	-
+coref	0	85	Sections	-	-	-	-	-	-	-	-	-	-	(127
+coref	0	86	498-A,	-	-	-	-	-	-	-	-	-	-
+coref	0	87	406	-	-	-	-	-	-	-	-	-	-
+coref	0	88	and	-	-	-	-	-	-	-	-	-	-
+coref	0	89	34	-	-	-	-	-	-	-	-	-	-	127)
+coref	0	90	of	-	-	-	-	-	-	-	-	-	-
+coref	0	91	IPC.	-	-	-	-	-	-	-	-	-	-
+coref	0	92		-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(132
+coref	0	1	Kerala	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Buildings	-	-	-	-	-	-	-	-	-	-
+coref	0	3	(Lease	-	-	-	-	-	-	-	-	-	-
+coref	0	4	and	-	-	-	-	-	-	-	-	-	-
+coref	0	5	Rent	-	-	-	-	-	-	-	-	-	-
+coref	0	6	Control)	-	-	-	-	-	-	-	-	-	-
+coref	0	7	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	8	1965	-	-	-	-	-	-	-	-	-	-	132)
+coref	0	9	is	-	-	-	-	-	-	-	-	-	-
+coref	0	10	an	-	-	-	-	-	-	-	-	-	-	(132
+coref	0	11	Act	-	-	-	-	-	-	-	-	-	-	132)
+coref	0	12	to	-	-	-	-	-	-	-	-	-	-
+coref	0	13	regulate	-	-	-	-	-	-	-	-	-	-
+coref	0	14	the	-	-	-	-	-	-	-	-	-	-
+coref	0	15	leasing	-	-	-	-	-	-	-	-	-	-
+coref	0	16	of	-	-	-	-	-	-	-	-	-	-
+coref	0	17	buildings	-	-	-	-	-	-	-	-	-	-
+coref	0	18	and	-	-	-	-	-	-	-	-	-	-
+coref	0	19	to	-	-	-	-	-	-	-	-	-	-
+coref	0	20	control	-	-	-	-	-	-	-	-	-	-
+coref	0	21	the	-	-	-	-	-	-	-	-	-	-
+coref	0	22	rent	-	-	-	-	-	-	-	-	-	-
+coref	0	23	of	-	-	-	-	-	-	-	-	-	-
+coref	0	24	such	-	-	-	-	-	-	-	-	-	-
+coref	0	25	buildings	-	-	-	-	-	-	-	-	-	-
+coref	0	26	in	-	-	-	-	-	-	-	-	-	-
+coref	0	27	the	-	-	-	-	-	-	-	-	-	-
+coref	0	28	State	-	-	-	-	-	-	-	-	-	-
+coref	0	29	of	-	-	-	-	-	-	-	-	-	-
+coref	0	30	Kerala.	-	-	-	-	-	-	-	-	-	-
+coref	0	31	It	-	-	-	-	-	-	-	-	-	-
+coref	0	32	is	-	-	-	-	-	-	-	-	-	-
+coref	0	33	mandatory	-	-	-	-	-	-	-	-	-	-
+coref	0	34	that	-	-	-	-	-	-	-	-	-	-
+coref	0	35	a	-	-	-	-	-	-	-	-	-	-
+coref	0	36	definite	-	-	-	-	-	-	-	-	-	-
+coref	0	37	finding	-	-	-	-	-	-	-	-	-	-
+coref	0	38	on	-	-	-	-	-	-	-	-	-	-
+coref	0	39	the	-	-	-	-	-	-	-	-	-	-
+coref	0	40	issue	-	-	-	-	-	-	-	-	-	-
+coref	0	41	of	-	-	-	-	-	-	-	-	-	-
+coref	0	42	comparative	-	-	-	-	-	-	-	-	-	-
+coref	0	43	hardship	-	-	-	-	-	-	-	-	-	-
+coref	0	44	between	-	-	-	-	-	-	-	-	-	-
+coref	0	45	the	-	-	-	-	-	-	-	-	-	-
+coref	0	46	parties	-	-	-	-	-	-	-	-	-	-
+coref	0	47	must	-	-	-	-	-	-	-	-	-	-
+coref	0	48	be	-	-	-	-	-	-	-	-	-	-
+coref	0	49	entered	-	-	-	-	-	-	-	-	-	-
+coref	0	50	in	-	-	-	-	-	-	-	-	-	-
+coref	0	51	a	-	-	-	-	-	-	-	-	-	-
+coref	0	52	proceeding	-	-	-	-	-	-	-	-	-	-
+coref	0	53	for	-	-	-	-	-	-	-	-	-	-
+coref	0	54	eviction	-	-	-	-	-	-	-	-	-	-
+coref	0	55	under	-	-	-	-	-	-	-	-	-	-
+coref	0	56	Section	-	-	-	-	-	-	-	-	-	-	(132
+coref	0	57	11(8)	-	-	-	-	-	-	-	-	-	-	132)
+coref	0	58	of	-	-	-	-	-	-	-	-	-	-
+coref	0	59	the	-	-	-	-	-	-	-	-	-	-
+coref	0	60	Act.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(135
+coref	0	1	Patents	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	3	1970	-	-	-	-	-	-	-	-	-	-	135)
+coref	0	4	is	-	-	-	-	-	-	-	-	-	-
+coref	0	5	the	-	-	-	-	-	-	-	-	-	-
+coref	0	6	legislation	-	-	-	-	-	-	-	-	-	-
+coref	0	7	that	-	-	-	-	-	-	-	-	-	-
+coref	0	8	till	-	-	-	-	-	-	-	-	-	-
+coref	0	9	date	-	-	-	-	-	-	-	-	-	-
+coref	0	10	governs	-	-	-	-	-	-	-	-	-	-
+coref	0	11	patents	-	-	-	-	-	-	-	-	-	-
+coref	0	12	in	-	-	-	-	-	-	-	-	-	-
+coref	0	13	India.	-	-	-	-	-	-	-	-	-	-
+coref	0	14	Though	-	-	-	-	-	-	-	-	-	-
+coref	0	15	the	-	-	-	-	-	-	-	-	-	-	(135
+coref	0	16	Patents	-	-	-	-	-	-	-	-	-	-
+coref	0	17	Act	-	-	-	-	-	-	-	-	-	-	135)
+coref	0	18	does	-	-	-	-	-	-	-	-	-	-
+coref	0	19	not	-	-	-	-	-	-	-	-	-	-
+coref	0	20	specifically	-	-	-	-	-	-	-	-	-	-
+coref	0	21	refer	-	-	-	-	-	-	-	-	-	-
+coref	0	22	to	-	-	-	-	-	-	-	-	-	-
+coref	0	23	“selection	-	-	-	-	-	-	-	-	-	-
+coref	0	24	patents”,	-	-	-	-	-	-	-	-	-	-
+coref	0	25	so	-	-	-	-	-	-	-	-	-	-
+coref	0	26	long	-	-	-	-	-	-	-	-	-	-
+coref	0	27	as	-	-	-	-	-	-	-	-	-	-
+coref	0	28	(a)	-	-	-	-	-	-	-	-	-	-
+coref	0	29	the	-	-	-	-	-	-	-	-	-	-
+coref	0	30	invention,	-	-	-	-	-	-	-	-	-	-
+coref	0	31	as	-	-	-	-	-	-	-	-	-	-
+coref	0	32	selected	-	-	-	-	-	-	-	-	-	-
+coref	0	33	from	-	-	-	-	-	-	-	-	-	-
+coref	0	34	the	-	-	-	-	-	-	-	-	-	-
+coref	0	35	Markush	-	-	-	-	-	-	-	-	-	-
+coref	0	36	moiety	-	-	-	-	-	-	-	-	-	-
+coref	0	37	in	-	-	-	-	-	-	-	-	-	-
+coref	0	38	the	-	-	-	-	-	-	-	-	-	-
+coref	0	39	genus	-	-	-	-	-	-	-	-	-	-
+coref	0	40	patent,	-	-	-	-	-	-	-	-	-	-
+coref	0	41	fulfils	-	-	-	-	-	-	-	-	-	-
+coref	0	42	the	-	-	-	-	-	-	-	-	-	-
+coref	0	43	description	-	-	-	-	-	-	-	-	-	-
+coref	0	44	of	-	-	-	-	-	-	-	-	-	-
+coref	0	45	“invention”,	-	-	-	-	-	-	-	-	-	-
+coref	0	46	(b)	-	-	-	-	-	-	-	-	-	-
+coref	0	47	involves,	-	-	-	-	-	-	-	-	-	-
+coref	0	48	in	-	-	-	-	-	-	-	-	-	-
+coref	0	49	its	-	-	-	-	-	-	-	-	-	-
+coref	0	50	fabrication	-	-	-	-	-	-	-	-	-	-
+coref	0	51	of	-	-	-	-	-	-	-	-	-	-
+coref	0	52	creation,	-	-	-	-	-	-	-	-	-	-
+coref	0	53	an	-	-	-	-	-	-	-	-	-	-
+coref	0	54	“inventive	-	-	-	-	-	-	-	-	-	-
+coref	0	55	step”,	-	-	-	-	-	-	-	-	-	-
+coref	0	56	within	-	-	-	-	-	-	-	-	-	-
+coref	0	57	the	-	-	-	-	-	-	-	-	-	-
+coref	0	58	meaning	-	-	-	-	-	-	-	-	-	-
+coref	0	59	of	-	-	-	-	-	-	-	-	-	-
+coref	0	60	clauses	-	-	-	-	-	-	-	-	-	-
+coref	0	61	(i)	-	-	-	-	-	-	-	-	-	-
+coref	0	62	and	-	-	-	-	-	-	-	-	-	-
+coref	0	63	(ii)	-	-	-	-	-	-	-	-	-	-
+coref	0	64	of	-	-	-	-	-	-	-	-	-	-
+coref	0	65	Section	-	-	-	-	-	-	-	-	-	-	(135
+coref	0	66	2	-	-	-	-	-	-	-	-	-	-	135)
+coref	0	67	and	-	-	-	-	-	-	-	-	-	-
+coref	0	68	(c)	-	-	-	-	-	-	-	-	-	-
+coref	0	69	does	-	-	-	-	-	-	-	-	-	-
+coref	0	70	not	-	-	-	-	-	-	-	-	-	-
+coref	0	71	suffer	-	-	-	-	-	-	-	-	-	-
+coref	0	72	from	-	-	-	-	-	-	-	-	-	-
+coref	0	73	any	-	-	-	-	-	-	-	-	-	-
+coref	0	74	of	-	-	-	-	-	-	-	-	-	-
+coref	0	75	the	-	-	-	-	-	-	-	-	-	-
+coref	0	76	disabilities	-	-	-	-	-	-	-	-	-	-
+coref	0	77	envisaged	-	-	-	-	-	-	-	-	-	-
+coref	0	78	by	-	-	-	-	-	-	-	-	-	-
+coref	0	79	Section	-	-	-	-	-	-	-	-	-	-	(135
+coref	0	80	64	-	-	-	-	-	-	-	-	-	-	135)
+coref	0	81	of	-	-	-	-	-	-	-	-	-	-
+coref	0	82	the	-	-	-	-	-	-	-	-	-	-	(135
+coref	0	83	Patents	-	-	-	-	-	-	-	-	-	-
+coref	0	84	Act	-	-	-	-	-	-	-	-	-	-	135)
+coref	0	85	it	-	-	-	-	-	-	-	-	-	-
+coref	0	86	is,	-	-	-	-	-	-	-	-	-	-
+coref	0	87	ex	-	-	-	-	-	-	-	-	-	-
+coref	0	88	facie,	-	-	-	-	-	-	-	-	-	-
+coref	0	89	patentable.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	Insolvency	-	-	-	-	-	-	-	-	-	-	(140
+coref	0	1	and	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Bankruptcy	-	-	-	-	-	-	-	-	-	-
+coref	0	3	Code	-	-	-	-	-	-	-	-	-	-
+coref	0	4	2016	-	-	-	-	-	-	-	-	-	-	140)
+coref	0	5	an	-	-	-	-	-	-	-	-	-	-	(140
+coref	0	6	Act	-	-	-	-	-	-	-	-	-	-	140)
+coref	0	7	to	-	-	-	-	-	-	-	-	-	-
+coref	0	8	consolidate	-	-	-	-	-	-	-	-	-	-
+coref	0	9	and	-	-	-	-	-	-	-	-	-	-
+coref	0	10	amend	-	-	-	-	-	-	-	-	-	-
+coref	0	11	the	-	-	-	-	-	-	-	-	-	-
+coref	0	12	laws	-	-	-	-	-	-	-	-	-	-
+coref	0	13	relating	-	-	-	-	-	-	-	-	-	-
+coref	0	14	to	-	-	-	-	-	-	-	-	-	-
+coref	0	15	reorganisation	-	-	-	-	-	-	-	-	-	-
+coref	0	16	and	-	-	-	-	-	-	-	-	-	-
+coref	0	17	insolvency	-	-	-	-	-	-	-	-	-	-
+coref	0	18	resolution	-	-	-	-	-	-	-	-	-	-
+coref	0	19	of	-	-	-	-	-	-	-	-	-	-
+coref	0	20	corporate	-	-	-	-	-	-	-	-	-	-
+coref	0	21	persons.	-	-	-	-	-	-	-	-	-	-
+coref	0	22	The	-	-	-	-	-	-	-	-	-	-
+coref	0	23	corporate	-	-	-	-	-	-	-	-	-	-
+coref	0	24	insolvency	-	-	-	-	-	-	-	-	-	-
+coref	0	25	resolution	-	-	-	-	-	-	-	-	-	-
+coref	0	26	process	-	-	-	-	-	-	-	-	-	-
+coref	0	27	shall	-	-	-	-	-	-	-	-	-	-
+coref	0	28	commence	-	-	-	-	-	-	-	-	-	-
+coref	0	29	from	-	-	-	-	-	-	-	-	-	-
+coref	0	30	the	-	-	-	-	-	-	-	-	-	-
+coref	0	31	date	-	-	-	-	-	-	-	-	-	-
+coref	0	32	of	-	-	-	-	-	-	-	-	-	-
+coref	0	33	admission	-	-	-	-	-	-	-	-	-	-
+coref	0	34	of	-	-	-	-	-	-	-	-	-	-
+coref	0	35	the	-	-	-	-	-	-	-	-	-	-
+coref	0	36	application	-	-	-	-	-	-	-	-	-	-
+coref	0	37	under	-	-	-	-	-	-	-	-	-	-
+coref	0	38	sub-section	-	-	-	-	-	-	-	-	-	-	(140
+coref	0	39	(5)	-	-	-	-	-	-	-	-	-	-	140)
+coref	0	40	of	-	-	-	-	-	-	-	-	-	-
+coref	0	41	this	-	-	-	-	-	-	-	-	-	-
+coref	0	42	section.	-	-	-	-	-	-	-	-	-	-
+coref	0	43	The	-	-	-	-	-	-	-	-	-	-
+coref	0	44	application	-	-	-	-	-	-	-	-	-	-
+coref	0	45	under	-	-	-	-	-	-	-	-	-	-
+coref	0	46	sub-section	-	-	-	-	-	-	-	-	-	-
+coref	0	47	(1)	-	-	-	-	-	-	-	-	-	-
+coref	0	48	shall	-	-	-	-	-	-	-	-	-	-
+coref	0	49	be	-	-	-	-	-	-	-	-	-	-
+coref	0	50	filed	-	-	-	-	-	-	-	-	-	-
+coref	0	51	in	-	-	-	-	-	-	-	-	-	-
+coref	0	52	such	-	-	-	-	-	-	-	-	-	-
+coref	0	53	form,	-	-	-	-	-	-	-	-	-	-
+coref	0	54	containing	-	-	-	-	-	-	-	-	-	-
+coref	0	55	such	-	-	-	-	-	-	-	-	-	-
+coref	0	56	particulars	-	-	-	-	-	-	-	-	-	-
+coref	0	57	and	-	-	-	-	-	-	-	-	-	-
+coref	0	58	in	-	-	-	-	-	-	-	-	-	-
+coref	0	59	such	-	-	-	-	-	-	-	-	-	-
+coref	0	60	manner	-	-	-	-	-	-	-	-	-	-
+coref	0	61	and	-	-	-	-	-	-	-	-	-	-
+coref	0	62	accompanied	-	-	-	-	-	-	-	-	-	-
+coref	0	63	with	-	-	-	-	-	-	-	-	-	-
+coref	0	64	such	-	-	-	-	-	-	-	-	-	-
+coref	0	65	fee	-	-	-	-	-	-	-	-	-	-
+coref	0	66	as	-	-	-	-	-	-	-	-	-	-
+coref	0	67	may	-	-	-	-	-	-	-	-	-	-
+coref	0	68	be	-	-	-	-	-	-	-	-	-	-
+coref	0	69	prescribed.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	Insolvency	-	-	-	-	-	-	-	-	-	-	(140
+coref	0	1	and	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Bankruptcy	-	-	-	-	-	-	-	-	-	-
+coref	0	3	Code	-	-	-	-	-	-	-	-	-	-
+coref	0	4	2016	-	-	-	-	-	-	-	-	-	-	140)
+coref	0	5	an	-	-	-	-	-	-	-	-	-	-	(140
+coref	0	6	Act	-	-	-	-	-	-	-	-	-	-	140)
+coref	0	7	to	-	-	-	-	-	-	-	-	-	-
+coref	0	8	consolidate	-	-	-	-	-	-	-	-	-	-
+coref	0	9	and	-	-	-	-	-	-	-	-	-	-
+coref	0	10	amend	-	-	-	-	-	-	-	-	-	-
+coref	0	11	the	-	-	-	-	-	-	-	-	-	-
+coref	0	12	laws	-	-	-	-	-	-	-	-	-	-
+coref	0	13	relating	-	-	-	-	-	-	-	-	-	-
+coref	0	14	to	-	-	-	-	-	-	-	-	-	-
+coref	0	15	reorganisation	-	-	-	-	-	-	-	-	-	-
+coref	0	16	and	-	-	-	-	-	-	-	-	-	-
+coref	0	17	insolvency	-	-	-	-	-	-	-	-	-	-
+coref	0	18	resolution	-	-	-	-	-	-	-	-	-	-
+coref	0	19	of	-	-	-	-	-	-	-	-	-	-
+coref	0	20	corporate	-	-	-	-	-	-	-	-	-	-
+coref	0	21	persons.	-	-	-	-	-	-	-	-	-	-
+coref	0	22	After	-	-	-	-	-	-	-	-	-	-
+coref	0	23	the	-	-	-	-	-	-	-	-	-	-
+coref	0	24	expiry	-	-	-	-	-	-	-	-	-	-
+coref	0	25	of	-	-	-	-	-	-	-	-	-	-
+coref	0	26	the	-	-	-	-	-	-	-	-	-	-
+coref	0	27	period	-	-	-	-	-	-	-	-	-	-
+coref	0	28	of	-	-	-	-	-	-	-	-	-	-
+coref	0	29	ten	-	-	-	-	-	-	-	-	-	-
+coref	0	30	days	-	-	-	-	-	-	-	-	-	-
+coref	0	31	from	-	-	-	-	-	-	-	-	-	-
+coref	0	32	the	-	-	-	-	-	-	-	-	-	-
+coref	0	33	date	-	-	-	-	-	-	-	-	-	-
+coref	0	34	of	-	-	-	-	-	-	-	-	-	-
+coref	0	35	delivery	-	-	-	-	-	-	-	-	-	-
+coref	0	36	of	-	-	-	-	-	-	-	-	-	-
+coref	0	37	the	-	-	-	-	-	-	-	-	-	-
+coref	0	38	notice	-	-	-	-	-	-	-	-	-	-
+coref	0	39	or	-	-	-	-	-	-	-	-	-	-
+coref	0	40	invoice	-	-	-	-	-	-	-	-	-	-
+coref	0	41	demanding	-	-	-	-	-	-	-	-	-	-
+coref	0	42	payment	-	-	-	-	-	-	-	-	-	-
+coref	0	43	under	-	-	-	-	-	-	-	-	-	-
+coref	0	44	sub-section	-	-	-	-	-	-	-	-	-	-	(140
+coref	0	45	(1)	-	-	-	-	-	-	-	-	-	-	140)
+coref	0	46	of	-	-	-	-	-	-	-	-	-	-
+coref	0	47	Section	-	-	-	-	-	-	-	-	-	-	(140
+coref	0	48	8	-	-	-	-	-	-	-	-	-	-	140)
+coref	0	49	if	-	-	-	-	-	-	-	-	-	-
+coref	0	50	the	-	-	-	-	-	-	-	-	-	-
+coref	0	51	operational	-	-	-	-	-	-	-	-	-	-
+coref	0	52	creditor	-	-	-	-	-	-	-	-	-	-
+coref	0	53	does	-	-	-	-	-	-	-	-	-	-
+coref	0	54	not	-	-	-	-	-	-	-	-	-	-
+coref	0	55	receive	-	-	-	-	-	-	-	-	-	-
+coref	0	56	payment	-	-	-	-	-	-	-	-	-	-
+coref	0	57	from	-	-	-	-	-	-	-	-	-	-
+coref	0	58	the	-	-	-	-	-	-	-	-	-	-
+coref	0	59	corporate	-	-	-	-	-	-	-	-	-	-
+coref	0	60	debtor	-	-	-	-	-	-	-	-	-	-
+coref	0	61	or	-	-	-	-	-	-	-	-	-	-
+coref	0	62	notice	-	-	-	-	-	-	-	-	-	-
+coref	0	63	of	-	-	-	-	-	-	-	-	-	-
+coref	0	64	the	-	-	-	-	-	-	-	-	-	-
+coref	0	65	dispute	-	-	-	-	-	-	-	-	-	-
+coref	0	66	under	-	-	-	-	-	-	-	-	-	-
+coref	0	67	subsection	-	-	-	-	-	-	-	-	-	-	(140
+coref	0	68	(2)	-	-	-	-	-	-	-	-	-	-	140)
+coref	0	69	of	-	-	-	-	-	-	-	-	-	-
+coref	0	70	Section	-	-	-	-	-	-	-	-	-	-
+coref	0	71	8,	-	-	-	-	-	-	-	-	-	-
+coref	0	72	the	-	-	-	-	-	-	-	-	-	-
+coref	0	73	operational	-	-	-	-	-	-	-	-	-	-
+coref	0	74	creditor	-	-	-	-	-	-	-	-	-	-
+coref	0	75	may	-	-	-	-	-	-	-	-	-	-
+coref	0	76	file	-	-	-	-	-	-	-	-	-	-
+coref	0	77	an	-	-	-	-	-	-	-	-	-	-
+coref	0	78	application	-	-	-	-	-	-	-	-	-	-
+coref	0	79	before	-	-	-	-	-	-	-	-	-	-
+coref	0	80	the	-	-	-	-	-	-	-	-	-	-
+coref	0	81	Adjudicating	-	-	-	-	-	-	-	-	-	-
+coref	0	82	Authority	-	-	-	-	-	-	-	-	-	-
+coref	0	83	for	-	-	-	-	-	-	-	-	-	-
+coref	0	84	initiating	-	-	-	-	-	-	-	-	-	-
+coref	0	85	a	-	-	-	-	-	-	-	-	-	-
+coref	0	86	corporate	-	-	-	-	-	-	-	-	-	-
+coref	0	87	insolvency	-	-	-	-	-	-	-	-	-	-
+coref	0	88	resolution	-	-	-	-	-	-	-	-	-	-
+coref	0	89	process.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(148
+coref	0	1	Trade	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Marks	-	-	-	-	-	-	-	-	-	-
+coref	0	3	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	4	1999	-	-	-	-	-	-	-	-	-	-	148)
+coref	0	5	is	-	-	-	-	-	-	-	-	-	-
+coref	0	6	an	-	-	-	-	-	-	-	-	-	-	(148
+coref	0	7	act	-	-	-	-	-	-	-	-	-	-	148)
+coref	0	8	to	-	-	-	-	-	-	-	-	-	-
+coref	0	9	amend	-	-	-	-	-	-	-	-	-	-
+coref	0	10	and	-	-	-	-	-	-	-	-	-	-
+coref	0	11	consolidate	-	-	-	-	-	-	-	-	-	-
+coref	0	12	the	-	-	-	-	-	-	-	-	-	-
+coref	0	13	law	-	-	-	-	-	-	-	-	-	-
+coref	0	14	relating	-	-	-	-	-	-	-	-	-	-
+coref	0	15	to	-	-	-	-	-	-	-	-	-	-
+coref	0	16	trade	-	-	-	-	-	-	-	-	-	-
+coref	0	17	marks,	-	-	-	-	-	-	-	-	-	-
+coref	0	18	to	-	-	-	-	-	-	-	-	-	-
+coref	0	19	provide	-	-	-	-	-	-	-	-	-	-
+coref	0	20	for	-	-	-	-	-	-	-	-	-	-
+coref	0	21	registration	-	-	-	-	-	-	-	-	-	-
+coref	0	22	and	-	-	-	-	-	-	-	-	-	-
+coref	0	23	better	-	-	-	-	-	-	-	-	-	-
+coref	0	24	protection	-	-	-	-	-	-	-	-	-	-
+coref	0	25	of	-	-	-	-	-	-	-	-	-	-
+coref	0	26	trade	-	-	-	-	-	-	-	-	-	-
+coref	0	27	marks	-	-	-	-	-	-	-	-	-	-
+coref	0	28	for	-	-	-	-	-	-	-	-	-	-
+coref	0	29	goods	-	-	-	-	-	-	-	-	-	-
+coref	0	30	and	-	-	-	-	-	-	-	-	-	-
+coref	0	31	services	-	-	-	-	-	-	-	-	-	-
+coref	0	32	and	-	-	-	-	-	-	-	-	-	-
+coref	0	33	for	-	-	-	-	-	-	-	-	-	-
+coref	0	34	the	-	-	-	-	-	-	-	-	-	-
+coref	0	35	prevention	-	-	-	-	-	-	-	-	-	-
+coref	0	36	of	-	-	-	-	-	-	-	-	-	-
+coref	0	37	the	-	-	-	-	-	-	-	-	-	-
+coref	0	38	use	-	-	-	-	-	-	-	-	-	-
+coref	0	39	of	-	-	-	-	-	-	-	-	-	-
+coref	0	40	fraudulent	-	-	-	-	-	-	-	-	-	-
+coref	0	41	marks.	-	-	-	-	-	-	-	-	-	-
+coref	0	42	It	-	-	-	-	-	-	-	-	-	-
+coref	0	43	is	-	-	-	-	-	-	-	-	-	-
+coref	0	44	the	-	-	-	-	-	-	-	-	-	-
+coref	0	45	common	-	-	-	-	-	-	-	-	-	-
+coref	0	46	case	-	-	-	-	-	-	-	-	-	-
+coref	0	47	of	-	-	-	-	-	-	-	-	-	-
+coref	0	48	all	-	-	-	-	-	-	-	-	-	-
+coref	0	49	the	-	-	-	-	-	-	-	-	-	-
+coref	0	50	Plaintiffs	-	-	-	-	-	-	-	-	-	-
+coref	0	51	that	-	-	-	-	-	-	-	-	-	-
+coref	0	52	the	-	-	-	-	-	-	-	-	-	-
+coref	0	53	use	-	-	-	-	-	-	-	-	-	-
+coref	0	54	of	-	-	-	-	-	-	-	-	-	-
+coref	0	55	the	-	-	-	-	-	-	-	-	-	-
+coref	0	56	Plaintiffs‟	-	-	-	-	-	-	-	-	-	-
+coref	0	57	trade	-	-	-	-	-	-	-	-	-	-
+coref	0	58	marks	-	-	-	-	-	-	-	-	-	-
+coref	0	59	is	-	-	-	-	-	-	-	-	-	-
+coref	0	60	not	-	-	-	-	-	-	-	-	-	-
+coref	0	61	protected	-	-	-	-	-	-	-	-	-	-
+coref	0	62	by	-	-	-	-	-	-	-	-	-	-
+coref	0	63	Section	-	-	-	-	-	-	-	-	-	-	(148
+coref	0	64	30	-	-	-	-	-	-	-	-	-	-	148)
+coref	0	65	of	-	-	-	-	-	-	-	-	-	-
+coref	0	66	the	-	-	-	-	-	-	-	-	-	-	(148
+coref	0	67	Act	-	-	-	-	-	-	-	-	-	-	148)
+coref	0	68	and	-	-	-	-	-	-	-	-	-	-
+coref	0	69	in	-	-	-	-	-	-	-	-	-	-
+coref	0	70	fact	-	-	-	-	-	-	-	-	-	-
+coref	0	71	constitutes	-	-	-	-	-	-	-	-	-	-
+coref	0	72	infringement,	-	-	-	-	-	-	-	-	-	-
+coref	0	73	passing	-	-	-	-	-	-	-	-	-	-
+coref	0	74	off	-	-	-	-	-	-	-	-	-	-
+coref	0	75	and	-	-	-	-	-	-	-	-	-	-
+coref	0	76	misrepresentation.	-	-	-	-	-	-	-	-	-	-
+coref	0	77	The	-	-	-	-	-	-	-	-	-	-
+coref	0	78	question	-	-	-	-	-	-	-	-	-	-
+coref	0	79	that,	-	-	-	-	-	-	-	-	-	-
+coref	0	80	therefore,	-	-	-	-	-	-	-	-	-	-
+coref	0	81	arises	-	-	-	-	-	-	-	-	-	-
+coref	0	82	is	-	-	-	-	-	-	-	-	-	-
+coref	0	83	as	-	-	-	-	-	-	-	-	-	-
+coref	0	84	to	-	-	-	-	-	-	-	-	-	-
+coref	0	85	whether	-	-	-	-	-	-	-	-	-	-
+coref	0	86	the	-	-	-	-	-	-	-	-	-	-
+coref	0	87	Plaintiffs	-	-	-	-	-	-	-	-	-	-
+coref	0	88	can	-	-	-	-	-	-	-	-	-	-
+coref	0	89	control	-	-	-	-	-	-	-	-	-	-
+coref	0	90	or	-	-	-	-	-	-	-	-	-	-
+coref	0	91	seek	-	-	-	-	-	-	-	-	-	-
+coref	0	92	to	-	-	-	-	-	-	-	-	-	-
+coref	0	93	regulate	-	-	-	-	-	-	-	-	-	-
+coref	0	94	the	-	-	-	-	-	-	-	-	-	-
+coref	0	95	sale	-	-	-	-	-	-	-	-	-	-
+coref	0	96	of	-	-	-	-	-	-	-	-	-	-
+coref	0	97	their	-	-	-	-	-	-	-	-	-	-
+coref	0	98	respective	-	-	-	-	-	-	-	-	-	-
+coref	0	99	products	-	-	-	-	-	-	-	-	-	-
+coref	0	100	on	-	-	-	-	-	-	-	-	-	-
+coref	0	101	e-commerce	-	-	-	-	-	-	-	-	-	-
+coref	0	102	platforms	-	-	-	-	-	-	-	-	-	-
+coref	0	103	and	-	-	-	-	-	-	-	-	-	-
+coref	0	104	whether	-	-	-	-	-	-	-	-	-	-
+coref	0	105	the	-	-	-	-	-	-	-	-	-	-
+coref	0	106	Defendants	-	-	-	-	-	-	-	-	-	-
+coref	0	107	have	-	-	-	-	-	-	-	-	-	-
+coref	0	108	a	-	-	-	-	-	-	-	-	-	-
+coref	0	109	right	-	-	-	-	-	-	-	-	-	-
+coref	0	110	in	-	-	-	-	-	-	-	-	-	-
+coref	0	111	law,	-	-	-	-	-	-	-	-	-	-
+coref	0	112	as	-	-	-	-	-	-	-	-	-	-
+coref	0	113	envisaged	-	-	-	-	-	-	-	-	-	-
+coref	0	114	under	-	-	-	-	-	-	-	-	-	-
+coref	0	115	Section	-	-	-	-	-	-	-	-	-	-	(148
+coref	0	116	30	-	-	-	-	-	-	-	-	-	-	148)
+coref	0	117	of	-	-	-	-	-	-	-	-	-	-
+coref	0	118	the	-	-	-	-	-	-	-	-	-	-   (148
+coref	0	119	Trade	-	-	-	-	-	-	-	-	-	-
+coref	0	120	Marks	-	-	-	-	-	-	-	-	-	-
+coref	0	121	Act	-	-	-	-	-	-	-	-	-	-   148)
+coref	0	122	to	-	-	-	-	-	-	-	-	-	-
+coref	0	123	continue	-	-	-	-	-	-	-	-	-	-
+coref	0	124	to	-	-	-	-	-	-	-	-	-	-
+coref	0	125	sell	-	-	-	-	-	-	-	-	-	-
+coref	0	126	the	-	-	-	-	-	-	-	-	-	-
+coref	0	127	Plaintiffs‟	-	-	-	-	-	-	-	-	-	-
+coref	0	128	products.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-
+coref	0	1	Parliament	-	-	-	-	-	-	-	-	-	-
+coref	0	2	has	-	-	-	-	-	-	-	-	-	-
+coref	0	3	enacted	-	-	-	-	-	-	-	-	-	-
+coref	0	4	the	-	-	-	-	-	-	-	-	-	-	(154
+coref	0	5	Delhi	-	-	-	-	-	-	-	-	-	-
+coref	0	6	Development	-	-	-	-	-	-	-	-	-	-
+coref	0	7	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	8	1957	-	-	-	-	-	-	-	-	-	-	154)
+coref	0	9	and	-	-	-	-	-	-	-	-	-	-
+coref	0	10	the	-	-	-	-	-	-	-	-	-	-	(155
+coref	0	11	New	-	-	-	-	-	-	-	-	-	-
+coref	0	12	Delhi	-	-	-	-	-	-	-	-	-	-
+coref	0	13	Municipal	-	-	-	-	-	-	-	-	-	-
+coref	0	14	Council	-	-	-	-	-	-	-	-	-	-
+coref	0	15	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	16	1994	-	-	-	-	-	-	-	-	-	-	155)
+coref	0	17	The	-	-	-	-	-	-	-	-	-	-
+coref	0	18	Union	-	-	-	-	-	-	-	-	-	-
+coref	0	19	Government	-	-	-	-	-	-	-	-	-	-
+coref	0	20	has	-	-	-	-	-	-	-	-	-	-
+coref	0	21	power	-	-	-	-	-	-	-	-	-	-
+coref	0	22	to	-	-	-	-	-	-	-	-	-	-
+coref	0	23	issue	-	-	-	-	-	-	-	-	-	-
+coref	0	24	executive	-	-	-	-	-	-	-	-	-	-
+coref	0	25	directions	-	-	-	-	-	-	-	-	-	-
+coref	0	26	relating	-	-	-	-	-	-	-	-	-	-
+coref	0	27	to	-	-	-	-	-	-	-	-	-	-
+coref	0	28	the	-	-	-	-	-	-	-	-	-	-
+coref	0	29	matters	-	-	-	-	-	-	-	-	-	-
+coref	0	30	dealt	-	-	-	-	-	-	-	-	-	-
+coref	0	31	with	-	-	-	-	-	-	-	-	-	-
+coref	0	32	under	-	-	-	-	-	-	-	-	-	-
+coref	0	33	the	-	-	-	-	-	-	-	-	-	-	(154
+coref	0	34	DD	-	-	-	-	-	-	-	-	-	-
+coref	0	35	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	36	1957	-	-	-	-	-	-	-	-	-	-	154)
+coref	0	37	and	-	-	-	-	-	-	-	-	-	-
+coref	0	38	the	-	-	-	-	-	-	-	-	-	-	(155
+coref	0	39	NDMC	-	-	-	-	-	-	-	-	-	-
+coref	0	40	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	41	1994	-	-	-	-	-	-	-	-	-	-	155)
+coref	0	42	though	-	-	-	-	-	-	-	-	-	-
+coref	0	43	the	-	-	-	-	-	-	-	-	-	-
+coref	0	44	directions	-	-	-	-	-	-	-	-	-	-
+coref	0	45	contrary	-	-	-	-	-	-	-	-	-	-
+coref	0	46	to	-	-	-	-	-	-	-	-	-	-
+coref	0	47	the	-	-	-	-	-	-	-	-	-	-
+coref	0	48	provisions	-	-	-	-	-	-	-	-	-	-
+coref	0	49	of	-	-	-	-	-	-	-	-	-	-
+coref	0	50	those	-	-	-	-	-	-	-	-	-	-
+coref	0	51	Acts	-	-	-	-	-	-	-	-	-	-
+coref	0	52	cannot	-	-	-	-	-	-	-	-	-	-
+coref	0	53	be	-	-	-	-	-	-	-	-	-	-
+coref	0	54	issued.	-	-	-	-	-	-	-	-	-	-
+coref	0	55		-	-	-	-	-	-	-	-	-	-
+coref	0	56	It	-	-	-	-	-	-	-	-	-	-
+coref	0	57	is	-	-	-	-	-	-	-	-	-	-
+coref	0	58	well	-	-	-	-	-	-	-	-	-	-
+coref	0	59	to	-	-	-	-	-	-	-	-	-	-
+coref	0	60	remember	-	-	-	-	-	-	-	-	-	-
+coref	0	61	that	-	-	-	-	-	-	-	-	-	-
+coref	0	62	while	-	-	-	-	-	-	-	-	-	-
+coref	0	63	construing	-	-	-	-	-	-	-	-	-	-
+coref	0	64	the	-	-	-	-	-	-	-	-	-	-	(153
+coref	0	65	LBZ	-	-	-	-	-	-	-	-	-	-
+coref	0	66	guidelines	-	-	-	-	-	-	-	-	-	-	153)
+coref	0	67	the	-	-	-	-	-	-	-	-	-	-
+coref	0	68	Court	-	-	-	-	-	-	-	-	-	-
+coref	0	69	will	-	-	-	-	-	-	-	-	-	-
+coref	0	70	have	-	-	-	-	-	-	-	-	-	-
+coref	0	71	to	-	-	-	-	-	-	-	-	-	-
+coref	0	72	take	-	-	-	-	-	-	-	-	-	-
+coref	0	73	notice	-	-	-	-	-	-	-	-	-	-
+coref	0	74	of	-	-	-	-	-	-	-	-	-	-
+coref	0	75	public	-	-	-	-	-	-	-	-	-	-
+coref	0	76	interest	-	-	-	-	-	-	-	-	-	-
+coref	0	77	sought	-	-	-	-	-	-	-	-	-	-
+coref	0	78	to	-	-	-	-	-	-	-	-	-	-
+coref	0	79	be	-	-	-	-	-	-	-	-	-	-
+coref	0	80	protected	-	-	-	-	-	-	-	-	-	-
+coref	0	81	by	-	-	-	-	-	-	-	-	-	-
+coref	0	82	the	-	-	-	-	-	-	-	-	-	-
+coref	0	83	guidelines	-	-	-	-	-	-	-	-	-	-
+coref	0	84	because	-	-	-	-	-	-	-	-	-	-
+coref	0	85	if	-	-	-	-	-	-	-	-	-	-
+coref	0	86	the	-	-	-	-	-	-	-	-	-	-
+coref	0	87	guidelines	-	-	-	-	-	-	-	-	-	-
+coref	0	88	had	-	-	-	-	-	-	-	-	-	-
+coref	0	89	not	-	-	-	-	-	-	-	-	-	-
+coref	0	90	been	-	-	-	-	-	-	-	-	-	-
+coref	0	91	scrupulously	-	-	-	-	-	-	-	-	-	-
+coref	0	92	followed	-	-	-	-	-	-	-	-	-	-
+coref	0	93	as	-	-	-	-	-	-	-	-	-	-
+coref	0	94	has	-	-	-	-	-	-	-	-	-	-
+coref	0	95	been	-	-	-	-	-	-	-	-	-	-
+coref	0	96	admittedly	-	-	-	-	-	-	-	-	-	-
+coref	0	97	done	-	-	-	-	-	-	-	-	-	-
+coref	0	98	since	-	-	-	-	-	-	-	-	-	-
+coref	0	99	1988,	-	-	-	-	-	-	-	-	-	-
+coref	0	100	the	-	-	-	-	-	-	-	-	-	-
+coref	0	101	LBZ	-	-	-	-	-	-	-	-	-	-
+coref	0	102	area	-	-	-	-	-	-	-	-	-	-
+coref	0	103	of	-	-	-	-	-	-	-	-	-	-
+coref	0	104	Delhi	-	-	-	-	-	-	-	-	-	-
+coref	0	105	would	-	-	-	-	-	-	-	-	-	-
+coref	0	106	never	-	-	-	-	-	-	-	-	-	-
+coref	0	107	have	-	-	-	-	-	-	-	-	-	-
+coref	0	108	remained	-	-	-	-	-	-	-	-	-	-
+coref	0	109	the	-	-	-	-	-	-	-	-	-	-
+coref	0	110	bungalow	-	-	-	-	-	-	-	-	-	-
+coref	0	111	area.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(156
+coref	0	1	Patents	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	3	1970	-	-	-	-	-	-	-	-	-	-	156)
+coref	0	4	is	-	-	-	-	-	-	-	-	-	-
+coref	0	5	the	-	-	-	-	-	-	-	-	-	-
+coref	0	6	legislation	-	-	-	-	-	-	-	-	-	-
+coref	0	7	that	-	-	-	-	-	-	-	-	-	-
+coref	0	8	till	-	-	-	-	-	-	-	-	-	-
+coref	0	9	date	-	-	-	-	-	-	-	-	-	-
+coref	0	10	governs	-	-	-	-	-	-	-	-	-	-
+coref	0	11	patents	-	-	-	-	-	-	-	-	-	-
+coref	0	12	in	-	-	-	-	-	-	-	-	-	-
+coref	0	13	India.	-	-	-	-	-	-	-	-	-	-
+coref	0	14	No	-	-	-	-	-	-	-	-	-	-
+coref	0	15	matter,	-	-	-	-	-	-	-	-	-	-
+coref	0	16	as	-	-	-	-	-	-	-	-	-	-
+coref	0	17	disclosure	-	-	-	-	-	-	-	-	-	-
+coref	0	18	is	-	-	-	-	-	-	-	-	-	-
+coref	0	19	irrelevant	-	-	-	-	-	-	-	-	-	-
+coref	0	20	for	-	-	-	-	-	-	-	-	-	-
+coref	0	21	the	-	-	-	-	-	-	-	-	-	-
+coref	0	22	purposes	-	-	-	-	-	-	-	-	-	-
+coref	0	23	of	-	-	-	-	-	-	-	-	-	-
+coref	0	24	Section	-	-	-	-	-	-	-	-	-	-	(156
+coref	0	25	13(1)(b)	-	-	-	-	-	-	-	-	-	-	156)
+coref	0	26	The	-	-	-	-	-	-	-	-	-	-
+coref	0	27	plaintiff	-	-	-	-	-	-	-	-	-	-
+coref	0	28	has	-	-	-	-	-	-	-	-	-	-
+coref	0	29	acknowledged	-	-	-	-	-	-	-	-	-	-
+coref	0	30	that	-	-	-	-	-	-	-	-	-	-
+coref	0	31	CTPR	-	-	-	-	-	-	-	-	-	-
+coref	0	32	comes	-	-	-	-	-	-	-	-	-	-
+coref	0	33	within	-	-	-	-	-	-	-	-	-	-
+coref	0	34	the	-	-	-	-	-	-	-	-	-	-
+coref	0	35	coverage	-	-	-	-	-	-	-	-	-	-
+coref	0	36	of	-	-	-	-	-	-	-	-	-	-
+coref	0	37	Claim	-	-	-	-	-	-	-	-	-	-
+coref	0	38	22	-	-	-	-	-	-	-	-	-	-
+coref	0	39	of	-	-	-	-	-	-	-	-	-	-
+coref	0	40	IN’978.	-	-	-	-	-	-	-	-	-	-
+coref	0	41	That	-	-	-	-	-	-	-	-	-	-
+coref	0	42	is	-	-	-	-	-	-	-	-	-	-
+coref	0	43	sufficient	-	-	-	-	-	-	-	-	-	-
+coref	0	44	to	-	-	-	-	-	-	-	-	-	-
+coref	0	45	make	-	-	-	-	-	-	-	-	-	-
+coref	0	46	out,	-	-	-	-	-	-	-	-	-	-
+coref	0	47	at	-	-	-	-	-	-	-	-	-	-
+coref	0	48	least	-	-	-	-	-	-	-	-	-	-
+coref	0	49	on	-	-	-	-	-	-	-	-	-	-
+coref	0	50	a	-	-	-	-	-	-	-	-	-	-
+coref	0	51	prima	-	-	-	-	-	-	-	-	-	-
+coref	0	52	facie	-	-	-	-	-	-	-	-	-	-
+coref	0	53	basis,	-	-	-	-	-	-	-	-	-	-
+coref	0	54	a	-	-	-	-	-	-	-	-	-	-
+coref	0	55	case	-	-	-	-	-	-	-	-	-	-
+coref	0	56	of	-	-	-	-	-	-	-	-	-	-
+coref	0	57	vulnerability	-	-	-	-	-	-	-	-	-	-
+coref	0	58	of	-	-	-	-	-	-	-	-	-	-
+coref	0	59	the	-	-	-	-	-	-	-	-	-	-
+coref	0	60	suit	-	-	-	-	-	-	-	-	-	-
+coref	0	61	patent,	-	-	-	-	-	-	-	-	-	-
+coref	0	62	under	-	-	-	-	-	-	-	-	-	-
+coref	0	63	Section	-	-	-	-	-	-	-	-	-	-	(156
+coref	0	64	13(1)(b)/64(1)(a)	-	-	-	-	-	-	-	-	-	-	156)
+coref	0	65	There	-	-	-	-	-	-	-	-	-	-
+coref	0	66	is,	-	-	-	-	-	-	-	-	-	-
+coref	0	67	in	-	-	-	-	-	-	-	-	-	-
+coref	0	68	my	-	-	-	-	-	-	-	-	-	-
+coref	0	69	view,	-	-	-	-	-	-	-	-	-	-
+coref	0	70	a	-	-	-	-	-	-	-	-	-	-
+coref	0	71	subtle	-	-	-	-	-	-	-	-	-	-
+coref	0	72	fallacy	-	-	-	-	-	-	-	-	-	-
+coref	0	73	in	-	-	-	-	-	-	-	-	-	-
+coref	0	74	this	-	-	-	-	-	-	-	-	-	-
+coref	0	75	argument.	-	-	-	-	-	-	-	-	-	-
+coref	0	76	The	-	-	-	-	-	-	-	-	-	-	(156
+coref	0	77	Patents	-	-	-	-	-	-	-	-	-	-
+coref	0	78	Act	-	-	-	-	-	-	-	-	-	-	156)
+coref	0	79	does	-	-	-	-	-	-	-	-	-	-
+coref	0	80	not	-	-	-	-	-	-	-	-	-	-
+coref	0	81	define	-	-	-	-	-	-	-	-	-	-
+coref	0	82	“coverage”.	-	-	-	-	-	-	-	-	-	-
+coref	0	83	Indeed,	-	-	-	-	-	-	-	-	-	-
+coref	0	84	coverage,	-	-	-	-	-	-	-	-	-	-
+coref	0	85	as	-	-	-	-	-	-	-	-	-	-
+coref	0	86	a	-	-	-	-	-	-	-	-	-	-
+coref	0	87	concept,	-	-	-	-	-	-	-	-	-	-
+coref	0	88	is	-	-	-	-	-	-	-	-	-	-
+coref	0	89	not	-	-	-	-	-	-	-	-	-	-
+coref	0	90	even	-	-	-	-	-	-	-	-	-	-
+coref	0	91	envisaged	-	-	-	-	-	-	-	-	-	-
+coref	0	92	by	-	-	-	-	-	-	-	-	-	-
+coref	0	93	the	-	-	-	-	-	-	-	-	-	-
+coref	0	94	Patents	-	-	-	-	-	-	-	-	-	-
+coref	0	95	Act.	-	-	-	-	-	-	-	-	-	-
+coref	0	96		-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(160
+coref	0	1	Kerala	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Buildings	-	-	-	-	-	-	-	-	-	-
+coref	0	3	(Lease	-	-	-	-	-	-	-	-	-	-
+coref	0	4	and	-	-	-	-	-	-	-	-	-	-
+coref	0	5	Rent	-	-	-	-	-	-	-	-	-	-
+coref	0	6	Control)	-	-	-	-	-	-	-	-	-	-
+coref	0	7	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	8	1965	-	-	-	-	-	-	-	-	-	-	160)
+coref	0	9	is	-	-	-	-	-	-	-	-	-	-
+coref	0	10	an	-	-	-	-	-	-	-	-	-	-	(160
+coref	0	11	Act	-	-	-	-	-	-	-	-	-	-	160)
+coref	0	12	to	-	-	-	-	-	-	-	-	-	-
+coref	0	13	regulate	-	-	-	-	-	-	-	-	-	-
+coref	0	14	the	-	-	-	-	-	-	-	-	-	-
+coref	0	15	leasing	-	-	-	-	-	-	-	-	-	-
+coref	0	16	of	-	-	-	-	-	-	-	-	-	-
+coref	0	17	buildings	-	-	-	-	-	-	-	-	-	-
+coref	0	18	and	-	-	-	-	-	-	-	-	-	-
+coref	0	19	to	-	-	-	-	-	-	-	-	-	-
+coref	0	20	control	-	-	-	-	-	-	-	-	-	-
+coref	0	21	the	-	-	-	-	-	-	-	-	-	-
+coref	0	22	rent	-	-	-	-	-	-	-	-	-	-
+coref	0	23	of	-	-	-	-	-	-	-	-	-	-
+coref	0	24	such	-	-	-	-	-	-	-	-	-	-
+coref	0	25	buildings	-	-	-	-	-	-	-	-	-	-
+coref	0	26	in	-	-	-	-	-	-	-	-	-	-
+coref	0	27	the	-	-	-	-	-	-	-	-	-	-
+coref	0	28	State	-	-	-	-	-	-	-	-	-	-
+coref	0	29	of	-	-	-	-	-	-	-	-	-	-
+coref	0	30	Kerala.	-	-	-	-	-	-	-	-	-	-
+coref	0	31	While	-	-	-	-	-	-	-	-	-	-
+coref	0	32	considering	-	-	-	-	-	-	-	-	-	-
+coref	0	33	whether	-	-	-	-	-	-	-	-	-	-
+coref	0	34	the	-	-	-	-	-	-	-	-	-	-
+coref	0	35	High	-	-	-	-	-	-	-	-	-	-
+coref	0	36	Court	-	-	-	-	-	-	-	-	-	-
+coref	0	37	could	-	-	-	-	-	-	-	-	-	-
+coref	0	38	have	-	-	-	-	-	-	-	-	-	-
+coref	0	39	re-appreciated	-	-	-	-	-	-	-	-	-	-
+coref	0	40	entire	-	-	-	-	-	-	-	-	-	-
+coref	0	41	evidence,	-	-	-	-	-	-	-	-	-	-
+coref	0	42	the	-	-	-	-	-	-	-	-	-	-
+coref	0	43	Apex	-	-	-	-	-	-	-	-	-	-
+coref	0	44	Court	-	-	-	-	-	-	-	-	-	-
+coref	0	45	held	-	-	-	-	-	-	-	-	-	-
+coref	0	46	that,	-	-	-	-	-	-	-	-	-	-
+coref	0	47	even	-	-	-	-	-	-	-	-	-	-
+coref	0	48	the	-	-	-	-	-	-	-	-	-	-
+coref	0	49	wider	-	-	-	-	-	-	-	-	-	-
+coref	0	50	language	-	-	-	-	-	-	-	-	-	-
+coref	0	51	of	-	-	-	-	-	-	-	-	-	-
+coref	0	52	Section	-	-	-	-	-	-	-	-	-	-	(160
+coref	0	53	20	-	-	-	-	-	-	-	-	-	-	160)
+coref	0	54	of	-	-	-	-	-	-	-	-	-	-
+coref	0	55	the	-	-	-	-	-	-	-	-	-	-   (160
+coref	0	56	Act	-	-	-	-	-	-	-	-	-	-   160)
+coref	0	57	cannot	-	-	-	-	-	-	-	-	-	-
+coref	0	58	enable	-	-	-	-	-	-	-	-	-	-
+coref	0	59	the	-	-	-	-	-	-	-	-	-	-
+coref	0	60	High	-	-	-	-	-	-	-	-	-	-
+coref	0	61	Court	-	-	-	-	-	-	-	-	-	-
+coref	0	62	to	-	-	-	-	-	-	-	-	-	-
+coref	0	63	act	-	-	-	-	-	-	-	-	-	-
+coref	0	64	as	-	-	-	-	-	-	-	-	-	-
+coref	0	65	a	-	-	-	-	-	-	-	-	-	-
+coref	0	66	first	-	-	-	-	-	-	-	-	-	-
+coref	0	67	or	-	-	-	-	-	-	-	-	-	-
+coref	0	68	a	-	-	-	-	-	-	-	-	-	-
+coref	0	69	second	-	-	-	-	-	-	-	-	-	-
+coref	0	70	court	-	-	-	-	-	-	-	-	-	-
+coref	0	71	of	-	-	-	-	-	-	-	-	-	-
+coref	0	72	appeal.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(163
+coref	0	1	Patents	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	3	1970	-	-	-	-	-	-	-	-	-	-	163)
+coref	0	4	is	-	-	-	-	-	-	-	-	-	-
+coref	0	5	the	-	-	-	-	-	-	-	-	-	-
+coref	0	6	legislation	-	-	-	-	-	-	-	-	-	-
+coref	0	7	that	-	-	-	-	-	-	-	-	-	-
+coref	0	8	till	-	-	-	-	-	-	-	-	-	-
+coref	0	9	date	-	-	-	-	-	-	-	-	-	-
+coref	0	10	governs	-	-	-	-	-	-	-	-	-	-
+coref	0	11	patents	-	-	-	-	-	-	-	-	-	-
+coref	0	12	in	-	-	-	-	-	-	-	-	-	-
+coref	0	13	India.	-	-	-	-	-	-	-	-	-	-
+coref	0	14	In	-	-	-	-	-	-	-	-	-	-
+coref	0	15	any	-	-	-	-	-	-	-	-	-	-
+coref	0	16	case	-	-	-	-	-	-	-	-	-	-
+coref	0	17	to	-	-	-	-	-	-	-	-	-	-
+coref	0	18	which	-	-	-	-	-	-	-	-	-	-
+coref	0	19	sub-	-	-	-	-	-	-	-	-	-	-	(163
+coref	0	20	sections	-	-	-	-	-	-	-	-	-	-
+coref	0	21	(2),	-	-	-	-	-	-	-	-	-	-
+coref	0	22	(3),	-	-	-	-	-	-	-	-	-	-
+coref	0	23	(3A),	-	-	-	-	-	-	-	-	-	-
+coref	0	24	(4)	-	-	-	-	-	-	-	-	-	-
+coref	0	25	and	-	-	-	-	-	-	-	-	-	-
+coref	0	26	(5)	-	-	-	-	-	-	-	-	-	-	163)
+coref	0	27	do	-	-	-	-	-	-	-	-	-	-
+coref	0	28	not	-	-	-	-	-	-	-	-	-	-
+coref	0	29	apply,	-	-	-	-	-	-	-	-	-	-
+coref	0	30	the	-	-	-	-	-	-	-	-	-	-
+coref	0	31	priority	-	-	-	-	-	-	-	-	-	-
+coref	0	32	date	-	-	-	-	-	-	-	-	-	-
+coref	0	33	of	-	-	-	-	-	-	-	-	-	-
+coref	0	34	a	-	-	-	-	-	-	-	-	-	-
+coref	0	35	claim	-	-	-	-	-	-	-	-	-	-
+coref	0	36	shall,	-	-	-	-	-	-	-	-	-	-
+coref	0	37	subject	-	-	-	-	-	-	-	-	-	-
+coref	0	38	to	-	-	-	-	-	-	-	-	-	-
+coref	0	39	the	-	-	-	-	-	-	-	-	-	-
+coref	0	40	provisions	-	-	-	-	-	-	-	-	-	-
+coref	0	41	of	-	-	-	-	-	-	-	-	-	-
+coref	0	42	section	-	-	-	-	-	-	-	-	-	-
+coref	0	43	137,	-	-	-	-	-	-	-	-	-	-
+coref	0	44	be	-	-	-	-	-	-	-	-	-	-
+coref	0	45	the	-	-	-	-	-	-	-	-	-	-
+coref	0	46	date	-	-	-	-	-	-	-	-	-	-
+coref	0	47	of	-	-	-	-	-	-	-	-	-	-
+coref	0	48	filing	-	-	-	-	-	-	-	-	-	-
+coref	0	49	of	-	-	-	-	-	-	-	-	-	-
+coref	0	50	the	-	-	-	-	-	-	-	-	-	-
+coref	0	51	complete	-	-	-	-	-	-	-	-	-	-
+coref	0	52	specification.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	Amway	-	-	-	-	-	-	-	-	-	-
+coref	0	1	relies	-	-	-	-	-	-	-	-	-	-
+coref	0	2	on	-	-	-	-	-	-	-	-	-	-
+coref	0	3	the	-	-	-	-	-	-	-	-	-	-
+coref	0	4	Direct	-	-	-	-	-	-	-	-	-	-
+coref	0	5	Selling	-	-	-	-	-	-	-	-	-	-
+coref	0	6	Guidelines	-	-	-	-	-	-	-	-	-	-
+coref	0	7	issued	-	-	-	-	-	-	-	-	-	-
+coref	0	8	by	-	-	-	-	-	-	-	-	-	-
+coref	0	9	the	-	-	-	-	-	-	-	-	-	-
+coref	0	10	Government	-	-	-	-	-	-	-	-	-	-
+coref	0	11	of	-	-	-	-	-	-	-	-	-	-
+coref	0	12	India	-	-	-	-	-	-	-	-	-	-
+coref	0	13	titled	-	-	-	-	-	-	-	-	-	-
+coref	0	14	Direct	-	-	-	-	-	-	-	-	-	-	(165
+coref	0	15	Selling	-	-	-	-	-	-	-	-	-	-
+coref	0	16	Guidelines,	-	-	-	-	-	-	-	-	-	-
+coref	0	17	2016	-	-	-	-	-	-	-	-	-	-	165)
+coref	0	18	dated	-	-	-	-	-	-	-	-	-	-
+coref	0	19	26th	-	-	-	-	-	-	-	-	-	-
+coref	0	20	October,	-	-	-	-	-	-	-	-	-	-
+coref	0	21	2016	-	-	-	-	-	-	-	-	-	-
+coref	0	22	(hereinafter,	-	-	-	-	-	-	-	-	-	-
+coref	0	23	Guidelines).	-	-	-	-	-	-	-	-	-	-
+coref	0	24	Despite	-	-	-	-	-	-	-	-	-	-
+coref	0	25	repeatedly	-	-	-	-	-	-	-	-	-	-
+coref	0	26	having	-	-	-	-	-	-	-	-	-	-
+coref	0	27	been	-	-	-	-	-	-	-	-	-	-
+coref	0	28	cautioned	-	-	-	-	-	-	-	-	-	-
+coref	0	29	and	-	-	-	-	-	-	-	-	-	-
+coref	0	30	being	-	-	-	-	-	-	-	-	-	-
+coref	0	31	notified	-	-	-	-	-	-	-	-	-	-
+coref	0	32	of	-	-	-	-	-	-	-	-	-	-
+coref	0	33	the	-	-	-	-	-	-	-	-	-	-	(165
+coref	0	34	Guidelines	-	-	-	-	-	-	-	-	-	-	165)
+coref	0	35	the	-	-	-	-	-	-	-	-	-	-
+coref	0	36	platforms	-	-	-	-	-	-	-	-	-	-
+coref	0	37	have	-	-	-	-	-	-	-	-	-	-
+coref	0	38	chosen	-	-	-	-	-	-	-	-	-	-
+coref	0	39	not	-	-	-	-	-	-	-	-	-	-
+coref	0	40	to	-	-	-	-	-	-	-	-	-	-
+coref	0	41	challenge	-	-	-	-	-	-	-	-	-	-
+coref	0	42	the	-	-	-	-	-	-	-	-	-	-
+coref	0	43	same,	-	-	-	-	-	-	-	-	-	-
+coref	0	44	as	-	-	-	-	-	-	-	-	-	-
+coref	0	45	they	-	-	-	-	-	-	-	-	-	-
+coref	0	46	are	-	-	-	-	-	-	-	-	-	-
+coref	0	47	well	-	-	-	-	-	-	-	-	-	-
+coref	0	48	aware	-	-	-	-	-	-	-	-	-	-
+coref	0	49	of	-	-	-	-	-	-	-	-	-	-
+coref	0	50	the	-	-	-	-	-	-	-	-	-	-
+coref	0	51	background	-	-	-	-	-	-	-	-	-	-
+coref	0	52	of	-	-	-	-	-	-	-	-	-	-
+coref	0	53	the	-	-	-	-	-	-	-	-	-	-
+coref	0	54	issuance	-	-	-	-	-	-	-	-	-	-
+coref	0	55	of	-	-	-	-	-	-	-	-	-	-
+coref	0	56	these	-	-	-	-	-	-	-	-	-	-
+coref	0	57	Guidelines	-	-	-	-	-	-	-	-	-	-
+coref	0	58	and	-	-	-	-	-	-	-	-	-	-
+coref	0	59	the	-	-	-	-	-	-	-	-	-	-
+coref	0	60	raison	-	-	-	-	-	-	-	-	-	-
+coref	0	61	d‘etre	-	-	-	-	-	-	-	-	-	-
+coref	0	62	behind	-	-	-	-	-	-	-	-	-	-
+coref	0	63	the	-	-	-	-	-	-	-	-	-	-
+coref	0	64	same.	-	-	-	-	-	-	-	-	-	-
+coref	0	65		-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	Insolvency	-	-	-	-	-	-	-	-	-	-	(167
+coref	0	1	and	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Bankruptcy	-	-	-	-	-	-	-	-	-	-
+coref	0	3	Code	-	-	-	-	-	-	-	-	-	-
+coref	0	4	2016	-	-	-	-	-	-	-	-	-	-	167)
+coref	0	5	an	-	-	-	-	-	-	-	-	-	-	(167
+coref	0	6	Act	-	-	-	-	-	-	-	-	-	-	167)
+coref	0	7	to	-	-	-	-	-	-	-	-	-	-
+coref	0	8	consolidate	-	-	-	-	-	-	-	-	-	-
+coref	0	9	and	-	-	-	-	-	-	-	-	-	-
+coref	0	10	amend	-	-	-	-	-	-	-	-	-	-
+coref	0	11	the	-	-	-	-	-	-	-	-	-	-
+coref	0	12	laws	-	-	-	-	-	-	-	-	-	-
+coref	0	13	relating	-	-	-	-	-	-	-	-	-	-
+coref	0	14	to	-	-	-	-	-	-	-	-	-	-
+coref	0	15	reorganisation	-	-	-	-	-	-	-	-	-	-
+coref	0	16	and	-	-	-	-	-	-	-	-	-	-
+coref	0	17	insolvency	-	-	-	-	-	-	-	-	-	-
+coref	0	18	resolution	-	-	-	-	-	-	-	-	-	-
+coref	0	19	of	-	-	-	-	-	-	-	-	-	-
+coref	0	20	corporate	-	-	-	-	-	-	-	-	-	-
+coref	0	21	persons.	-	-	-	-	-	-	-	-	-	-
+coref	0	22	However,	-	-	-	-	-	-	-	-	-	-
+coref	0	23	the	-	-	-	-	-	-	-	-	-	-
+coref	0	24	main	-	-	-	-	-	-	-	-	-	-
+coref	0	25	issue	-	-	-	-	-	-	-	-	-	-
+coref	0	26	revolves	-	-	-	-	-	-	-	-	-	-
+coref	0	27	around	-	-	-	-	-	-	-	-	-	-
+coref	0	28	the	-	-	-	-	-	-	-	-	-	-
+coref	0	29	question	-	-	-	-	-	-	-	-	-	-
+coref	0	30	whether	-	-	-	-	-	-	-	-	-	-
+coref	0	31	Ext.P5	-	-	-	-	-	-	-	-	-	-
+coref	0	32	which	-	-	-	-	-	-	-	-	-	-
+coref	0	33	is	-	-	-	-	-	-	-	-	-	-
+coref	0	34	the	-	-	-	-	-	-	-	-	-	-
+coref	0	35	amendment	-	-	-	-	-	-	-	-	-	-
+coref	0	36	of	-	-	-	-	-	-	-	-	-	-
+coref	0	37	Section	-	-	-	-	-	-	-	-	-	-
+coref	0	38	4	-	-	-	-	-	-	-	-	-	-
+coref	0	39	will	-	-	-	-	-	-	-	-	-	-
+coref	0	40	be	-	-	-	-	-	-	-	-	-	-
+coref	0	41	applicable	-	-	-	-	-	-	-	-	-	-
+coref	0	42	to	-	-	-	-	-	-	-	-	-	-
+coref	0	43	cases	-	-	-	-	-	-	-	-	-	-
+coref	0	44	where	-	-	-	-	-	-	-	-	-	-
+coref	0	45	the	-	-	-	-	-	-	-	-	-	-
+coref	0	46	default	-	-	-	-	-	-	-	-	-	-
+coref	0	47	had	-	-	-	-	-	-	-	-	-	-
+coref	0	48	occurred	-	-	-	-	-	-	-	-	-	-
+coref	0	49	prior	-	-	-	-	-	-	-	-	-	-
+coref	0	50	to	-	-	-	-	-	-	-	-	-	-
+coref	0	51	the	-	-	-	-	-	-	-	-	-	-
+coref	0	52	date	-	-	-	-	-	-	-	-	-	-
+coref	0	53	of	-	-	-	-	-	-	-	-	-	-
+coref	0	54	amendment.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	THE	-	-	-	-	-	-	-	-	-	-	(170
+coref	0	1	COMPANIES	-	-	-	-	-	-	-	-	-	-
+coref	0	2	ACT,	-	-	-	-	-	-	-	-	-	-
+coref	0	3	2013	-	-	-	-	-	-	-	-	-	-	170)
+coref	0	4	is	-	-	-	-	-	-	-	-	-	-
+coref	0	5	an	-	-	-	-	-	-	-	-	-	-	(170
+coref	0	6	Act	-	-	-	-	-	-	-	-	-	-	170)
+coref	0	7	to	-	-	-	-	-	-	-	-	-	-
+coref	0	8	consolidate	-	-	-	-	-	-	-	-	-	-
+coref	0	9	and	-	-	-	-	-	-	-	-	-	-
+coref	0	10	amend	-	-	-	-	-	-	-	-	-	-
+coref	0	11	the	-	-	-	-	-	-	-	-	-	-
+coref	0	12	law	-	-	-	-	-	-	-	-	-	-
+coref	0	13	relating	-	-	-	-	-	-	-	-	-	-
+coref	0	14	to	-	-	-	-	-	-	-	-	-	-
+coref	0	15	companies.	-	-	-	-	-	-	-	-	-	-
+coref	0	16	In	-	-	-	-	-	-	-	-	-	-
+coref	0	17	exercise	-	-	-	-	-	-	-	-	-	-
+coref	0	18	of	-	-	-	-	-	-	-	-	-	-
+coref	0	19	the	-	-	-	-	-	-	-	-	-	-
+coref	0	20	powers	-	-	-	-	-	-	-	-	-	-
+coref	0	21	conferred	-	-	-	-	-	-	-	-	-	-
+coref	0	22	by	-	-	-	-	-	-	-	-	-	-
+coref	0	23	section	-	-	-	-	-	-	-	-	-	-	(171
+coref	0	24	469	-	-	-	-	-	-	-	-	-	-	171)
+coref	0	25	of	-	-	-	-	-	-	-	-	-	-
+coref	0	26	the	-	-	-	-	-	-	-	-	-	-	(172
+coref	0	27	companies	-	-	-	-	-	-	-	-	-	-
+coref	0	28	act	-	-	-	-	-	-	-	-	-	-	172)
+coref	0	29	the	-	-	-	-	-	-	-	-	-	-
+coref	0	30	central	-	-	-	-	-	-	-	-	-	-
+coref	0	31	government	-	-	-	-	-	-	-	-	-	-
+coref	0	32	made	-	-	-	-	-	-	-	-	-	-
+coref	0	33	the	-	-	-	-	-	-	-	-	-	-	(169
+coref	0	34	National	-	-	-	-	-	-	-	-	-	-
+coref	0	35	Company	-	-	-	-	-	-	-	-	-	-
+coref	0	36	Law	-	-	-	-	-	-	-	-	-	-
+coref	0	37	Tribunal	-	-	-	-	-	-	-	-	-	-
+coref	0	38	Rules	-	-	-	-	-	-	-	-	-	-	169)
+coref	0	39	In	-	-	-	-	-	-	-	-	-	-
+coref	0	40	the	-	-	-	-	-	-	-	-	-	-
+coref	0	41	case	-	-	-	-	-	-	-	-	-	-
+coref	0	42	of	-	-	-	-	-	-	-	-	-	-
+coref	0	43	an	-	-	-	-	-	-	-	-	-	-
+coref	0	44	operational	-	-	-	-	-	-	-	-	-	-
+coref	0	45	creditor,	-	-	-	-	-	-	-	-	-	-
+coref	0	46	on	-	-	-	-	-	-	-	-	-	-
+coref	0	47	the	-	-	-	-	-	-	-	-	-	-
+coref	0	48	occurrence	-	-	-	-	-	-	-	-	-	-
+coref	0	49	of	-	-	-	-	-	-	-	-	-	-
+coref	0	50	a	-	-	-	-	-	-	-	-	-	-
+coref	0	51	default,	-	-	-	-	-	-	-	-	-	-
+coref	0	52	he	-	-	-	-	-	-	-	-	-	-
+coref	0	53	has	-	-	-	-	-	-	-	-	-	-
+coref	0	54	to	-	-	-	-	-	-	-	-	-	-
+coref	0	55	deliver	-	-	-	-	-	-	-	-	-	-
+coref	0	56	a	-	-	-	-	-	-	-	-	-	-
+coref	0	57	demand	-	-	-	-	-	-	-	-	-	-
+coref	0	58	notice	-	-	-	-	-	-	-	-	-	-
+coref	0	59	of	-	-	-	-	-	-	-	-	-	-
+coref	0	60	unpaid	-	-	-	-	-	-	-	-	-	-
+coref	0	61	operational	-	-	-	-	-	-	-	-	-	-
+coref	0	62	debt	-	-	-	-	-	-	-	-	-	-
+coref	0	63	in	-	-	-	-	-	-	-	-	-	-
+coref	0	64	such	-	-	-	-	-	-	-	-	-	-
+coref	0	65	form	-	-	-	-	-	-	-	-	-	-
+coref	0	66	and	-	-	-	-	-	-	-	-	-	-
+coref	0	67	manner	-	-	-	-	-	-	-	-	-	-
+coref	0	68	as	-	-	-	-	-	-	-	-	-	-
+coref	0	69	may	-	-	-	-	-	-	-	-	-	-
+coref	0	70	be	-	-	-	-	-	-	-	-	-	-
+coref	0	71	prescribed	-	-	-	-	-	-	-	-	-	-
+coref	0	72	in	-	-	-	-	-	-	-	-	-	-
+coref	0	73	the	-	-	-	-	-	-	-	-	-	-
+coref	0	74	rules.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(173
+coref	0	1	Constitution	-	-	-	-	-	-	-	-	-	-
+coref	0	2	of	-	-	-	-	-	-	-	-	-	-
+coref	0	3	India	-	-	-	-	-	-	-	-	-	-	173)
+coref	0	4	is	-	-	-	-	-	-	-	-	-	-
+coref	0	5	the	-	-	-	-	-	-	-	-	-	-
+coref	0	6	supreme	-	-	-	-	-	-	-	-	-	-
+coref	0	7	law	-	-	-	-	-	-	-	-	-	-
+coref	0	8	of	-	-	-	-	-	-	-	-	-	-
+coref	0	9	India.THE	-	-	-	-	-	-	-	-	-	-	(174
+coref	0	10	KERALA	-	-	-	-	-	-	-	-	-	-
+coref	0	11	MUNICIPALITY	-	-	-	-	-	-	-	-	-	-
+coref	0	12	ACT,	-	-	-	-	-	-	-	-	-	-
+coref	0	13	1994	-	-	-	-	-	-	-	-	-	-	174)
+coref	0	14	is	-	-	-	-	-	-	-	-	-	-
+coref	0	15	an	-	-	-	-	-	-	-	-	-	-	(174
+coref	0	16	Act	-	-	-	-	-	-	-	-	-	-	174)
+coref	0	17	to	-	-	-	-	-	-	-	-	-	-
+coref	0	18	replace	-	-	-	-	-	-	-	-	-	-
+coref	0	19	the	-	-	-	-	-	-	-	-	-	-
+coref	0	20	present	-	-	-	-	-	-	-	-	-	-
+coref	0	21	enactments	-	-	-	-	-	-	-	-	-	-
+coref	0	22	relating	-	-	-	-	-	-	-	-	-	-
+coref	0	23	to	-	-	-	-	-	-	-	-	-	-
+coref	0	24	Municipalities	-	-	-	-	-	-	-	-	-	-
+coref	0	25	and	-	-	-	-	-	-	-	-	-	-
+coref	0	26	Municipal	-	-	-	-	-	-	-	-	-	-
+coref	0	27	Corporations	-	-	-	-	-	-	-	-	-	-
+coref	0	28	by	-	-	-	-	-	-	-	-	-	-
+coref	0	29	a	-	-	-	-	-	-	-	-	-	-
+coref	0	30	comprehensive	-	-	-	-	-	-	-	-	-	-
+coref	0	31	enactment	-	-	-	-	-	-	-	-	-	-
+coref	0	32	in	-	-	-	-	-	-	-	-	-	-
+coref	0	33	line	-	-	-	-	-	-	-	-	-	-
+coref	0	34	with	-	-	-	-	-	-	-	-	-	-
+coref	0	35	the	-	-	-	-	-	-	-	-	-	-
+coref	0	36	Constitution	-	-	-	-	-	-	-	-	-	-
+coref	0	37	(Seventy	-	-	-	-	-	-	-	-	-	-
+coref	0	38	Fourth)	-	-	-	-	-	-	-	-	-	-
+coref	0	39	Amendment	-	-	-	-	-	-	-	-	-	-
+coref	0	40	Act.	-	-	-	-	-	-	-	-	-	-
+coref	0	41	The	-	-	-	-	-	-	-	-	-	-
+coref	0	42	Government	-	-	-	-	-	-	-	-	-	-
+coref	0	43	of	-	-	-	-	-	-	-	-	-	-
+coref	0	44	Kerala	-	-	-	-	-	-	-	-	-	-
+coref	0	45	hereby	-	-	-	-	-	-	-	-	-	-
+coref	0	46	make	-	-	-	-	-	-	-	-	-	-
+coref	0	47	the	-	-	-	-	-	-	-	-	-	-
+coref	0	48	followingTHE	-	-	-	-	-	-	-	-	-	-	(176
+coref	0	49	KERALA	-	-	-	-	-	-	-	-	-	-
+coref	0	50	MUNICIPALITY	-	-	-	-	-	-	-	-	-	-
+coref	0	51	(PROFESSION	-	-	-	-	-	-	-	-	-	-
+coref	0	52	TAX)	-	-	-	-	-	-	-	-	-	-
+coref	0	53	RULES,	-	-	-	-	-	-	-	-	-	-
+coref	0	54	2005	-	-	-	-	-	-	-	-	-	-	176)
+coref	0	55	When	-	-	-	-	-	-	-	-	-	-
+coref	0	56	there	-	-	-	-	-	-	-	-	-	-
+coref	0	57	are	-	-	-	-	-	-	-	-	-	-
+coref	0	58	clear	-	-	-	-	-	-	-	-	-	-
+coref	0	59	prescriptions	-	-	-	-	-	-	-	-	-	-
+coref	0	60	contained	-	-	-	-	-	-	-	-	-	-
+coref	0	61	underthe	-	-	-	-	-	-	-	-	-	-	(175
+coref	0	62	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	63	1994	-	-	-	-	-	-	-	-	-	-	175)
+coref	0	64	andthe	-	-	-	-	-	-	-	-	-	-	(176
+coref	0	65	Rules,	-	-	-	-	-	-	-	-	-	-
+coref	0	66	2005	-	-	-	-	-	-	-	-	-	-	176)
+coref	0	67	in	-	-	-	-	-	-	-	-	-	-
+coref	0	68	regard	-	-	-	-	-	-	-	-	-	-
+coref	0	69	to	-	-	-	-	-	-	-	-	-	-
+coref	0	70	the	-	-	-	-	-	-	-	-	-	-
+coref	0	71	levy	-	-	-	-	-	-	-	-	-	-
+coref	0	72	of	-	-	-	-	-	-	-	-	-	-
+coref	0	73	profession	-	-	-	-	-	-	-	-	-	-
+coref	0	74	tax,	-	-	-	-	-	-	-	-	-	-
+coref	0	75	and	-	-	-	-	-	-	-	-	-	-
+coref	0	76	when	-	-	-	-	-	-	-	-	-	-
+coref	0	77	a	-	-	-	-	-	-	-	-	-	-
+coref	0	78	demand	-	-	-	-	-	-	-	-	-	-
+coref	0	79	is	-	-	-	-	-	-	-	-	-	-
+coref	0	80	made,	-	-	-	-	-	-	-	-	-	-
+coref	0	81	which	-	-	-	-	-	-	-	-	-	-
+coref	0	82	is	-	-	-	-	-	-	-	-	-	-
+coref	0	83	objected	-	-	-	-	-	-	-	-	-	-
+coref	0	84	to	-	-	-	-	-	-	-	-	-	-
+coref	0	85	by	-	-	-	-	-	-	-	-	-	-
+coref	0	86	the	-	-	-	-	-	-	-	-	-	-
+coref	0	87	aggrieved	-	-	-	-	-	-	-	-	-	-
+coref	0	88	persons.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0		-	-	-	-	-	-	-	-	-	-
+coref	0	1	The	-	-	-	-	-	-	-	-	-	-	(177
+coref	0	2	Calicut	-	-	-	-	-	-	-	-	-	-
+coref	0	3	University	-	-	-	-	-	-	-	-	-	-
+coref	0	4	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	5	1975	-	-	-	-	-	-	-	-	-	-	177)
+coref	0	6	is	-	-	-	-	-	-	-	-	-	-
+coref	0	7	An	-	-	-	-	-	-	-	-	-	-	(177
+coref	0	8	Act	-	-	-	-	-	-	-	-	-	-	177)
+coref	0	9	to	-	-	-	-	-	-	-	-	-	-
+coref	0	10	provide	-	-	-	-	-	-	-	-	-	-
+coref	0	11	for	-	-	-	-	-	-	-	-	-	-
+coref	0	12	the	-	-	-	-	-	-	-	-	-	-
+coref	0	13	reorganisation	-	-	-	-	-	-	-	-	-	-
+coref	0	14	of	-	-	-	-	-	-	-	-	-	-
+coref	0	15	the	-	-	-	-	-	-	-	-	-	-
+coref	0	16	University	-	-	-	-	-	-	-	-	-	-
+coref	0	17	of	-	-	-	-	-	-	-	-	-	-
+coref	0	18	Calicut.	-	-	-	-	-	-	-	-	-	-
+coref	0	19	Chancellor	-	-	-	-	-	-	-	-	-	-
+coref	0	20	expected	-	-	-	-	-	-	-	-	-	-
+coref	0	21	and	-	-	-	-	-	-	-	-	-	-
+coref	0	22	intended	-	-	-	-	-	-	-	-	-	-
+coref	0	23	that	-	-	-	-	-	-	-	-	-	-
+coref	0	24	the	-	-	-	-	-	-	-	-	-	-
+coref	0	25	amendments	-	-	-	-	-	-	-	-	-	-
+coref	0	26	will	-	-	-	-	-	-	-	-	-	-
+coref	0	27	take	-	-	-	-	-	-	-	-	-	-
+coref	0	28	effect	-	-	-	-	-	-	-	-	-	-
+coref	0	29	only	-	-	-	-	-	-	-	-	-	-
+coref	0	30	from	-	-	-	-	-	-	-	-	-	-
+coref	0	31	the	-	-	-	-	-	-	-	-	-	-
+coref	0	32	date	-	-	-	-	-	-	-	-	-	-
+coref	0	33	of	-	-	-	-	-	-	-	-	-	-
+coref	0	34	his	-	-	-	-	-	-	-	-	-	-
+coref	0	35	assent,	-	-	-	-	-	-	-	-	-	-
+coref	0	36	as	-	-	-	-	-	-	-	-	-	-
+coref	0	37	per	-	-	-	-	-	-	-	-	-	-
+coref	0	38	the	-	-	-	-	-	-	-	-	-	-
+coref	0	39	provisions	-	-	-	-	-	-	-	-	-	-
+coref	0	40	of	-	-	-	-	-	-	-	-	-	-
+coref	0	41	Section	-	-	-	-	-	-	-	-	-	-	(177
+coref	0	42	37	-	-	-	-	-	-	-	-	-	-	177)
+coref	0	43	of	-	-	-	-	-	-	-	-	-	-
+coref	0	44	the	-	-	-	-	-	-	-	-	-	-   (177
+coref	0	45	“Act”,	-	-	-	-	-	-	-	-	-	-   177)
+coref	0	46	because	-	-	-	-	-	-	-	-	-	-
+coref	0	47	he	-	-	-	-	-	-	-	-	-	-
+coref	0	48	was	-	-	-	-	-	-	-	-	-	-
+coref	0	49	not	-	-	-	-	-	-	-	-	-	-
+coref	0	50	aware	-	-	-	-	-	-	-	-	-	-
+coref	0	51	that	-	-	-	-	-	-	-	-	-	-
+coref	0	52	the	-	-	-	-	-	-	-	-	-	-
+coref	0	53	Syndicate	-	-	-	-	-	-	-	-	-	-
+coref	0	54	or	-	-	-	-	-	-	-	-	-	-
+coref	0	55	the	-	-	-	-	-	-	-	-	-	-
+coref	0	56	Senate	-	-	-	-	-	-	-	-	-	-
+coref	0	57	wanted	-	-	-	-	-	-	-	-	-	-
+coref	0	58	those	-	-	-	-	-	-	-	-	-	-
+coref	0	59	amendments	-	-	-	-	-	-	-	-	-	-
+coref	0	60	to	-	-	-	-	-	-	-	-	-	-
+coref	0	61	take	-	-	-	-	-	-	-	-	-	-
+coref	0	62	effect	-	-	-	-	-	-	-	-	-	-
+coref	0	63	from	-	-	-	-	-	-	-	-	-	-
+coref	0	64	an	-	-	-	-	-	-	-	-	-	-
+coref	0	65	earlier	-	-	-	-	-	-	-	-	-	-
+coref	0	66	date.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	THE	-	-	-	-	-	-	-	-	-	-   (180
+coref	0	1	UNLAWFUL	-	-	-	-	-	-	-	-	-	-
+coref	0	2	ACTIVITIES	-	-	-	-	-	-	-	-	-	-
+coref	0	3	(PREVENTION)	-	-	-	-	-	-	-	-	-	-
+coref	0	4	ACT,	-	-	-	-	-	-	-	-	-	-
+coref	0	5	1967	-	-	-	-	-	-	-	-	-	-	180)
+coref	0	6	An	-	-	-	-	-	-	-	-	-	-
+coref	0	7	Act	-	-	-	-	-	-	-	-	-	-
+coref	0	8	to	-	-	-	-	-	-	-	-	-	-
+coref	0	9	provide	-	-	-	-	-	-	-	-	-	-
+coref	0	10	for	-	-	-	-	-	-	-	-	-	-
+coref	0	11	the	-	-	-	-	-	-	-	-	-	-
+coref	0	12	more	-	-	-	-	-	-	-	-	-	-
+coref	0	13	effective	-	-	-	-	-	-	-	-	-	-
+coref	0	14	prevention	-	-	-	-	-	-	-	-	-	-
+coref	0	15	of	-	-	-	-	-	-	-	-	-	-
+coref	0	16	certain	-	-	-	-	-	-	-	-	-	-
+coref	0	17	unlawful	-	-	-	-	-	-	-	-	-	-
+coref	0	18	activities	-	-	-	-	-	-	-	-	-	-
+coref	0	19	of	-	-	-	-	-	-	-	-	-	-
+coref	0	20	individuals	-	-	-	-	-	-	-	-	-	-
+coref	0	21	and	-	-	-	-	-	-	-	-	-	-
+coref	0	22	associations.	-	-	-	-	-	-	-	-	-	-
+coref	0	23	It	-	-	-	-	-	-	-	-	-	-
+coref	0	24	is	-	-	-	-	-	-	-	-	-	-
+coref	0	25	further	-	-	-	-	-	-	-	-	-	-
+coref	0	26	argued	-	-	-	-	-	-	-	-	-	-
+coref	0	27	on	-	-	-	-	-	-	-	-	-	-
+coref	0	28	behalf	-	-	-	-	-	-	-	-	-	-
+coref	0	29	of	-	-	-	-	-	-	-	-	-	-
+coref	0	30	the	-	-	-	-	-	-	-	-	-	-
+coref	0	31	appellant	-	-	-	-	-	-	-	-	-	-
+coref	0	32	that	-	-	-	-	-	-	-	-	-	-
+coref	0	33	there	-	-	-	-	-	-	-	-	-	-
+coref	0	34	is	-	-	-	-	-	-	-	-	-	-
+coref	0	35	no	-	-	-	-	-	-	-	-	-	-
+coref	0	36	substantive	-	-	-	-	-	-	-	-	-	-
+coref	0	37	factual	-	-	-	-	-	-	-	-	-	-
+coref	0	38	allegation,	-	-	-	-	-	-	-	-	-	-
+coref	0	39	founded	-	-	-	-	-	-	-	-	-	-
+coref	0	40	on	-	-	-	-	-	-	-	-	-	-
+coref	0	41	any	-	-	-	-	-	-	-	-	-	-
+coref	0	42	concrete,	-	-	-	-	-	-	-	-	-	-
+coref	0	43	verifiable	-	-	-	-	-	-	-	-	-	-
+coref	0	44	evidence	-	-	-	-	-	-	-	-	-	-
+coref	0	45	adduced	-	-	-	-	-	-	-	-	-	-
+coref	0	46	against	-	-	-	-	-	-	-	-	-	-
+coref	0	47	the	-	-	-	-	-	-	-	-	-	-
+coref	0	48	appellant;	-	-	-	-	-	-	-	-	-	-
+coref	0	49	and	-	-	-	-	-	-	-	-	-	-
+coref	0	50	in	-	-	-	-	-	-	-	-	-	-
+coref	0	51	any	-	-	-	-	-	-	-	-	-	-
+coref	0	52	case,	-	-	-	-	-	-	-	-	-	-
+coref	0	53	the	-	-	-	-	-	-	-	-	-	-
+coref	0	54	ingredients	-	-	-	-	-	-	-	-	-	-
+coref	0	55	of	-	-	-	-	-	-	-	-	-	-
+coref	0	56	the	-	-	-	-	-	-	-	-	-	-
+coref	0	57	offences	-	-	-	-	-	-	-	-	-	-
+coref	0	58	alleged	-	-	-	-	-	-	-	-	-	-
+coref	0	59	under	-	-	-	-	-	-	-	-	-	-
+coref	0	60	sections	-	-	-	-	-	-	-	-	-	-	(180
+coref	0	61	15,	-	-	-	-	-	-	-	-	-	-
+coref	0	62	17	-	-	-	-	-	-	-	-	-	-
+coref	0	63	or	-	-	-	-	-	-	-	-	-	-
+coref	0	64	18	-	-	-	-	-	-	-	-	-	-	180)
+coref	0	65	under	-	-	-	-	-	-	-	-	-	-
+coref	0	66	Chapters	-	-	-	-	-	-	-	-	-	-
+coref	0	67	IV	-	-	-	-	-	-	-	-	-	-
+coref	0	68	or	-	-	-	-	-	-	-	-	-	-
+coref	0	69	VI	-	-	-	-	-	-	-	-	-	-
+coref	0	70	of	-	-	-	-	-	-	-	-	-	-
+coref	0	71	the	-	-	-	-	-	-	-	-	-	-	(180
+coref	0	72	UAPA	-	-	-	-	-	-	-	-	-	-	180)
+coref	0	73	are	-	-	-	-	-	-	-	-	-	-
+coref	0	74	not	-	-	-	-	-	-	-	-	-	-
+coref	0	75	madeout,	-	-	-	-	-	-	-	-	-	-
+coref	0	76	by	-	-	-	-	-	-	-	-	-	-
+coref	0	77	reason	-	-	-	-	-	-	-	-	-	-
+coref	0	78	of	-	-	-	-	-	-	-	-	-	-
+coref	0	79	which	-	-	-	-	-	-	-	-	-	-
+coref	0	80	section	-	-	-	-	-	-	-	-	-	-	(180
+coref	0	81	43D(5)	-	-	-	-	-	-	-	-	-	-	180)
+coref	0	82	of	-	-	-	-	-	-	-	-	-	-
+coref	0	83	the	-	-	-	-	-	-	-	-	-	-
+coref	0	84	UAPA	-	-	-	-	-	-	-	-	-	-
+coref	0	85	has	-	-	-	-	-	-	-	-	-	-
+coref	0	86	no	-	-	-	-	-	-	-	-	-	-
+coref	0	87	application	-	-	-	-	-	-	-	-	-	-
+coref	0	88	to	-	-	-	-	-	-	-	-	-	-
+coref	0	89	the	-	-	-	-	-	-	-	-	-	-
+coref	0	90	bail	-	-	-	-	-	-	-	-	-	-
+coref	0	91	application.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(181
+coref	0	1	Calicut	-	-	-	-	-	-	-	-	-	-
+coref	0	2	University	-	-	-	-	-	-	-	-	-	-
+coref	0	3	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	4	1975	-	-	-	-	-	-	-	-	-	-	181)
+coref	0	5	is	-	-	-	-	-	-	-	-	-	-
+coref	0	6	An	-	-	-	-	-	-	-	-	-	-
+coref	0	7	Act	-	-	-	-	-	-	-	-	-	-
+coref	0	8	to	-	-	-	-	-	-	-	-	-	-
+coref	0	9	provide	-	-	-	-	-	-	-	-	-	-
+coref	0	10	for	-	-	-	-	-	-	-	-	-	-
+coref	0	11	the	-	-	-	-	-	-	-	-	-	-
+coref	0	12	reorganisation	-	-	-	-	-	-	-	-	-	-
+coref	0	13	of	-	-	-	-	-	-	-	-	-	-
+coref	0	14	the	-	-	-	-	-	-	-	-	-	-
+coref	0	15	University	-	-	-	-	-	-	-	-	-	-
+coref	0	16	of	-	-	-	-	-	-	-	-	-	-
+coref	0	17	Calicut.	-	-	-	-	-	-	-	-	-	-
+coref	0	18	He	-	-	-	-	-	-	-	-	-	-
+coref	0	19	added	-	-	-	-	-	-	-	-	-	-
+coref	0	20	that,	-	-	-	-	-	-	-	-	-	-
+coref	0	21	as	-	-	-	-	-	-	-	-	-	-
+coref	0	22	far	-	-	-	-	-	-	-	-	-	-
+coref	0	23	as	-	-	-	-	-	-	-	-	-	-
+coref	0	24	Ordinances	-	-	-	-	-	-	-	-	-	-
+coref	0	25	involving	-	-	-	-	-	-	-	-	-	-
+coref	0	26	expenditure	-	-	-	-	-	-	-	-	-	-
+coref	0	27	are	-	-	-	-	-	-	-	-	-	-
+coref	0	28	concerned,	-	-	-	-	-	-	-	-	-	-
+coref	0	29	Section	-	-	-	-	-	-	-	-	-	-	(181
+coref	0	30	37(4)	-	-	-	-	-	-	-	-	-	-	181)
+coref	0	31	of	-	-	-	-	-	-	-	-	-	-
+coref	0	32	the	-	-	-	-	-	-	-	-	-	-
+coref	0	33	“Act”	-	-	-	-	-	-	-	-	-	-
+coref	0	34	makes	-	-	-	-	-	-	-	-	-	-
+coref	0	35	it	-	-	-	-	-	-	-	-	-	-
+coref	0	36	beyond	-	-	-	-	-	-	-	-	-	-
+coref	0	37	contest	-	-	-	-	-	-	-	-	-	-
+coref	0	38	that	-	-	-	-	-	-	-	-	-	-
+coref	0	39	it	-	-	-	-	-	-	-	-	-	-
+coref	0	40	will	-	-	-	-	-	-	-	-	-	-
+coref	0	41	come	-	-	-	-	-	-	-	-	-	-
+coref	0	42	into	-	-	-	-	-	-	-	-	-	-
+coref	0	43	force	-	-	-	-	-	-	-	-	-	-
+coref	0	44	only	-	-	-	-	-	-	-	-	-	-
+coref	0	45	when	-	-	-	-	-	-	-	-	-	-
+coref	0	46	it	-	-	-	-	-	-	-	-	-	-
+coref	0	47	is	-	-	-	-	-	-	-	-	-	-
+coref	0	48	assented	-	-	-	-	-	-	-	-	-	-
+coref	0	49	to	-	-	-	-	-	-	-	-	-	-
+coref	0	50	by	-	-	-	-	-	-	-	-	-	-
+coref	0	51	the	-	-	-	-	-	-	-	-	-	-
+coref	0	52	Chancellor.	-	-	-	-	-	-	-	-	-	-
+coref	0	53		-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-
+coref	0	1	learned	-	-	-	-	-	-	-	-	-	-
+coref	0	2	counsel	-	-	-	-	-	-	-	-	-	-
+coref	0	3	for	-	-	-	-	-	-	-	-	-	-
+coref	0	4	the	-	-	-	-	-	-	-	-	-	-
+coref	0	5	third	-	-	-	-	-	-	-	-	-	-
+coref	0	6	defendant	-	-	-	-	-	-	-	-	-	-
+coref	0	7	in	-	-	-	-	-	-	-	-	-	-
+coref	0	8	this	-	-	-	-	-	-	-	-	-	-
+coref	0	9	context	-	-	-	-	-	-	-	-	-	-
+coref	0	10	relies	-	-	-	-	-	-	-	-	-	-
+coref	0	11	on	-	-	-	-	-	-	-	-	-	-
+coref	0	12	Soosa	-	-	-	-	-	-	-	-	-	-
+coref	0	13	Anthony	-	-	-	-	-	-	-	-	-	-
+coref	0	14	Decosta	-	-	-	-	-	-	-	-	-	-
+coref	0	15	Nicholos	-	-	-	-	-	-	-	-	-	-
+coref	0	16	Decosta,	-	-	-	-	-	-	-	-	-	-
+coref	0	17	in	-	-	-	-	-	-	-	-	-	-
+coref	0	18	which,	-	-	-	-	-	-	-	-	-	-
+coref	0	19	Christian	-	-	-	-	-	-	-	-	-	-	(182
+coref	0	20	Succession	-	-	-	-	-	-	-	-	-	-
+coref	0	21	Act	-	-	-	-	-	-	-	-	-	-	182)
+coref	0	22	(11	-	-	-	-	-	-	-	-	-	-
+coref	0	23	of	-	-	-	-	-	-	-	-	-	-
+coref	0	24	1096,	-	-	-	-	-	-	-	-	-	-
+coref	0	25	Travancore)	-	-	-	-	-	-	-	-	-	-
+coref	0	26	applies	-	-	-	-	-	-	-	-	-	-
+coref	0	27	and	-	-	-	-	-	-	-	-	-	-
+coref	0	28	the	-	-	-	-	-	-	-	-	-	-
+coref	0	29	intestate	-	-	-	-	-	-	-	-	-	-
+coref	0	30	left	-	-	-	-	-	-	-	-	-	-
+coref	0	31	behind	-	-	-	-	-	-	-	-	-	-
+coref	0	32	his	-	-	-	-	-	-	-	-	-	-
+coref	0	33	widow	-	-	-	-	-	-	-	-	-	-
+coref	0	34	and	-	-	-	-	-	-	-	-	-	-
+coref	0	35	a	-	-	-	-	-	-	-	-	-	-
+coref	0	36	son	-	-	-	-	-	-	-	-	-	-
+coref	0	37	who	-	-	-	-	-	-	-	-	-	-
+coref	0	38	is	-	-	-	-	-	-	-	-	-	-
+coref	0	39	having	-	-	-	-	-	-	-	-	-	-
+coref	0	40	only	-	-	-	-	-	-	-	-	-	-
+coref	0	41	life	-	-	-	-	-	-	-	-	-	-
+coref	0	42	estate	-	-	-	-	-	-	-	-	-	-
+coref	0	43	and	-	-	-	-	-	-	-	-	-	-
+coref	0	44	a	-	-	-	-	-	-	-	-	-	-
+coref	0	45	son	-	-	-	-	-	-	-	-	-	-
+coref	0	46	who	-	-	-	-	-	-	-	-	-	-
+coref	0	47	gets	-	-	-	-	-	-	-	-	-	-
+coref	0	48	vested	-	-	-	-	-	-	-	-	-	-
+coref	0	49	alienable	-	-	-	-	-	-	-	-	-	-
+coref	0	50	interest	-	-	-	-	-	-	-	-	-	-
+coref	0	51	in	-	-	-	-	-	-	-	-	-	-
+coref	0	52	widow's	-	-	-	-	-	-	-	-	-	-
+coref	0	53	estate	-	-	-	-	-	-	-	-	-	-
+coref	0	54	immediately	-	-	-	-	-	-	-	-	-	-
+coref	0	55	on	-	-	-	-	-	-	-	-	-	-
+coref	0	56	father's	-	-	-	-	-	-	-	-	-	-
+coref	0	57	death	-	-	-	-	-	-	-	-	-	-
+coref	0	58	as	-	-	-	-	-	-	-	-	-	-
+coref	0	59	per	-	-	-	-	-	-	-	-	-	-
+coref	0	60	Section	-	-	-	-	-	-	-	-	-	-	(182
+coref	0	61	24	-	-	-	-	-	-	-	-	-	-	182)
+coref	0	62	of	-	-	-	-	-	-	-	-	-	-
+coref	0	63	the	-	-	-	-	-	-	-	-	-	-
+coref	0	64	said	-	-	-	-	-	-	-	-	-	-
+coref	0	65	Act.	-	-	-	-	-	-	-	-	-	-
+coref	0	66		-	-	-	-	-	-	-	-	-	-
+coref	0	67		-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(183
+coref	0	1	Hindu	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Minority	-	-	-	-	-	-	-	-	-	-
+coref	0	3	and	-	-	-	-	-	-	-	-	-	-
+coref	0	4	Guardianship	-	-	-	-	-	-	-	-	-	-
+coref	0	5	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	6	1956	-	-	-	-	-	-	-	-	-	-	183)
+coref	0	7	was	-	-	-	-	-	-	-	-	-	-
+coref	0	8	established	-	-	-	-	-	-	-	-	-	-
+coref	0	9	in	-	-	-	-	-	-	-	-	-	-
+coref	0	10	1956	-	-	-	-	-	-	-	-	-	-
+coref	0	11	as	-	-	-	-	-	-	-	-	-	-
+coref	0	12	part	-	-	-	-	-	-	-	-	-	-
+coref	0	13	of	-	-	-	-	-	-	-	-	-	-
+coref	0	14	the	-	-	-	-	-	-	-	-	-	-
+coref	0	15	Hindu	-	-	-	-	-	-	-	-	-	-
+coref	0	16	Code	-	-	-	-	-	-	-	-	-	-
+coref	0	17	Bills.	-	-	-	-	-	-	-	-	-	-
+coref	0	18	Ultimately	-	-	-	-	-	-	-	-	-	-
+coref	0	19	quoted	-	-	-	-	-	-	-	-	-	-
+coref	0	20	Vishwambhar	-	-	-	-	-	-	-	-	-	-
+coref	0	21	&	-	-	-	-	-	-	-	-	-	-
+coref	0	22	Ors	-	-	-	-	-	-	-	-	-	-
+coref	0	23	vs	-	-	-	-	-	-	-	-	-	-
+coref	0	24	Laxminarayan	-	-	-	-	-	-	-	-	-	-
+coref	0	25	(Dead)	-	-	-	-	-	-	-	-	-	-
+coref	0	26	Through	-	-	-	-	-	-	-	-	-	-
+coref	0	27	[(2001)	-	-	-	-	-	-	-	-	-	-
+coref	0	28	6	-	-	-	-	-	-	-	-	-	-
+coref	0	29	SCC	-	-	-	-	-	-	-	-	-	-
+coref	0	30	163]	-	-	-	-	-	-	-	-	-	-
+coref	0	31	wherein	-	-	-	-	-	-	-	-	-	-
+coref	0	32	it	-	-	-	-	-	-	-	-	-	-
+coref	0	33	has	-	-	-	-	-	-	-	-	-	-
+coref	0	34	been	-	-	-	-	-	-	-	-	-	-
+coref	0	35	held	-	-	-	-	-	-	-	-	-	-
+coref	0	36	that	-	-	-	-	-	-	-	-	-	-
+coref	0	37	S.8(2)	-	-	-	-	-	-	-	-	-	-	(183)
+coref	0	38	of	-	-	-	-	-	-	-	-	-	-
+coref	0	39	the	-	-	-	-	-	-	-	-	-	-
+coref	0	40	Hindu	-	-	-	-	-	-	-	-	-	-
+coref	0	41	Minority	-	-	-	-	-	-	-	-	-	-
+coref	0	42	and	-	-	-	-	-	-	-	-	-	-
+coref	0	43	Guardianship	-	-	-	-	-	-	-	-	-	-
+coref	0	44	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	45	it	-	-	-	-	-	-	-	-	-	-
+coref	0	46	is	-	-	-	-	-	-	-	-	-	-
+coref	0	47	laid	-	-	-	-	-	-	-	-	-	-
+coref	0	48	down	-	-	-	-	-	-	-	-	-	-
+coref	0	49	interalia	-	-	-	-	-	-	-	-	-	-
+coref	0	50	that	-	-	-	-	-	-	-	-	-	-
+coref	0	51	the	-	-	-	-	-	-	-	-	-	-
+coref	0	52	natural	-	-	-	-	-	-	-	-	-	-
+coref	0	53	guardian	-	-	-	-	-	-	-	-	-	-
+coref	0	54	shall	-	-	-	-	-	-	-	-	-	-
+coref	0	55	not	-	-	-	-	-	-	-	-	-	-
+coref	0	56	without	-	-	-	-	-	-	-	-	-	-
+coref	0	57	previous	-	-	-	-	-	-	-	-	-	-
+coref	0	58	permission	-	-	-	-	-	-	-	-	-	-
+coref	0	59	of	-	-	-	-	-	-	-	-	-	-
+coref	0	60	the	-	-	-	-	-	-	-	-	-	-
+coref	0	61	court,	-	-	-	-	-	-	-	-	-	-
+coref	0	62	transfer	-	-	-	-	-	-	-	-	-	-
+coref	0	63	by	-	-	-	-	-	-	-	-	-	-
+coref	0	64	sale	-	-	-	-	-	-	-	-	-	-
+coref	0	65	any	-	-	-	-	-	-	-	-	-	-
+coref	0	66	part	-	-	-	-	-	-	-	-	-	-
+coref	0	67	of	-	-	-	-	-	-	-	-	-	-
+coref	0	68	immovable	-	-	-	-	-	-	-	-	-	-
+coref	0	69	property	-	-	-	-	-	-	-	-	-	-
+coref	0	70	of	-	-	-	-	-	-	-	-	-	-
+coref	0	71	the	-	-	-	-	-	-	-	-	-	-
+coref	0	72	minor.	-	-	-	-	-	-	-	-	-	-
+coref	0	73		-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(184
+coref	0	1	Kerala	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Buildings	-	-	-	-	-	-	-	-	-	-
+coref	0	3	(Lease	-	-	-	-	-	-	-	-	-	-
+coref	0	4	and	-	-	-	-	-	-	-	-	-	-
+coref	0	5	Rent	-	-	-	-	-	-	-	-	-	-
+coref	0	6	Control)	-	-	-	-	-	-	-	-	-	-
+coref	0	7	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	8	1965	-	-	-	-	-	-	-	-	-	-	184)
+coref	0	9	is	-	-	-	-	-	-	-	-	-	-
+coref	0	10	an	-	-	-	-	-	-	-	-	-	-
+coref	0	11	Act	-	-	-	-	-	-	-	-	-	-
+coref	0	12	to	-	-	-	-	-	-	-	-	-	-
+coref	0	13	regulate	-	-	-	-	-	-	-	-	-	-
+coref	0	14	the	-	-	-	-	-	-	-	-	-	-
+coref	0	15	leasing	-	-	-	-	-	-	-	-	-	-
+coref	0	16	of	-	-	-	-	-	-	-	-	-	-
+coref	0	17	buildings	-	-	-	-	-	-	-	-	-	-
+coref	0	18	and	-	-	-	-	-	-	-	-	-	-
+coref	0	19	to	-	-	-	-	-	-	-	-	-	-
+coref	0	20	control	-	-	-	-	-	-	-	-	-	-
+coref	0	21	the	-	-	-	-	-	-	-	-	-	-
+coref	0	22	rent	-	-	-	-	-	-	-	-	-	-
+coref	0	23	of	-	-	-	-	-	-	-	-	-	-
+coref	0	24	such	-	-	-	-	-	-	-	-	-	-
+coref	0	25	buildings	-	-	-	-	-	-	-	-	-	-
+coref	0	26	in	-	-	-	-	-	-	-	-	-	-
+coref	0	27	the	-	-	-	-	-	-	-	-	-	-
+coref	0	28	State	-	-	-	-	-	-	-	-	-	-
+coref	0	29	of	-	-	-	-	-	-	-	-	-	-
+coref	0	30	Kerala.	-	-	-	-	-	-	-	-	-	-
+coref	0	31	The	-	-	-	-	-	-	-	-	-	-
+coref	0	32	respondent	-	-	-	-	-	-	-	-	-	-
+coref	0	33	filed	-	-	-	-	-	-	-	-	-	-
+coref	0	34	R.C.P.No.8	-	-	-	-	-	-	-	-	-	-
+coref	0	35	of	-	-	-	-	-	-	-	-	-	-
+coref	0	36	2016	-	-	-	-	-	-	-	-	-	-
+coref	0	37	before	-	-	-	-	-	-	-	-	-	-
+coref	0	38	the	-	-	-	-	-	-	-	-	-	-
+coref	0	39	Rent	-	-	-	-	-	-	-	-	-	-
+coref	0	40	Control	-	-	-	-	-	-	-	-	-	-
+coref	0	41	Court	-	-	-	-	-	-	-	-	-	-
+coref	0	42	(Munsiff),	-	-	-	-	-	-	-	-	-	-
+coref	0	43	Manjeri,	-	-	-	-	-	-	-	-	-	-
+coref	0	44	seeking	-	-	-	-	-	-	-	-	-	-
+coref	0	45	eviction	-	-	-	-	-	-	-	-	-	-
+coref	0	46	under	-	-	-	-	-	-	-	-	-	-
+coref	0	47	Section	-	-	-	-	-	-	-	-	-	-
+coref	0	48	11(2)(b)	-	-	-	-	-	-	-	-	-	-
+coref	0	49	and	-	-	-	-	-	-	-	-	-	-
+coref	0	50	11(8)	-	-	-	-	-	-	-	-	-	-
+coref	0	51	of	-	-	-	-	-	-	-	-	-	-
+coref	0	52	the	-	-	-	-	-	-	-	-	-	-	(184
+coref	0	53	Act	-	-	-	-	-	-	-	-	-	-	184)
+coref	0	54		-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(185
+coref	0	1	Patents	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	3	1970	-	-	-	-	-	-	-	-	-	-	185)
+coref	0	4	is	-	-	-	-	-	-	-	-	-	-
+coref	0	5	the	-	-	-	-	-	-	-	-	-	-
+coref	0	6	legislation	-	-	-	-	-	-	-	-	-	-
+coref	0	7	that	-	-	-	-	-	-	-	-	-	-
+coref	0	8	till	-	-	-	-	-	-	-	-	-	-
+coref	0	9	date	-	-	-	-	-	-	-	-	-	-
+coref	0	10	governs	-	-	-	-	-	-	-	-	-	-
+coref	0	11	patents	-	-	-	-	-	-	-	-	-	-
+coref	0	12	in	-	-	-	-	-	-	-	-	-	-
+coref	0	13	India.	-	-	-	-	-	-	-	-	-	-
+coref	0	14	Section	-	-	-	-	-	-	-	-	-	-	(185
+coref	0	15	13(4)	-	-	-	-	-	-	-	-	-	-	185)
+coref	0	16	too,	-	-	-	-	-	-	-	-	-	-
+coref	0	17	does	-	-	-	-	-	-	-	-	-	-
+coref	0	18	not	-	-	-	-	-	-	-	-	-	-
+coref	0	19	deal	-	-	-	-	-	-	-	-	-	-
+coref	0	20	with	-	-	-	-	-	-	-	-	-	-
+coref	0	21	presumption	-	-	-	-	-	-	-	-	-	-
+coref	0	22	of	-	-	-	-	-	-	-	-	-	-
+coref	0	23	validity	-	-	-	-	-	-	-	-	-	-
+coref	0	24	of	-	-	-	-	-	-	-	-	-	-
+coref	0	25	a	-	-	-	-	-	-	-	-	-	-
+coref	0	26	granted	-	-	-	-	-	-	-	-	-	-
+coref	0	27	patent.	-	-	-	-	-	-	-	-	-	-
+coref	0	28	It	-	-	-	-	-	-	-	-	-	-	(185)
+coref	0	29	states	-	-	-	-	-	-	-	-	-	-
+coref	0	30	that	-	-	-	-	-	-	-	-	-	-
+coref	0	31	“the	-	-	-	-	-	-	-	-	-	-
+coref	0	32	examination	-	-	-	-	-	-	-	-	-	-
+coref	0	33	and	-	-	-	-	-	-	-	-	-	-
+coref	0	34	investigations	-	-	-	-	-	-	-	-	-	-
+coref	0	35	required	-	-	-	-	-	-	-	-	-	-
+coref	0	36	under	-	-	-	-	-	-	-	-	-	-
+coref	0	37	section	-	-	-	-	-	-	-	-	-	-	(185
+coref	0	38	12	-	-	-	-	-	-	-	-	-	-	185)
+coref	0	39	and	-	-	-	-	-	-	-	-	-	-
+coref	0	40	this	-	-	-	-	-	-	-	-	-	-
+coref	0	41	section	-	-	-	-	-	-	-	-	-	-
+coref	0	42	shall	-	-	-	-	-	-	-	-	-	-
+coref	0	43	not	-	-	-	-	-	-	-	-	-	-
+coref	0	44	be	-	-	-	-	-	-	-	-	-	-
+coref	0	45	deemed	-	-	-	-	-	-	-	-	-	-
+coref	0	46	in	-	-	-	-	-	-	-	-	-	-
+coref	0	47	any	-	-	-	-	-	-	-	-	-	-
+coref	0	48	way	-	-	-	-	-	-	-	-	-	-
+coref	0	49	to	-	-	-	-	-	-	-	-	-	-
+coref	0	50	warrant	-	-	-	-	-	-	-	-	-	-
+coref	0	51	the	-	-	-	-	-	-	-	-	-	-
+coref	0	52	validity	-	-	-	-	-	-	-	-	-	-
+coref	0	53	of	-	-	-	-	-	-	-	-	-	-
+coref	0	54	any	-	-	-	-	-	-	-	-	-	-
+coref	0	55	patent”.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	Insolvency	-	-	-	-	-	-	-	-	-	-	(186
+coref	0	1	and	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Bankruptcy	-	-	-	-	-	-	-	-	-	-
+coref	0	3	Code	-	-	-	-	-	-	-	-	-	-
+coref	0	4	2016	-	-	-	-	-	-	-	-	-	-	186)
+coref	0	5	an	-	-	-	-	-	-	-	-	-	-
+coref	0	6	Act	-	-	-	-	-	-	-	-	-	-
+coref	0	7	to	-	-	-	-	-	-	-	-	-	-
+coref	0	8	consolidate	-	-	-	-	-	-	-	-	-	-
+coref	0	9	and	-	-	-	-	-	-	-	-	-	-
+coref	0	10	amend	-	-	-	-	-	-	-	-	-	-
+coref	0	11	the	-	-	-	-	-	-	-	-	-	-
+coref	0	12	laws	-	-	-	-	-	-	-	-	-	-
+coref	0	13	relating	-	-	-	-	-	-	-	-	-	-
+coref	0	14	to	-	-	-	-	-	-	-	-	-	-
+coref	0	15	reorganisation	-	-	-	-	-	-	-	-	-	-
+coref	0	16	and	-	-	-	-	-	-	-	-	-	-
+coref	0	17	insolvency	-	-	-	-	-	-	-	-	-	-
+coref	0	18	resolution	-	-	-	-	-	-	-	-	-	-
+coref	0	19	of	-	-	-	-	-	-	-	-	-	-
+coref	0	20	corporate	-	-	-	-	-	-	-	-	-	-
+coref	0	21	persons.	-	-	-	-	-	-	-	-	-	-
+coref	0	22	There	-	-	-	-	-	-	-	-	-	-
+coref	0	23	is	-	-	-	-	-	-	-	-	-	-
+coref	0	24	no	-	-	-	-	-	-	-	-	-	-
+coref	0	25	disciplinary	-	-	-	-	-	-	-	-	-	-
+coref	0	26	proceeding	-	-	-	-	-	-	-	-	-	-
+coref	0	27	pending	-	-	-	-	-	-	-	-	-	-
+coref	0	28	against	-	-	-	-	-	-	-	-	-	-
+coref	0	29	any	-	-	-	-	-	-	-	-	-	-
+coref	0	30	resolution	-	-	-	-	-	-	-	-	-	-
+coref	0	31	professional	-	-	-	-	-	-	-	-	-	-
+coref	0	32	proposed	-	-	-	-	-	-	-	-	-	-
+coref	0	33	under	-	-	-	-	-	-	-	-	-	-
+coref	0	34	sub-section	-	-	-	-	-	-	-	-	-	-	(186
+coref	0	35	(4)	-	-	-	-	-	-	-	-	-	-	186)
+coref	0	36	if	-	-	-	-	-	-	-	-	-	-
+coref	0	37	any.	-	-	-	-	-	-	-	-	-	-
+coref	0	38	The	-	-	-	-	-	-	-	-	-	-
+coref	0	39	application	-	-	-	-	-	-	-	-	-	-
+coref	0	40	made	-	-	-	-	-	-	-	-	-	-
+coref	0	41	under	-	-	-	-	-	-	-	-	-	-
+coref	0	42	sub-section	-	-	-	-	-	-	-	-	-	-
+coref	0	43	(2)	-	-	-	-	-	-	-	-	-	-
+coref	0	44	is	-	-	-	-	-	-	-	-	-	-
+coref	0	45	incomplete.	-	-	-	-	-	-	-	-	-	-
+coref	0	46	Provided	-	-	-	-	-	-	-	-	-	-
+coref	0	47	that	-	-	-	-	-	-	-	-	-	-
+coref	0	48	Adjudicating	-	-	-	-	-	-	-	-	-	-
+coref	0	49	Authority,	-	-	-	-	-	-	-	-	-	-
+coref	0	50	shall	-	-	-	-	-	-	-	-	-	-
+coref	0	51	before	-	-	-	-	-	-	-	-	-	-
+coref	0	52	rejecting	-	-	-	-	-	-	-	-	-	-
+coref	0	53	an	-	-	-	-	-	-	-	-	-	-
+coref	0	54	application	-	-	-	-	-	-	-	-	-	-
+coref	0	55	under	-	-	-	-	-	-	-	-	-	-
+coref	0	56	sub-clause.	-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	Amway	-	-	-	-	-	-	-	-	-	-
+coref	0	1	relies	-	-	-	-	-	-	-	-	-	-
+coref	0	2	on	-	-	-	-	-	-	-	-	-	-
+coref	0	3	the	-	-	-	-	-	-	-	-	-	-
+coref	0	4	Direct	-	-	-	-	-	-	-	-	-	-
+coref	0	5	Selling	-	-	-	-	-	-	-	-	-	-
+coref	0	6	Guidelines	-	-	-	-	-	-	-	-	-	-
+coref	0	7	issued	-	-	-	-	-	-	-	-	-	-
+coref	0	8	by	-	-	-	-	-	-	-	-	-	-
+coref	0	9	the	-	-	-	-	-	-	-	-	-	-
+coref	0	10	Government	-	-	-	-	-	-	-	-	-	-
+coref	0	11	of	-	-	-	-	-	-	-	-	-	-
+coref	0	12	India	-	-	-	-	-	-	-	-	-	-
+coref	0	13	titled	-	-	-	-	-	-	-	-	-	-
+coref	0	14	Direct	-	-	-	-	-	-	-	-	-	-
+coref	0	15	Selling	-	-	-	-	-	-	-	-	-	-
+coref	0	16	Guidelines,	-	-	-	-	-	-	-	-	-	-
+coref	0	17	2016	-	-	-	-	-	-	-	-	-	-
+coref	0	18	dated	-	-	-	-	-	-	-	-	-	-
+coref	0	19	26th	-	-	-	-	-	-	-	-	-	-
+coref	0	20	October,	-	-	-	-	-	-	-	-	-	-
+coref	0	21	2016	-	-	-	-	-	-	-	-	-	-
+coref	0	22	(hereinafter,	-	-	-	-	-	-	-	-	-	-
+coref	0	23	Guidelines).	-	-	-	-	-	-	-	-	-	-
+coref	0	24	The	-	-	-	-	-	-	-	-	-	-	(187
+coref	0	25	Trade	-	-	-	-	-	-	-	-	-	-
+coref	0	26	Marks	-	-	-	-	-	-	-	-	-	-
+coref	0	27	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	28	1999	-	-	-	-	-	-	-	-	-	-	187)
+coref	0	29	is	-	-	-	-	-	-	-	-	-	-
+coref	0	30	an	-	-	-	-	-	-	-	-	-	-
+coref	0	31	act	-	-	-	-	-	-	-	-	-	-
+coref	0	32	to	-	-	-	-	-	-	-	-	-	-
+coref	0	33	amend	-	-	-	-	-	-	-	-	-	-
+coref	0	34	and	-	-	-	-	-	-	-	-	-	-
+coref	0	35	consolidate	-	-	-	-	-	-	-	-	-	-
+coref	0	36	the	-	-	-	-	-	-	-	-	-	-
+coref	0	37	law	-	-	-	-	-	-	-	-	-	-
+coref	0	38	relating	-	-	-	-	-	-	-	-	-	-
+coref	0	39	to	-	-	-	-	-	-	-	-	-	-
+coref	0	40	trade	-	-	-	-	-	-	-	-	-	-
+coref	0	41	marks,	-	-	-	-	-	-	-	-	-	-
+coref	0	42	to	-	-	-	-	-	-	-	-	-	-
+coref	0	43	provide	-	-	-	-	-	-	-	-	-	-
+coref	0	44	for	-	-	-	-	-	-	-	-	-	-
+coref	0	45	registration	-	-	-	-	-	-	-	-	-	-
+coref	0	46	and	-	-	-	-	-	-	-	-	-	-
+coref	0	47	better	-	-	-	-	-	-	-	-	-	-
+coref	0	48	protection	-	-	-	-	-	-	-	-	-	-
+coref	0	49	of	-	-	-	-	-	-	-	-	-	-
+coref	0	50	trade	-	-	-	-	-	-	-	-	-	-
+coref	0	51	marks	-	-	-	-	-	-	-	-	-	-
+coref	0	52	for	-	-	-	-	-	-	-	-	-	-
+coref	0	53	goods	-	-	-	-	-	-	-	-	-	-
+coref	0	54	and	-	-	-	-	-	-	-	-	-	-
+coref	0	55	services	-	-	-	-	-	-	-	-	-	-
+coref	0	56	and	-	-	-	-	-	-	-	-	-	-
+coref	0	57	for	-	-	-	-	-	-	-	-	-	-
+coref	0	58	the	-	-	-	-	-	-	-	-	-	-
+coref	0	59	prevention	-	-	-	-	-	-	-	-	-	-
+coref	0	60	of	-	-	-	-	-	-	-	-	-	-
+coref	0	61	the	-	-	-	-	-	-	-	-	-	-
+coref	0	62	use	-	-	-	-	-	-	-	-	-	-
+coref	0	63	of	-	-	-	-	-	-	-	-	-	-
+coref	0	64	fraudulent	-	-	-	-	-	-	-	-	-	-
+coref	0	65	marks.The	-	-	-	-	-	-	-	-	-	-
+coref	0	66	condition	-	-	-	-	-	-	-	-	-	-
+coref	0	67	in	-	-	-	-	-	-	-	-	-	-
+coref	0	68	the	-	-	-	-	-	-	-	-	-	-
+coref	0	69	Direct	-	-	-	-	-	-	-	-	-	-
+coref	0	70	Selling	-	-	-	-	-	-	-	-	-	-
+coref	0	71	Guidelines	-	-	-	-	-	-	-	-	-	-
+coref	0	72	which	-	-	-	-	-	-	-	-	-	-
+coref	0	73	prohibits	-	-	-	-	-	-	-	-	-	-
+coref	0	74	sale	-	-	-	-	-	-	-	-	-	-
+coref	0	75	on	-	-	-	-	-	-	-	-	-	-
+coref	0	76	e-commerce	-	-	-	-	-	-	-	-	-	-
+coref	0	77	platforms	-	-	-	-	-	-	-	-	-	-
+coref	0	78	is	-	-	-	-	-	-	-	-	-	-
+coref	0	79	violative	-	-	-	-	-	-	-	-	-	-
+coref	0	80	of	-	-	-	-	-	-	-	-	-	-
+coref	0	81	Section	-	-	-	-	-	-	-	-	-	-	(187
+coref	0	82	30	-	-	-	-	-	-	-	-	-	-	187)
+coref	0	83	of	-	-	-	-	-	-	-	-	-	-
+coref	0	84	the	-	-	-	-	-	-	-	-	-	-
+coref	0	85	Trademark	-	-	-	-	-	-	-	-	-	-
+coref	0	86	Act.	-	-	-	-	-	-	-	-	-	-
+coref	0	87		-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(188
+coref	0	1	Price	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Chits	-	-	-	-	-	-	-	-	-	-
+coref	0	3	and	-	-	-	-	-	-	-	-	-	-
+coref	0	4	Money	-	-	-	-	-	-	-	-	-	-
+coref	0	5	Circulation	-	-	-	-	-	-	-	-	-	-
+coref	0	6	Schemes	-	-	-	-	-	-	-	-	-	-
+coref	0	7	(Banning)	-	-	-	-	-	-	-	-	-	-
+coref	0	8	Act,	-	-	-	-	-	-	-	-	-	-
+coref	0	9	1978	-	-	-	-	-	-	-	-	-	-	188)
+coref	0	10	is	-	-	-	-	-	-	-	-	-	-
+coref	0	11	an	-	-	-	-	-	-	-	-	-	-
+coref	0	12	act	-	-	-	-	-	-	-	-	-	-
+coref	0	13	to	-	-	-	-	-	-	-	-	-	-
+coref	0	14	ban	-	-	-	-	-	-	-	-	-	-
+coref	0	15	the	-	-	-	-	-	-	-	-	-	-
+coref	0	16	promotion	-	-	-	-	-	-	-	-	-	-
+coref	0	17	or	-	-	-	-	-	-	-	-	-	-
+coref	0	18	conduct	-	-	-	-	-	-	-	-	-	-
+coref	0	19	of	-	-	-	-	-	-	-	-	-	-
+coref	0	20	prize	-	-	-	-	-	-	-	-	-	-
+coref	0	21	chits	-	-	-	-	-	-	-	-	-	-
+coref	0	22	and	-	-	-	-	-	-	-	-	-	-
+coref	0	23	money	-	-	-	-	-	-	-	-	-	-
+coref	0	24	circulation	-	-	-	-	-	-	-	-	-	-
+coref	0	25	schemes	-	-	-	-	-	-	-	-	-	-
+coref	0	26	and	-	-	-	-	-	-	-	-	-	-
+coref	0	27	for	-	-	-	-	-	-	-	-	-	-
+coref	0	28	matters	-	-	-	-	-	-	-	-	-	-
+coref	0	29	connected	-	-	-	-	-	-	-	-	-	-
+coref	0	30	therewith	-	-	-	-	-	-	-	-	-	-
+coref	0	31	or	-	-	-	-	-	-	-	-	-	-
+coref	0	32	incidental	-	-	-	-	-	-	-	-	-	-
+coref	0	33	thereto.	-	-	-	-	-	-	-	-	-	-
+coref	0	34	Amway	-	-	-	-	-	-	-	-	-	-
+coref	0	35	relies	-	-	-	-	-	-	-	-	-	-
+coref	0	36	on	-	-	-	-	-	-	-	-	-	-
+coref	0	37	the	-	-	-	-	-	-	-	-	-	-
+coref	0	38	Direct	-	-	-	-	-	-	-	-	-	-
+coref	0	39	Selling	-	-	-	-	-	-	-	-	-	-
+coref	0	40	Guidelines	-	-	-	-	-	-	-	-	-	-
+coref	0	41	issued	-	-	-	-	-	-	-	-	-	-
+coref	0	42	by	-	-	-	-	-	-	-	-	-	-
+coref	0	43	the	-	-	-	-	-	-	-	-	-	-
+coref	0	44	Government	-	-	-	-	-	-	-	-	-	-
+coref	0	45	of	-	-	-	-	-	-	-	-	-	-
+coref	0	46	India	-	-	-	-	-	-	-	-	-	-
+coref	0	47	titled	-	-	-	-	-	-	-	-	-	-
+coref	0	48	Direct	-	-	-	-	-	-	-	-	-	-
+coref	0	49	Selling	-	-	-	-	-	-	-	-	-	-
+coref	0	50	Guidelines,	-	-	-	-	-	-	-	-	-	-
+coref	0	51	2016	-	-	-	-	-	-	-	-	-	-
+coref	0	52	dated	-	-	-	-	-	-	-	-	-	-
+coref	0	53	26th	-	-	-	-	-	-	-	-	-	-
+coref	0	54	October,	-	-	-	-	-	-	-	-	-	-
+coref	0	55	2016	-	-	-	-	-	-	-	-	-	-
+coref	0	56	(hereinafter,	-	-	-	-	-	-	-	-	-	-
+coref	0	57	Guidelines).	-	-	-	-	-	-	-	-	-	-
+coref	0	58	The	-	-	-	-	-	-	-	-	-	-	(188
+coref	0	59	said	-	-	-	-	-	-	-	-	-	-
+coref	0	60	Act	-	-	-	-	-	-	-	-	-	-	188)
+coref	0	61	failed	-	-	-	-	-	-	-	-	-	-
+coref	0	62	to	-	-	-	-	-	-	-	-	-	-
+coref	0	63	distinguish	-	-	-	-	-	-	-	-	-	-
+coref	0	64	between	-	-	-	-	-	-	-	-	-	-
+coref	0	65	genuine	-	-	-	-	-	-	-	-	-	-
+coref	0	66	direct	-	-	-	-	-	-	-	-	-	-
+coref	0	67	selling	-	-	-	-	-	-	-	-	-	-
+coref	0	68	activities	-	-	-	-	-	-	-	-	-	-
+coref	0	69	from	-	-	-	-	-	-	-	-	-	-
+coref	0	70	illegal	-	-	-	-	-	-	-	-	-	-
+coref	0	71	money	-	-	-	-	-	-	-	-	-	-
+coref	0	72	circulation	-	-	-	-	-	-	-	-	-	-
+coref	0	73	schemes.	-	-	-	-	-	-	-	-	-	-
+coref	0	74	This	-	-	-	-	-	-	-	-	-	-
+coref	0	75	resulted	-	-	-	-	-	-	-	-	-	-
+coref	0	76	in	-	-	-	-	-	-	-	-	-	-
+coref	0	77	victimization	-	-	-	-	-	-	-	-	-	-
+coref	0	78	of	-	-	-	-	-	-	-	-	-	-
+coref	0	79	the	-	-	-	-	-	-	-	-	-	-
+coref	0	80	Direct	-	-	-	-	-	-	-	-	-	-
+coref	0	81	Selling	-	-	-	-	-	-	-	-	-	-
+coref	0	82	Entities	-	-	-	-	-	-	-	-	-	-
+coref	0	83	by	-	-	-	-	-	-	-	-	-	-
+coref	0	84	the	-	-	-	-	-	-	-	-	-	-
+coref	0	85	State	-	-	-	-	-	-	-	-	-	-
+coref	0	86	police	-	-	-	-	-	-	-	-	-	-
+coref	0	87	authorities	-	-	-	-	-	-	-	-	-	-
+coref	0	88	under	-	-	-	-	-	-	-	-	-	-
+coref	0	89	the	-	-	-	-	-	-	-	-	-	-
+coref	0	90	provisions	-	-	-	-	-	-	-	-	-	-
+coref	0	91	of	-	-	-	-	-	-	-	-	-	-
+coref	0	92	the	-	-	-	-	-	-	-	-	-	-   (188
+coref	0	93	PCMCS	-	-	-	-	-	-	-	-	-	-
+coref	0	94	Act.	-	-	-	-	-	-	-	-	-	-   188)
+coref	0	95		-	-	-	-	-	-	-	-	-	-
+coref	0	96		-	-	-	-	-	-	-	-	-	-
+
+coref	0	0	The	-	-	-	-	-	-	-	-	-	-	(189
+coref	0	1	Information	-	-	-	-	-	-	-	-	-	-
+coref	0	2	Technology	-	-	-	-	-	-	-	-	-	-
+coref	0	3	Act	-	-	-	-	-	-	-	-	-	-	189)
+coref	0	4	is	-	-	-	-	-	-	-	-	-	-
+coref	0	5	an	-	-	-	-	-	-	-	-	-	-
+coref	0	6	act	-	-	-	-	-	-	-	-	-	-
+coref	0	7	to	-	-	-	-	-	-	-	-	-	-
+coref	0	8	provide	-	-	-	-	-	-	-	-	-	-
+coref	0	9	legal	-	-	-	-	-	-	-	-	-	-
+coref	0	10	recognition	-	-	-	-	-	-	-	-	-	-
+coref	0	11	for	-	-	-	-	-	-	-	-	-	-
+coref	0	12	transactions	-	-	-	-	-	-	-	-	-	-
+coref	0	13	carried	-	-	-	-	-	-	-	-	-	-
+coref	0	14	out	-	-	-	-	-	-	-	-	-	-
+coref	0	15	by	-	-	-	-	-	-	-	-	-	-
+coref	0	16	means	-	-	-	-	-	-	-	-	-	-
+coref	0	17	of	-	-	-	-	-	-	-	-	-	-
+coref	0	18	electronic	-	-	-	-	-	-	-	-	-	-
+coref	0	19	data	-	-	-	-	-	-	-	-	-	-
+coref	0	20	interchange	-	-	-	-	-	-	-	-	-	-
+coref	0	21	and	-	-	-	-	-	-	-	-	-	-
+coref	0	22	other	-	-	-	-	-	-	-	-	-	-
+coref	0	23	means	-	-	-	-	-	-	-	-	-	-
+coref	0	24	of	-	-	-	-	-	-	-	-	-	-
+coref	0	25	electronic	-	-	-	-	-	-	-	-	-	-
+coref	0	26	communication.	-	-	-	-	-	-	-	-	-	-
+coref	0	27	Modicare	-	-	-	-	-	-	-	-	-	-
+coref	0	28	claims	-	-	-	-	-	-	-	-	-	-
+coref	0	29	that	-	-	-	-	-	-	-	-	-	-
+coref	0	30	the	-	-	-	-	-	-	-	-	-	-
+coref	0	31	large	-	-	-	-	-	-	-	-	-	-
+coref	0	32	bundle	-	-	-	-	-	-	-	-	-	-
+coref	0	33	of	-	-	-	-	-	-	-	-	-	-
+coref	0	34	services	-	-	-	-	-	-	-	-	-	-
+coref	0	35	being	-	-	-	-	-	-	-	-	-	-
+coref	0	36	offered	-	-	-	-	-	-	-	-	-	-
+coref	0	37	by	-	-	-	-	-	-	-	-	-	-
+coref	0	38	Amazon	-	-	-	-	-	-	-	-	-	-
+coref	0	39	for	-	-	-	-	-	-	-	-	-	-
+coref	0	40	use	-	-	-	-	-	-	-	-	-	-
+coref	0	41	of	-	-	-	-	-	-	-	-	-	-
+coref	0	42	its	-	-	-	-	-	-	-	-	-	-
+coref	0	43	platform,	-	-	-	-	-	-	-	-	-	-
+coref	0	44	brings	-	-	-	-	-	-	-	-	-	-
+coref	0	45	it	-	-	-	-	-	-	-	-	-	-
+coref	0	46	out	-	-	-	-	-	-	-	-	-	-
+coref	0	47	of	-	-	-	-	-	-	-	-	-	-
+coref	0	48	the	-	-	-	-	-	-	-	-	-	-
+coref	0	49	ambit	-	-	-	-	-	-	-	-	-	-
+coref	0	50	of	-	-	-	-	-	-	-	-	-	-
+coref	0	51	being	-	-	-	-	-	-	-	-	-	-
+coref	0	52	an	-	-	-	-	-	-	-	-	-	-
+coref	0	53	―intermediar	-	-	-	-	-	-	-	-	-	-
+coref	0	54	within	-	-	-	-	-	-	-	-	-	-
+coref	0	55	the	-	-	-	-	-	-	-	-	-	-
+coref	0	56	meaning	-	-	-	-	-	-	-	-	-	-
+coref	0	57	of	-	-	-	-	-	-	-	-	-	-
+coref	0	58	the	-	-	-	-	-	-	-	-	-	-
+coref	0	59	term	-	-	-	-	-	-	-	-	-	-
+coref	0	60	under	-	-	-	-	-	-	-	-	-	-
+coref	0	61	the	-	-	-	-	-	-	-	-	-	-	(189
+coref	0	62	IT	-	-	-	-	-	-	-	-	-	-
+coref	0	63	Act	-	-	-	-	-	-	-	-	-	-	189)
+coref	0	64	and	-	-	-	-	-	-	-	-	-	-
+coref	0	65	thus,	-	-	-	-	-	-	-	-	-	-
+coref	0	66	the	-	-	-	-	-	-	-	-	-	-
+coref	0	67	safe	-	-	-	-	-	-	-	-	-	-
+coref	0	68	harbour	-	-	-	-	-	-	-	-	-	-
+coref	0	69	provisions	-	-	-	-	-	-	-	-	-	-
+coref	0	70	under	-	-	-	-	-	-	-	-	-	-
+coref	0	71	Section	-	-	-	-	-	-	-	-	-	-	(189
+coref	0	72	79	-	-	-	-	-	-	-	-	-	-	189)
+coref	0	73	of	-	-	-	-	-	-	-	-	-	-
+coref	0	74	the	-	-	-	-	-	-	-	-	-	-
+coref	0	75	IT	-	-	-	-	-	-	-	-	-	-
+coref	0	76	Act	-	-	-	-	-	-	-	-	-	-
+coref	0	77	are	-	-	-	-	-	-	-	-	-	-
+coref	0	78	not	-	-	-	-	-	-	-	-	-	-
+coref	0	79	available	-	-	-	-	-	-	-	-	-	-
+coref	0	80	to	-	-	-	-	-	-	-	-	-	-
+coref	0	81	Amazon.	-	-	-	-	-	-	-	-	-	-
+coref	0	82		-	-	-	-	-	-	-	-	-	-
+
+#end document

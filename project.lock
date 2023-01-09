@@ -1,0 +1,120 @@
+preprocess:
+  cmd: python -m spacy run preprocess
+  script:
+    - python scripts/preprocess.py /content/drive/MyDrive/coref/coref.conll corpus/train.spacy
+    - python scripts/preprocess.py /content/drive/MyDrive/coref/coref.conll corpus/dev.spacy
+    - python scripts/preprocess.py /content/drive/MyDrive/coref/coref.conll corpus/test.spacy
+  deps:
+    - path: /content/drive/MyDrive/coref/coref.conll
+      md5: a4acb86d45c86da89baa78a4afc8775e
+    - path: /content/drive/MyDrive/coref/coref.conll
+      md5: a4acb86d45c86da89baa78a4afc8775e
+    - path: /content/drive/MyDrive/coref/coref.conll
+      md5: a4acb86d45c86da89baa78a4afc8775e
+    - path: scripts/preprocess.py
+      md5: 3796213009487005e8e5ff2b56305286
+  outs:
+    - path: corpus/train.spacy
+      md5: 413c27ca6d8cfd19b08856f5bc6d188e
+    - path: corpus/dev.spacy
+      md5: 413c27ca6d8cfd19b08856f5bc6d188e
+    - path: corpus/test.spacy
+      md5: 413c27ca6d8cfd19b08856f5bc6d188e
+  spacy_version: 3.4.4
+  spacy_git_version: Unknown
+prep-artificial-unit-test-data:
+  cmd: python -m spacy run prep-artificial-unit-test-data
+  script:
+    - python scripts/preprocess.py /content/drive/MyDrive/coref/coref.conll corpus/train.spacy
+    - python scripts/preprocess.py /content/drive/MyDrive/coref/coref.conll corpus/dev.spacy
+    - python scripts/preprocess.py /content/drive/MyDrive/coref/coref.conll corpus/test.spacy
+  deps:
+    - path: /content/drive/MyDrive/coref/coref.conll
+      md5: 94c6db3a363cf04264656c37d5c6936a
+    - path: scripts/preprocess.py
+      md5: 3796213009487005e8e5ff2b56305286
+  outs:
+    - path: corpus/train.spacy
+      md5: 52848c9a35427230a59e48c5529a91a0
+    - path: corpus/dev.spacy
+      md5: 52848c9a35427230a59e48c5529a91a0
+    - path: corpus/test.spacy
+      md5: 52848c9a35427230a59e48c5529a91a0
+  spacy_version: 3.4.4
+  spacy_git_version: Unknown
+train-cluster:
+  cmd: python -m spacy run train-cluster
+  script:
+    - python -m spacy train configs//cluster.cfg -g 0 --paths.train corpus/train.spacy
+      --paths.dev corpus/dev.spacy -o training/cluster --training.max_epochs 20
+  deps:
+    - path: corpus/train.spacy
+      md5: 413c27ca6d8cfd19b08856f5bc6d188e
+    - path: corpus/dev.spacy
+      md5: 413c27ca6d8cfd19b08856f5bc6d188e
+    - path: configs//cluster.cfg
+      md5: 369a18958588bced47f768271e003f27
+  outs:
+    - path: training/cluster/model-best
+      md5: 00bb58962834fcc1e5699a41bc7f3614
+  spacy_version: 3.4.4
+  spacy_git_version: Unknown
+prep-span-data:
+  cmd: python -m spacy run prep-span-data
+  script:
+    - python scripts/prep_span_data.py --heads silver --model-path training/cluster/model-best/
+      --gpu 0 --input-path corpus/train.spacy --output-path corpus/spans.train.spacy
+      --head-prefix coref_head_clusters --span-prefix coref_clusters
+    - python scripts/prep_span_data.py --heads silver --model-path training/cluster/model-best/
+      --gpu 0 --input-path corpus/dev.spacy --output-path corpus/spans.dev.spacy --head-prefix
+      coref_head_clusters --span-prefix coref_clusters
+  deps:
+    - path: scripts/prep_span_data.py
+      md5: c2cbe4d3415b5a0714ce59d92b9a0c98
+    - path: corpus/train.spacy
+      md5: 413c27ca6d8cfd19b08856f5bc6d188e
+    - path: corpus/dev.spacy
+      md5: 413c27ca6d8cfd19b08856f5bc6d188e
+    - path: training/cluster/model-best
+      md5: 00bb58962834fcc1e5699a41bc7f3614
+  outs:
+    - path: corpus/spans.train.spacy
+      md5: bbe63bf72f63377d647f4fa49b6e9f61
+    - path: corpus/spans.dev.spacy
+      md5: bbe63bf72f63377d647f4fa49b6e9f61
+  spacy_version: 3.4.4
+  spacy_git_version: Unknown
+assemble:
+  cmd: python -m spacy run assemble
+  script:
+    - spacy assemble configs//coref.cfg training/coref
+  deps:
+    - path: training/cluster/model-best
+      md5: 6826438396db68863fcaa266411595b8
+    - path: training/span_resolver/model-best
+      md5: d85c35d9975149742acd78296ea9f3e2
+    - path: configs//coref.cfg
+      md5: ed6e5cbaa35fef727e90c75ba71acef9
+  outs: []
+  spacy_version: 3.4.4
+  spacy_git_version: Unknown
+train-span-resolver:
+  cmd: python -m spacy run train-span-resolver
+  script:
+    - spacy train configs//span.cfg -c scripts/custom_functions.py -g 0 --paths.train
+      corpus/spans.train.spacy --paths.dev corpus/spans.dev.spacy --training.max_epochs
+      20 --paths.transformer_source training/cluster/model-best -o training/span_resolver
+  deps:
+    - path: corpus/spans.train.spacy
+      md5: 4fcd5faa3fcdccdeaaa369bc9e1ef088
+    - path: corpus/spans.dev.spacy
+      md5: 4fcd5faa3fcdccdeaaa369bc9e1ef088
+    - path: configs//span.cfg
+      md5: 9eba789c1d2d6a2b9874391b525fc703
+    - path: training/cluster/model-best
+      md5: 6826438396db68863fcaa266411595b8
+  outs:
+    - path: training/span_resolver/model-best
+      md5: d85c35d9975149742acd78296ea9f3e2
+  spacy_version: 3.4.4
+  spacy_git_version: Unknown
