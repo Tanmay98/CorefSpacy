@@ -1,0 +1,110 @@
+================================= preprocess =================================
+Running command: /usr/bin/python3 scripts/preprocess.py /content/drive/MyDrive/coref/coref.conll corpus/train.spacy
+Serializing 97 documents
+Running command: /usr/bin/python3 scripts/preprocess.py /content/drive/MyDrive/coref/coref.conll corpus/dev.spacy
+Serializing 97 documents
+Running command: /usr/bin/python3 scripts/preprocess.py /content/drive/MyDrive/coref/coref.conll corpus/test.spacy
+Serializing 97 documents
+
+=============================== train-cluster ===============================
+Running command: /usr/bin/python3 -m spacy train configs//cluster.cfg -g 0 --paths.train corpus/train.spacy --paths.dev corpus/dev.spacy -o training/cluster --training.max_epochs 20
+✔ Created output directory: training/cluster
+ℹ Saving to output directory: training/cluster
+ℹ Using GPU: 0
+
+=========================== Initializing pipeline ===========================
+[2023-01-20 04:01:27,755] [INFO] Set up nlp object from config
+INFO:spacy:Set up nlp object from config
+[2023-01-20 04:01:27,766] [INFO] Pipeline: ['transformer', 'coref']
+INFO:spacy:Pipeline: ['transformer', 'coref']
+[2023-01-20 04:01:27,769] [INFO] Created vocabulary
+INFO:spacy:Created vocabulary
+[2023-01-20 04:01:27,770] [INFO] Finished initializing nlp object
+INFO:spacy:Finished initializing nlp object
+Downloading: 100% 481/481 [00:00<00:00, 540kB/s]
+Downloading: 100% 899k/899k [00:01<00:00, 677kB/s]
+Downloading: 100% 456k/456k [00:01<00:00, 407kB/s]
+Downloading: 100% 1.36M/1.36M [00:01<00:00, 1.02MB/s]
+Downloading: 100% 501M/501M [00:04<00:00, 113MB/s]
+Some weights of the model checkpoint at roberta-base were not used when initializing RobertaModel: ['lm_head.layer_norm.weight', 'lm_head.bias', 'lm_head.dense.weight', 'lm_head.decoder.weight', 'lm_head.dense.bias', 'lm_head.layer_norm.bias']
+- This IS expected if you are initializing RobertaModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing RobertaModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Could not load symbol cublasGetSmCountTarget from libcublas.so.11. Error: /usr/local/cuda/targets/x86_64-linux/lib/libcublas.so.11: undefined symbol: cublasGetSmCountTarget
+[2023-01-20 04:02:04,465] [INFO] Initialized pipeline components: ['transformer', 'coref']
+INFO:spacy:Initialized pipeline components: ['transformer', 'coref']
+✔ Initialized pipeline
+
+============================= Training pipeline =============================
+ℹ Pipeline: ['transformer', 'coref']
+ℹ Initial learn rate: 0.0
+E    #       LOSS TRANS...  LOSS COREF  COREF_F  COREF_P  COREF_R  SCORE 
+---  ------  -------------  ----------  -------  -------  -------  ------
+  0       0          16.83       79.52     0.20     0.10     6.25    0.00
+✔ Saved pipeline to output directory
+training/cluster/model-last
+
+=============================== prep-span-data ===============================
+Running command: /usr/bin/python3 scripts/prep_span_data.py --heads silver --model-path training/cluster/model-best/ --gpu 0 --input-path corpus/train.spacy --output-path corpus/spans.train.spacy --head-prefix coref_head_clusters --span-prefix coref_clusters
+0it [00:00, ?it/s]Could not load symbol cublasGetSmCountTarget from libcublas.so.11. Error: /usr/local/cuda/targets/x86_64-linux/lib/libcublas.so.11: undefined symbol: cublasGetSmCountTarget
+97it [00:00, 161.34it/s]
+Processed 97 documents and skipped 96
+Found 54 heads with 0 duplicates
+Found target spans for 13 heads.
+Running command: /usr/bin/python3 scripts/prep_span_data.py --heads silver --model-path training/cluster/model-best/ --gpu 0 --input-path corpus/dev.spacy --output-path corpus/spans.dev.spacy --head-prefix coref_head_clusters --span-prefix coref_clusters
+0it [00:00, ?it/s]Could not load symbol cublasGetSmCountTarget from libcublas.so.11. Error: /usr/local/cuda/targets/x86_64-linux/lib/libcublas.so.11: undefined symbol: cublasGetSmCountTarget
+97it [00:00, 164.75it/s]
+Processed 97 documents and skipped 96
+Found 54 heads with 0 duplicates
+Found target spans for 13 heads.
+
+============================ train-span-resolver ============================
+Running command: spacy train configs//span.cfg -c scripts/custom_functions.py -g 0 --paths.train corpus/spans.train.spacy --paths.dev corpus/spans.dev.spacy --training.max_epochs 20 --paths.transformer_source training/cluster/model-best -o training/span_resolver
+✔ Created output directory: training/span_resolver
+ℹ Saving to output directory: training/span_resolver
+ℹ Using GPU: 0
+
+=========================== Initializing pipeline ===========================
+[2023-01-20 04:03:58,343] [INFO] Set up nlp object from config
+INFO:spacy:Set up nlp object from config
+[2023-01-20 04:03:58,352] [INFO] Pipeline: ['sentencizer', 'transformer', 'span_resolver']
+INFO:spacy:Pipeline: ['sentencizer', 'transformer', 'span_resolver']
+[2023-01-20 04:03:58,352] [INFO] Resuming training for: ['transformer']
+INFO:spacy:Resuming training for: ['transformer']
+[2023-01-20 04:03:58,356] [INFO] Created vocabulary
+INFO:spacy:Created vocabulary
+[2023-01-20 04:03:58,356] [INFO] Finished initializing nlp object
+INFO:spacy:Finished initializing nlp object
+[2023-01-20 04:04:01,903] [INFO] Initialized pipeline components: ['sentencizer', 'span_resolver']
+INFO:spacy:Initialized pipeline components: ['sentencizer', 'span_resolver']
+✔ Initialized pipeline
+
+============================= Training pipeline =============================
+ℹ Pipeline: ['sentencizer', 'transformer', 'span_resolver']
+ℹ Set annotations on update for: ['sentencizer']
+ℹ Initial learn rate: 0.0001
+E    #       LOSS TRANS...  LOSS SPAN_...  SENTS_F  SPAN_COREF...  SCORE 
+---  ------  -------------  -------------  -------  -------------  ------
+  0       0           0.00          24.92     0.00           0.00    0.00
+✔ Saved pipeline to output directory
+training/span_resolver/model-last
+
+================================== assemble ==================================
+Running command: spacy assemble configs//coref.cfg training/coref
+
+=========================== Initializing pipeline ===========================
+[2023-01-20 04:04:44,211] [INFO] Created vocabulary
+INFO:spacy:Created vocabulary
+[2023-01-20 04:04:44,212] [INFO] Finished initializing nlp object
+INFO:spacy:Finished initializing nlp object
+✔ Initialized pipeline
+
+============================ Serializing to disk ============================
+✔ Created output directory: training/coref
+
+============================ Sample Test on a sentence, I/O ============================
+doc = nlp_coref("The Code of Criminal Procedure commonly called Criminal Procedure Code ( CrPC ) is the main legislation on procedure for administration of substantive criminal law in India . Indian Penal Code is the official criminal code of India . This application under Section 438 Cr . P.C. has been filed for grant of bail to the petitioner in the event of arrest in FIR No . 56/2018 dated 11.02.2018 , registered at PS Model Town for offences under Sections 498 - A , 406 and 34 of IPC . ")
+
+"""
+The Code of Criminal Procedure commonly called Criminal Procedure Code ( CrPC ) is the main legislation 
+ The Code of Criminal Procedure commonly called Criminal Procedure Code ( CrPC ) is the main legislation on procedure for administration of substantive
+"""
